@@ -37975,7 +37975,28 @@
     "EpisodeCurrentHint": "الأرقام",
     "EpisodeParts": "332",
     "EpisodeFilterAdvanced": "3RM0 4KM0 5AY1 6MT1 7GK1 8AH1 31JM1 34WT1 35KC1",
-    "EpisodeVideosIDs": null
+    "EpisodeVideosIDs": [
+      {
+        "VideoID": "BAACAgQAAxkBAAIXBWd_6ayDJW74gU-uPRfSuhU6Gi_dAAKKGQACLSupUxHuXPMBAuMdNgQ",
+        "Resolution": "1080p",
+        "Size": "278.9"
+      },
+      {
+        "VideoID": "BAACAgEAAxkBAAIXBmd_6bt6PVZY-qwMblKfBA9LbjHBAALtBAACH-LIR91OX4kZFEF3NgQ",
+        "Resolution": "720p",
+        "Size": "248"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIXB2d_6cG34KVoK5M4XjqYVP85gNIVAAKOFgACBdvRUxuLrWTLoWnbNgQ",
+        "Resolution": "480p",
+        "Size": "72.51"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIXCGd_6c2yrzk7MY9PE6SXaYYU_FaJAAJLFQACy1XQU2GftC3xhCBONgQ",
+        "Resolution": "360p",
+        "Size": "52.33"
+      }
+    ]
   },
   {
     "EpisodeNumber": "1147",
@@ -37998,11 +38019,22 @@
     "EpisodeCurrentHint": "دوامة المرح",
     "EpisodeParts": "334",
     "EpisodeFilterAdvanced": "5AY1 6MT1 7GK1 8AH1 34WT1 35KC1",
-    "EpisodeVideosIDs": null
+    "EpisodeVideosIDs": [
+      {
+        "VideoID": "BAACAgQAAxkBAAIXCWd_6pIIZ3q3XmDZfveFuRXYFwXWAAJkGAAC6hnQU5hbeu7vEtWfNgQ",
+        "Resolution": "1080p",
+        "Size": "294.76"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIXC2d_60bGpejw8lNCnXBUd0apg3qYAAJxGAAC6hnQU5Dkdp95Vd7uNgQ",
+        "Resolution": "360p",
+        "Size": "75.78"
+      }
+    ]
   },
   {
     "EpisodeNumber": "1148",
-    "EpisodeTitle": "فريق المتحرين الصغار والقائدان (الجزء الأول)",
+    "EpisodeTitle": "المتحرين الصغار والقائدان (الجزء الأول)",
     "EpisodeType": "م",
     "EpisodeSpecial": "",
     "EpisodeStory": "بين أمواج هادئة ورمال ذهبية، تطفو على السطح ذكرى حادث أليم من الماضي، لتوقظ أشباحاً ظنّت أنّها رقدت بسلام. في جنبات مسكن ساحلي، تلفّ جريمة مروعة المكان، تاركة وراءها أسئلة معلقة في الهواء. خيوط متشابكة تجمع بين ساكني المكان، وتثير الشكوك حول دوافع دفينة وأسرار تُكشف في العتمة. هل يُمكن لظلال الماضي أن تلقي بآثارها على الحاضر؟ وهل ستتكشف الحقيقة قبل أن يبتلعها رمال النسيان؟",
@@ -38021,11 +38053,32 @@
     "EpisodeCurrentHint": "عصير الجريب فروت",
     "EpisodeParts": "338",
     "EpisodeFilterAdvanced": "5AY1 6MT1 7GK1 9HA1 29RW1 24SO1 51SY1 9HA2 59SA2",
-    "EpisodeVideosIDs": null
+    "EpisodeVideosIDs": [
+      {
+        "VideoID": "BAACAgQAAxkBAAIXDGd_63iEMuf8NkKVXB8g3_Bwftz8AAJuEgAC2_LYU6_CMB3udyXkNgQ",
+        "Resolution": "1080p",
+        "Size": "519.16"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIXDmd_65kT0JDNiT3qIexu6HLtWI5nAAKpFgACBdvRU4wKYh0katRrNgQ",
+        "Resolution": "720p",
+        "Size": "228.58"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIXD2d_66EuH2veetEZNddFrZCR5uynAAKxFAACOHXQU7J0RqV6c1OtNgQ",
+        "Resolution": "480p",
+        "Size": "101.14"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIXDWd_64ljLBK_RfuNgqllTJoLVmQrAAKwFAACOHXQU5IRXbhythf2NgQ",
+        "Resolution": "360p",
+        "Size": "76.9"
+      }
+    ]
   },
   {
     "EpisodeNumber": "1149",
-    "EpisodeTitle": "فريق المتحرين الصغار والقائدان (الجزء الثاني)",
+    "EpisodeTitle": "المتحرين الصغار والقائدان (الجزء الثاني)",
     "EpisodeType": "م",
     "EpisodeSpecial": "",
     "EpisodeStory": "بين أمواج هادئة ورمال ذهبية، تطفو على السطح ذكرى حادث أليم من الماضي، لتوقظ أشباحاً ظنّت أنّها رقدت بسلام. في جنبات مسكن ساحلي، تلفّ جريمة مروعة المكان، تاركة وراءها أسئلة معلقة في الهواء. خيوط متشابكة تجمع بين ساكني المكان، وتثير الشكوك حول دوافع دفينة وأسرار تُكشف في العتمة. هل يُمكن لظلال الماضي أن تلقي بآثارها على الحاضر؟ وهل ستتكشف الحقيقة قبل أن يبتلعها رمال النسيان؟",
