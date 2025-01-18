@@ -43497,7 +43497,7 @@
     "EpisodeSeason": "الثلاثون",
     "EpisodeSeasonCount": "4",
     "EpisodeNotes": "",
-    "EpisodeEvents": "ط ج ف",
+    "EpisodeEvents": "ط ف ج",
     "EpisodeBCDate": "2025-01-04",
     "EpisodeRRDate": "",
     "EpisodeRMDate": "",
@@ -43558,7 +43558,7 @@
     "EpisodeSeason": "الثلاثون",
     "EpisodeSeasonCount": "4",
     "EpisodeNotes": "",
-    "EpisodeEvents": "",
+    "EpisodeEvents": "ط ف م",
     "EpisodeBCDate": "2025-01-11",
     "EpisodeRRDate": "",
     "EpisodeRMDate": "",
@@ -43579,6 +43579,16 @@
         "VideoID": "BAACAgQAAxkBAAIXJWeCZj-3lZk4C49XM_ns1wOINdR0AALOFwAC5yERUM9nXcDowpziNgQ",
         "Resolution": "720p",
         "Size": "234.02"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIdxWeL3IizwPv9oHEp-GOUtyYW7MzOAAJNGAAC7YkRUNU6X8yqe6QbNgQ",
+        "Resolution": "480p",
+        "Size": "107.37"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIdxmeL3JJj1pn8JBvolFZDTi2UFL5yAALvHQACnLsQUNs6qTrB1F9BNgQ",
+        "Resolution": "360p",
+        "Size": "78.35"
       }
     ],
     "EpisodeMangasIDs": [
@@ -43601,26 +43611,32 @@
   },
   {
     "EpisodeNumber": "1150",
-    "EpisodeTitle": "كايتو كيد والتاج السحري (الجزء الأول)",
+    "EpisodeTitle": "كايتو كيد وخدعة التاج (الجزء الأول)",
     "EpisodeType": "م",
     "EpisodeSpecial": "",
-    "EpisodeStory": "",
+    "EpisodeStory": "في ليلِ المدينة، يَبْرُقُ جَوْهَرٌ ثَمِينٌ، لِيَجْتَذِبَ الأَنْظَارَ وَيُوقِظَ أطْمَاعَ لِصٍّ أسطورِيٍّ. تاجٌ مُرَصَّع، ووَعْدٌ غامض، يُشْعِلَانِ فَتِيلَ التَّحدي ويُدخِلَانِ الأبطال في لُعْبةِ الكَشْفِ والغموض. بينَ خُدَعِ البَصَرِ وألْغَازِ الماضي، يتوارَى الْحَقِيقِي وَراءَ الأَقْنِعَة، فَهلْ سَينْجَحُ كايتو كيد في تَحْطِيمِ اللُّغز وَقَبْضُ علىٰ الْجَوْهَرَة ؟ أَمْ أَنَّ للأَقْدارِ كلمَةٌ أُخْرَى؟\n\n",
     "EpisodeMangaQuoted": "1100-1102",
     "EpisodeSeason": "الثلاثون",
     "EpisodeSeasonCount": "4",
     "EpisodeNotes": "",
-    "EpisodeEvents": "",
+    "EpisodeEvents": "ك س",
     "EpisodeBCDate": "2025-01-18",
     "EpisodeRRDate": "",
     "EpisodeRMDate": "",
     "EpisodeRMDate2": "",
-    "EpisodeNextHint": "",
+    "EpisodeNextHint": "قابل للعكس",
     "EpisodeEventsAdvanced": "",
     "EpisodeSummary": "",
     "EpisodeCurrentHint": "الكاتشب",
     "EpisodeParts": "339",
-    "EpisodeFilterAdvanced": "",
-    "EpisodeVideosIDs": null,
+    "EpisodeFilterAdvanced": "4KM0 5AY3  10SS1 80KK1  23AE1 60JS1 69GN1 68RM1 68RM3 56RF1 29RW3",
+    "EpisodeVideosIDs": [
+      {
+        "VideoID": "BAACAgQAAxkBAAIdx2eL3LeDWMh6kUZcVbNPvnuFv1bbAAJVGAACwmlhUG_btCH_1vjLNgQ",
+        "Resolution": "1080p",
+        "Size": "365.98"
+      }
+    ],
     "EpisodeMangasIDs": [
       {
         "MangaNumber": "1100",
@@ -43641,10 +43657,10 @@
   },
   {
     "EpisodeNumber": "1151",
-    "EpisodeTitle": "كايتو كيد والتاج السحري (الجزء الثاني)",
+    "EpisodeTitle": "كايتو كيد وخدعة التاج (الجزء الثاني)",
     "EpisodeType": "م",
     "EpisodeSpecial": "",
-    "EpisodeStory": "",
+    "EpisodeStory": "في ليلِ المدينة، يَبْرُقُ جَوْهَرٌ ثَمِينٌ، لِيَجْتَذِبَ الأَنْظَارَ وَيُوقِظَ أطْمَاعَ لِصٍّ أسطورِيٍّ. تاجٌ مُرَصَّع، ووَعْدٌ غامض، يُشْعِلَانِ فَتِيلَ التَّحدي ويُدخِلَانِ الأبطال في لُعْبةِ الكَشْفِ والغموض. بينَ خُدَعِ البَصَرِ وألْغَازِ الماضي، يتوارَى الْحَقِيقِي وَراءَ الأَقْنِعَة، فَهلْ سَينْجَحُ كايتو كيد في تَحْطِيمِ اللُّغز وَقَبْضُ علىٰ الْجَوْهَرَة ؟ أَمْ أَنَّ للأَقْدارِ كلمَةٌ أُخْرَى؟\n\n",
     "EpisodeMangaQuoted": "1100-1102",
     "EpisodeSeason": "الثلاثون",
     "EpisodeSeasonCount": "4",
@@ -43657,9 +43673,9 @@
     "EpisodeNextHint": "",
     "EpisodeEventsAdvanced": "",
     "EpisodeSummary": "",
-    "EpisodeCurrentHint": "",
+    "EpisodeCurrentHint": "قابل للعكس",
     "EpisodeParts": "339",
-    "EpisodeFilterAdvanced": "",
+    "EpisodeFilterAdvanced": "4KM0 5AY3  10SS1 80KK1  23AE1 60JS1 69GN1 68RM1 68RM3 56RF1 29RW3",
     "EpisodeVideosIDs": null,
     "EpisodeMangasIDs": [
       {
