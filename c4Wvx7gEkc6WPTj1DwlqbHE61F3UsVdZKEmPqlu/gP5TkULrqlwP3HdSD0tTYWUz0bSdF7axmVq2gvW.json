@@ -1899,7 +1899,28 @@
     "EpisodeCurrentHint": "",
     "EpisodeParts": "",
     "EpisodeFilterAdvanced": "1SK4 5AY1 6MT1 7GK1 9HA1 10SS1 31JM1 32NS1",
-    "EpisodeVideosIDs": null,
+    "EpisodeVideosIDs": [
+      {
+        "VideoID": "BAACAgQAAxkBAAIeMGeL6J05BbSMdKDxyjxi09GGiIfHAAL6DwACeGwoUvuJAZ-Fu7ioNgQ",
+        "Resolution": "1080p",
+        "Size": "1671.87"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIeMWeL6Leluihkcy4ZvBzX-RCeZUojAAITEAACeGwoUtw8DBhQZzWfNgQ",
+        "Resolution": "720p",
+        "Size": "607.41"
+      },
+      {
+        "VideoID": "BAACAgEAAxkBAAIeMmeL6MDniFyfeU9oTBgTHaeSNS-5AAI1AwACA2YoRvWWpuctLVMxNgQ",
+        "Resolution": "480p",
+        "Size": "380.97"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIeM2eL6MdH_BE4_37qxvi6MHMg89xVAAIZEAAC7CcoUj3ibme_ydPmNgQ",
+        "Resolution": "360p",
+        "Size": "281.72"
+      }
+    ],
     "EpisodeMangasIDs": null
   },
   {
@@ -3446,7 +3467,28 @@
     "EpisodeCurrentHint": "",
     "EpisodeParts": "",
     "EpisodeFilterAdvanced": "1SK4 5AY1 6MT1 7GK1 9HA1 10SS1 11EK1 12YK3 31JM1 32NS1",
-    "EpisodeVideosIDs": null,
+    "EpisodeVideosIDs": [
+      {
+        "VideoID": "BAACAgQAAxkBAAIeNGeL6UCKzr-a41zD2O0HvfwXNpqPAAItEQAC7CcwUiJZJ4w6EW-zNgQ",
+        "Resolution": "1080p",
+        "Size": "1742.26"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIeNWeL6UVSST6vct5cgXLSX-7__nDvAALQDgACeGwwUtBpaNfZplZiNgQ",
+        "Resolution": "720p",
+        "Size": "646.21"
+      },
+      {
+        "VideoID": "BAACAgEAAxkBAAIeNmeL6UuUvuHXNS-2HdqD0fuV3kSCAAI9AwACA2YoRnXS_7LmNidXNgQ",
+        "Resolution": "480p",
+        "Size": "400.58"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIeN2eL6VmYS0pCq8XR2nBSNlsxltUyAALTDgACeGwwUtFaSV1v_M_cNgQ",
+        "Resolution": "360p",
+        "Size": "298.32"
+      }
+    ],
     "EpisodeMangasIDs": null
   },
   {
@@ -5036,7 +5078,28 @@
     "EpisodeCurrentHint": "",
     "EpisodeParts": "",
     "EpisodeFilterAdvanced": "1SK4 5AY1 6MT1 7GK1 8AH1 9HA1 10SS1 14HH1 15KT1 31JM1 32NS1 34WT1 40SC1 80KK1 81GN1",
-    "EpisodeVideosIDs": null,
+    "EpisodeVideosIDs": [
+      {
+        "VideoID": "BAACAgEAAxkBAAIeOGeL6WhWmGYZcDl-zfw5LuS8nRfCAAJCAwACA2YoRq5wu4RUXJZmNgQ",
+        "Resolution": "1080p",
+        "Size": "1713.16"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIeOWeL6W3EespUm4jdf6oETr3CzwrgAALVDgACeGwwUp89oZxM48kXNgQ",
+        "Resolution": "720p",
+        "Size": "653.63"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIeOmeL6XL3gH1DmDBSRbDgqtx6wOJ-AAIzEQAC7CcwUgABojkBAAFlu5Q2BA",
+        "Resolution": "480p",
+        "Size": "408.95"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIeO2eL6XjrfY6v4NCFc4Prea-a6-DKAALXDgACeGwwUlhjMHtq5u3fNgQ",
+        "Resolution": "360p",
+        "Size": "303.49"
+      }
+    ],
     "EpisodeMangasIDs": null
   },
   {
@@ -6654,7 +6717,28 @@
     "EpisodeCurrentHint": "",
     "EpisodeParts": "",
     "EpisodeFilterAdvanced": "1SK3 5AY1 6MT1 7GK1 8AH1 9HA1 10SS1 11EK1 31JM1 32NS1 33MS1 34WT1 35KC1",
-    "EpisodeVideosIDs": null,
+    "EpisodeVideosIDs": [
+      {
+        "VideoID": "BAACAgQAAxkBAAIePGeL6YIM5Q3dvAj-ZUNa1zBjNY3LAAJGEQAC7CcwUm2tGJcTxGGaNgQ",
+        "Resolution": "1080p",
+        "Size": "1758.66"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIePWeL6YlaSyV_QTdF6rp3L-v_Yl5-AAIJDwACeGwwUgFE5xIchLWRNgQ",
+        "Resolution": "720p",
+        "Size": "711.39"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIePmeL6Y8lS-iEM_44MH8AAR-jfwkPEgACshEAAuwnMFID7ezJtG4cxzYE",
+        "Resolution": "480p",
+        "Size": "438.98"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIeP2eL6Zm68IRjq9gk09CbQyc4XPFqAALNEQAC7CcwUntUR-i656rVNgQ",
+        "Resolution": "360p",
+        "Size": "322.8"
+      }
+    ],
     "EpisodeMangasIDs": null
   },
   {
@@ -8261,7 +8345,23 @@
     "EpisodeCurrentHint": "",
     "EpisodeParts": "",
     "EpisodeFilterAdvanced": "1SK4 5AY1 6MT1 7GK1 8AH1 9HA1 10SS1 31JM1 32NS1 34WT1 35KC1 68GN1 69VA1 73SM2 74AM3",
-    "EpisodeVideosIDs": null,
+    "EpisodeVideosIDs": [
+      {
+        "VideoID": "BAACAgQAAxkBAAIeQGeL6aPMGgMWP3PGGzp3pSjUfMrFAAIyDwAC3hcxUmV-2_gnKnlHNgQ",
+        "Resolution": "1080p",
+        "Size": "1646.15"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIeQWeL6ahc8tmFTHeoiI0m7olawCXJAALyEgACqSowUpQME4VHtkfsNgQ",
+        "Resolution": "720p",
+        "Size": "1058.39"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIeQmeL6a2e2sq57kT4H9hy5OwKDqMiAAKCEgACnawwUhkJKDxYAt6zNgQ",
+        "Resolution": "480p",
+        "Size": "600.28"
+      }
+    ],
     "EpisodeMangasIDs": null
   },
   {
@@ -9772,7 +9872,28 @@
     "EpisodeCurrentHint": "",
     "EpisodeParts": "",
     "EpisodeFilterAdvanced": "1SK3 5AY1 6MT1 7GK1 8AH1 9HA1 10SS1 12YK1 13YK1 31JM1 32NS1 35KC1",
-    "EpisodeVideosIDs": null,
+    "EpisodeVideosIDs": [
+      {
+        "VideoID": "BAACAgQAAxkBAAIeQ2eL6cODK7nuNdREcrRSg37jJr2AAAI5DwAC3hcxUryNSOFnhPo2NgQ",
+        "Resolution": "1080p",
+        "Size": "1926.78"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIeRGeL6clF89Llx-hhtYrZ5B7BTXoqAAICEwACqSowUhjvsjhX1ypkNgQ",
+        "Resolution": "720p",
+        "Size": "669.36"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIeRWeL6c5rBrnQJG7k7Mi5wOeYAAE2BAACAxMAAqkqMFKY4oHiRo-MKzYE",
+        "Resolution": "480p",
+        "Size": "404.24"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIeRmeL6dbGv8eX-wfk0VTNouw_laL4AAKIEgACnawwUjdMgKTWVvhVNgQ",
+        "Resolution": "360p",
+        "Size": "209.14"
+      }
+    ],
     "EpisodeMangasIDs": null
   },
   {
@@ -11152,7 +11273,28 @@
     "EpisodeCurrentHint": "",
     "EpisodeParts": "",
     "EpisodeFilterAdvanced": "1SK1 5AY1 6MT1 7GK1 8AH1 9HA1 10SS1 14HH1 15KT1 31JM1 32NS1 33MS1 34WT1 47GO1 55FA1",
-    "EpisodeVideosIDs": null,
+    "EpisodeVideosIDs": [
+      {
+        "VideoID": "BAACAgQAAxkBAAIeR2eL6eFiuZfwAAE7szKVWKlgTaJLFQACDhEAAkjgQVJcnV9DsndsKTYE",
+        "Resolution": "1080p",
+        "Size": "1389.47"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIeSGeL6eaF5sw0EpBzQ8i11nR7au4PAAJ6DwACyS04Uj-wKfEneYpDNgQ",
+        "Resolution": "720p",
+        "Size": "1026.72"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIeSWeL6fBi2pAbkXB5D0KjE4r1ea9zAAL4EwACqfA5Uq9OswearNsGNgQ",
+        "Resolution": "480p",
+        "Size": "615.98"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIeSmeL6flWqSl3I3ccDa1UMy1a4vDCAAKJDwACyS04Ur6KB8pRGXT9NgQ",
+        "Resolution": "360p",
+        "Size": "306.61"
+      }
+    ],
     "EpisodeMangasIDs": null
   },
   {
@@ -12584,7 +12726,28 @@
     "EpisodeCurrentHint": "",
     "EpisodeParts": "",
     "EpisodeFilterAdvanced": "1SK4 5AY1 6MT1 7GK1 8AH1 9HA1 10SS1 11EK1 14HH3 31JM1 32NS1 34WT1 35KC3 80KK1 81GN1",
-    "EpisodeVideosIDs": null,
+    "EpisodeVideosIDs": [
+      {
+        "VideoID": "BAACAgQAAxkBAAIeS2eL6gimq1Hq2lSEFcmSNnf2FYc7AAIREQACSOBBUhmNuKXOvQsSNgQ",
+        "Resolution": "1080p",
+        "Size": "1502.14"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIeTGeL6g7ndjDi_g1PtHwfa6X9g4bFAAKNDwACyS04UlIuB2di7eehNgQ",
+        "Resolution": "720p",
+        "Size": "684.86"
+      },
+      {
+        "VideoID": "BAACAgEAAxkBAAIeTWeL6hdtVsXFIQjEAq1CBdMZajo_AALwAwACK4s5RhjtCxx2UMV_NgQ",
+        "Resolution": "480p",
+        "Size": "493.42"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIeTmeL6h5ZsSw_FZqU4O7dyhMB_QmPAAJiEQACyS1AUg4vmJtVJY2ANgQ",
+        "Resolution": "360p",
+        "Size": "207.09"
+      }
+    ],
     "EpisodeMangasIDs": null
   },
   {
@@ -13836,7 +13999,28 @@
     "EpisodeCurrentHint": "",
     "EpisodeParts": "",
     "EpisodeFilterAdvanced": "1SK3 5AY1 6MT1 7GK1 8AH1 9HA1 10SS1 11EK2 31JM1 32NS1 33MS1 34WT1 35KC1",
-    "EpisodeVideosIDs": null,
+    "EpisodeVideosIDs": [
+      {
+        "VideoID": "BAACAgQAAxkBAAIeT2eL6inMeYELIPqD_NaYpKVVq7gpAAKUEQACEaU4UhwVLCg_3lJfNgQ",
+        "Resolution": "1080p",
+        "Size": "1504.34"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIeUGeL6i77mdeLMBttpLRNTB453iDbAALWDgACKH1BUve2H_cGh0qKNgQ",
+        "Resolution": "720p",
+        "Size": "626.39"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIeUWeL6jN3R1R0ctpP8s3K2lalKRXQAALeDgACKH1BUtTAVXDdg5p_NgQ",
+        "Resolution": "480p",
+        "Size": "514.2"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIeUmeL6jjYFZRyY3YqaNAh5Vs6KjpTAALbDgACKH1BUr4xPrUw5uhENgQ",
+        "Resolution": "360p",
+        "Size": "244.76"
+      }
+    ],
     "EpisodeMangasIDs": null
   },
   {
@@ -15234,7 +15418,23 @@
     "EpisodeCurrentHint": "",
     "EpisodeParts": "",
     "EpisodeFilterAdvanced": "1SK4 5AY1 6MT1 7GK1 8AH1 9HA1 10SS1 11EK1 14HH1 15KT1 31JM1 32NS1 33MS1 34WT1 35KC1 36YM1 45HH1 46GT1 47GO1 52MY1 53JY1 80KK1 81GN1",
-    "EpisodeVideosIDs": null,
+    "EpisodeVideosIDs": [
+      {
+        "VideoID": "BAACAgQAAxkBAAIeU2eL6kHKxadVJSL1gBYW6v7LWQyiAALwDgACKH1BUv59Vw9U9AsPNgQ",
+        "Resolution": "1080p",
+        "Size": "1526.49"
+      },
+      {
+        "VideoID": "BAACAgEAAxkBAAIeVGeL6kUHlXQio4rWyk4qvIcTSBGAAAItBAACBnRBRugVIF3fq6rvNgQ",
+        "Resolution": "720p",
+        "Size": "626.66"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIeVWeL6koyf5MqGy_LArLJSDpUZfioAAKbFgACBR1BUjWaXexo7rMrNgQ",
+        "Resolution": "360p",
+        "Size": "315.61"
+      }
+    ],
     "EpisodeMangasIDs": null
   },
   {
@@ -16486,7 +16686,28 @@
     "EpisodeCurrentHint": "",
     "EpisodeParts": "",
     "EpisodeFilterAdvanced": "1SK3 5AY1 6MT1 7GK1 8AH1 9HA1 10SS1 31JM1 32NS1 33MS1 34WT1",
-    "EpisodeVideosIDs": null,
+    "EpisodeVideosIDs": [
+      {
+        "VideoID": "BAACAgQAAxkBAAIeVmeL6lt2O0rkUB5RZTWAlSuJH-AlAAKlEQACEaU4Uq3P7ebTYZveNgQ",
+        "Resolution": "1080p",
+        "Size": "1526.93"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIeV2eL6mCAvAxQhPyans92Y-BAMOj7AAI1DwACKH1BUoutOQqJS8DBNgQ",
+        "Resolution": "720p",
+        "Size": "700"
+      },
+      {
+        "VideoID": "BAACAgEAAxkBAAIeWGeL6mWCW7fDCOgz8wy1r2QsHWPrAAI2BAACBnRBRjl7j58dbhPrNgQ",
+        "Resolution": "480p",
+        "Size": "589.02"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIeWWeL6onsp_oj2H_ReuMGJ6N2WD0aAALfEQACSOBBUpxmvnplPDSINgQ",
+        "Resolution": "360p",
+        "Size": "242.38"
+      }
+    ],
     "EpisodeMangasIDs": null
   },
   {
@@ -17792,7 +18013,28 @@
     "EpisodeCurrentHint": "",
     "EpisodeParts": "",
     "EpisodeFilterAdvanced": "1SK3 5AY1 6MT1 7GK1 8AH1 9HA1 10SS1 31JM1 32NS1 33MS1 34WT1 35KC1",
-    "EpisodeVideosIDs": null,
+    "EpisodeVideosIDs": [
+      {
+        "VideoID": "BAACAgQAAxkBAAIeWmeL6pPdozQkE6XmGZAIEI0oZSIKAALEEQACEaU4UhfcZeuI0NdwNgQ",
+        "Resolution": "1080p",
+        "Size": "1499.25"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIeW2eL6pdcDTYe3V0ejgixn3h55EWRAAJ2DwACEaVAUgJtNy4azDUFNgQ",
+        "Resolution": "720p",
+        "Size": "1110.15"
+      },
+      {
+        "VideoID": "BAACAgEAAxkBAAIeXGeL6pytCT2RPTujlB3O28W9M9xCAAKEBwACK4tBRlvxvz1tJ2G-NgQ",
+        "Resolution": "480p",
+        "Size": "629.36"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIeXWeL6qHD9iVzVSmvqsx4ZmWRPlY8AALsEQACSOBBUrCveKZeYvK2NgQ",
+        "Resolution": "360p",
+        "Size": "237.85"
+      }
+    ],
     "EpisodeMangasIDs": null
   },
   {
@@ -18705,7 +18947,28 @@
     "EpisodeCurrentHint": "",
     "EpisodeParts": "",
     "EpisodeFilterAdvanced": "1SK4 5AY1 6MT1 7GK1 8AH1 9HA1 10SS1 14HH1 15KT1 31JM1 32NS1 33MS1 34WT1 35KC1 38KM1 48KY1 49YU1 51SY1 52MY1 53JY1 55FA1 68GN1 69VA1 70VH1 71CI1 72KN1",
-    "EpisodeVideosIDs": null,
+    "EpisodeVideosIDs": [
+      {
+        "VideoID": "BAACAgQAAxkBAAIeXmeL6qmnQ0ddpXBnFncByavgY3C-AALREgACyS1AUi5JCgnYvxtoNgQ",
+        "Resolution": "1080p",
+        "Size": "1540.74"
+      },
+      {
+        "VideoID": "BAACAgEAAxkBAAIeX2eL6q7ujdh03EZHnLjB7HP2aXP2AAKGBwACK4tBRoTsQANNwArnNgQ",
+        "Resolution": "720p",
+        "Size": "930.37"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIeYGeL6rMK786qLXmMd_Fq3hocCa_nAALyEQACSOBBUg9dJevfJ50nNgQ",
+        "Resolution": "480p",
+        "Size": "478.4"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIeYWeL6rd5y-LVCuBgVTR8pAZWPzmGAAKtDwACKH1BUqRrqK3La3ITNgQ",
+        "Resolution": "360p",
+        "Size": "212.85"
+      }
+    ],
     "EpisodeMangasIDs": null
   },
   {
@@ -20103,7 +20366,28 @@
     "EpisodeCurrentHint": "",
     "EpisodeParts": "",
     "EpisodeFilterAdvanced": "1SK4 5AY1 6MT1 7GK1 8AH1 9HA1 10SS1 14HH1 15KT1 21JS1 31JM1 32NS1 33MS1 34WT1 35KC1 45HH1 46GT1 80KK1 81GN1",
-    "EpisodeVideosIDs": null,
+    "EpisodeVideosIDs": [
+      {
+        "VideoID": "BAACAgQAAxkBAAIeYmeL6sAhr11A0eRaNrDbpFJyJ9wJAAKyDwACtLFRUk1p6CKozzJeNgQ",
+        "Resolution": "1080p",
+        "Size": "830.93"
+      },
+      {
+        "VideoID": "BAACAgEAAxkBAAIeY2eL6sW7jZZdmHB6zlReCJpdXAXiAAKcBAACZOtYRurj-3lUw6M4NgQ",
+        "Resolution": "720p",
+        "Size": "616.48"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIeZGeL6slKGxXm6EY9g4l5Cv4Z5GhDAAKxDwACtLFRUmNm6wWVd0uxNgQ",
+        "Resolution": "480p",
+        "Size": "366.18"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIeZWeL6s1BZ64Pe9jtsa29fGYnaZcBAAJCFAACGydJUso7B8ArBi9ENgQ",
+        "Resolution": "360p",
+        "Size": "198.52"
+      }
+    ],
     "EpisodeMangasIDs": null
   },
   {
@@ -21558,7 +21842,23 @@
     "EpisodeCurrentHint": "",
     "EpisodeParts": "",
     "EpisodeFilterAdvanced": "1SK4 5AY1 6MT1 7GK1 8AH1 9HA1 10SS1 11EK2 17SK1 31JM1 32NS1 33MS1 34WT1 35KC1",
-    "EpisodeVideosIDs": null,
+    "EpisodeVideosIDs": [
+      {
+        "VideoID": "BAACAgQAAxkBAAIeZmeL6taBorzR5-a6f-jHSUaDtt1QAAJXFAACGydJUu-pWHR9gpCXNgQ",
+        "Resolution": "1080p",
+        "Size": "1521.11"
+      },
+      {
+        "VideoID": "BAACAgUAAxkBAAIeZ2eL6toeyaw3fe1zPvCW0GjS-XrjAAIQDAACqzLJVxZwtjMwqvbyNgQ",
+        "Resolution": "720p",
+        "Size": "626.41"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIeaGeL6t-q63SDSkfLumcsXg1-ukr-AAICDgACpsFIUvUPEaXj03kzNgQ",
+        "Resolution": "480p",
+        "Size": "155"
+      }
+    ],
     "EpisodeMangasIDs": null
   },
   {
@@ -23454,7 +23754,28 @@
     "EpisodeCurrentHint": "",
     "EpisodeParts": "",
     "EpisodeFilterAdvanced": "1SK3 5AY1 6MT1 7GK1 8AH1 9HA1 10SS1 16YO1 23AE1 31JM1 32NS1 33MS1 34WT1 35KC1 52MY1",
-    "EpisodeVideosIDs": null,
+    "EpisodeVideosIDs": [
+      {
+        "VideoID": "BAACAgQAAxkBAAIeaWeL6u6qvBzJ0TK2rqOl6hhb3j7NAAJIDgACpsFIUgQ4_u1MPGX-NgQ",
+        "Resolution": "1080p",
+        "Size": "1656.82"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIeameL6vNm7khzayoBpnglwWqrS35wAAJZDgACpsFIUtkCHuHU_uh_NgQ",
+        "Resolution": "720p",
+        "Size": "631.89"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIea2eL6vfYVbfeWnk_patSXRFaB_CnAAIfDwACtLFJUpyCUllZm1TpNgQ",
+        "Resolution": "480p",
+        "Size": "407.08"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIebGeL6vtUdRaLCTug7BaZHSncvtnwAAJcDgACpsFIUtqF2_LdsUwLNgQ",
+        "Resolution": "360p",
+        "Size": "282.35"
+      }
+    ],
     "EpisodeMangasIDs": null
   },
   {
@@ -25361,7 +25682,28 @@
     "EpisodeCurrentHint": "",
     "EpisodeParts": "",
     "EpisodeFilterAdvanced": "1SK3 5AY1 6MT1 7GK1 8AH1 9HA1 10SS1 14HH1 15KT1 31JM1 33MS1 34WT1 45HH1 46GT1 47GO1 55FA1",
-    "EpisodeVideosIDs": null,
+    "EpisodeVideosIDs": [
+      {
+        "VideoID": "BAACAgQAAxkBAAIebWeL6xUTMuoWX3i4oJIFzJ8ahZzwAAL4DgACtLFJUmdHAAGiK8pzFjYE",
+        "Resolution": "1080p",
+        "Size": "1859.23"
+      },
+      {
+        "VideoID": "BAACAgEAAxkBAAIebmeL6xuVBz-IEwmaiRBjBMJHJdxbAALmAwACZOtIRttGQDWpPeNTNgQ",
+        "Resolution": "720p",
+        "Size": "702.02"
+      },
+      {
+        "VideoID": "BAACAgEAAxkBAAIeb2eL6x9Rh60AAd4FMOemlqD2OTT2vQACPQMAAmTrUEacAcMC8moAAS42BA",
+        "Resolution": "480p",
+        "Size": "379.7"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIecGeL6yPddy151q9m3lgDdVtCbhA5AAKADgACpsFIUpH70L_FH6GINgQ",
+        "Resolution": "360p",
+        "Size": "234.62"
+      }
+    ],
     "EpisodeMangasIDs": null
   },
   {
@@ -26951,7 +27293,28 @@
     "EpisodeCurrentHint": "",
     "EpisodeParts": "",
     "EpisodeFilterAdvanced": "1SK2 1SK4 5AY1 6MT1 7GK1 8AH1 9HA1 10SS1 24SO1 25MS1 31JM1 32NS1 33MS1 34WT1 35KC1 55FA1 59SA3  59SA4 60JS1 61JB1 62AC1 65MS1 68GN1 71CI2 72KN2",
-    "EpisodeVideosIDs": null,
+    "EpisodeVideosIDs": [
+      {
+        "VideoID": "BAACAgQAAxkBAAIecWeL6yoFQTKRdZHYd0pUd0GQkz04AAKpDwACkwFIUmxfIIZuefUFNgQ",
+        "Resolution": "1080p",
+        "Size": "1722.52"
+      },
+      {
+        "VideoID": "BAACAgEAAxkBAAIecmeL6y74n7w6UvAw2meLViVVMMtvAAKKAgAC0iZIRkZdQ3grThQyNgQ",
+        "Resolution": "720p",
+        "Size": "701.6"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIec2eL6zZlc3YKUxjNehEMj_5ncc-AAAIDEAACuDFIUuN-ijuJeugsNgQ",
+        "Resolution": "480p",
+        "Size": "408.05"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIedGeL6zpUPOnD22P2gFmNjz7OUxaYAAJ5EQACuDFQUtiVGcWbqtFINgQ",
+        "Resolution": "360p",
+        "Size": "215.35"
+      }
+    ],
     "EpisodeMangasIDs": null
   },
   {
@@ -28420,7 +28783,28 @@
     "EpisodeCurrentHint": "",
     "EpisodeParts": "",
     "EpisodeFilterAdvanced": "1SK4 5AY1 6MT1 7GK1 8AH1 9HA1 10SS1 21JS1 31JM1 80KK1 81GN1",
-    "EpisodeVideosIDs": null,
+    "EpisodeVideosIDs": [
+      {
+        "VideoID": "BAACAgQAAxkBAAIedWeL60If6lnWSjWSsAAB8jTognSTvwAC4w8AApMBSFJcxWd4iOacYDYE",
+        "Resolution": "1080p",
+        "Size": "1988.26"
+      },
+      {
+        "VideoID": "BAACAgEAAxkBAAIedmeL61QDYMwxzsKSJ-MIeTlqUGiiAAKMAgAC0iZIRs3XPbP37A6KNgQ",
+        "Resolution": "720p",
+        "Size": "676.85"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIed2eL61uvAAFTA9MHXwkDVEbssy89NAACRhEAAmXfUVIfCzGbM-yMkjYE",
+        "Resolution": "480p",
+        "Size": "439.92"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIeeGeL62CAn9MYByWcfqrcM-g5rr0pAAK4DgACpsFQUodUFOk72VQmNgQ",
+        "Resolution": "360p",
+        "Size": "257.74"
+      }
+    ],
     "EpisodeMangasIDs": null
   },
   {
@@ -29830,7 +30214,28 @@
     "EpisodeCurrentHint": "",
     "EpisodeParts": "",
     "EpisodeFilterAdvanced": "1SK4 5AY1 6MT1 7GK1 8AH1 9HA1 10SS1 23AE1 31JM1 33MS1 34WT1 35KC1 42JM2 42JM3 56RF1 58YK1 59SA1 60JS1 61JB1 62AC1 63HH1 67RM4 68GN1 69VA1 70VH1 71CI1 72KN1",
-    "EpisodeVideosIDs": null,
+    "EpisodeVideosIDs": [
+      {
+        "VideoID": "BAACAgQAAxkBAAIeeWeL62e4m84U9BgJ1zsi8jXaqtSBAAJ4FQACGydJUhcoCxODw3yVNgQ",
+        "Resolution": "1080p",
+        "Size": "935.18"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIeemeL62z66Tr5r_FBRgEQ-l70iGKTAALGDgACpsFQUm4U_r680nAENgQ",
+        "Resolution": "720p",
+        "Size": "552.26"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIee2eL63Em2rwXbTOB9dWNe86CH08eAAJ7FQACGydJUhjT67HVxRs4NgQ",
+        "Resolution": "480p",
+        "Size": "386.9"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIefGeL63aEZqK6w2E0-tEQ5YRvNDwBAALPDgACpsFQUqCWlae1PpxGNgQ",
+        "Resolution": "360p",
+        "Size": "214.57"
+      }
+    ],
     "EpisodeMangasIDs": null
   },
   {
@@ -31433,7 +31838,28 @@
     "EpisodeCurrentHint": "",
     "EpisodeParts": "",
     "EpisodeFilterAdvanced": "1SK2 1SK3 5AY1 6MT1 7GK1 8AH1 9HA1 10SS1 14HH1 15KT1 19MK1 20SH1 28MO1 30ML1 45HH1 46GT1 47GO1 55FA1",
-    "EpisodeVideosIDs": null,
+    "EpisodeVideosIDs": [
+      {
+        "VideoID": "BAACAgQAAxkBAAIefWeL639NqbGLMHc-s0F2Vlm8mqLTAAKNDgACpsFQUuNSKmdrTsSXNgQ",
+        "Resolution": "1080p",
+        "Size": "1859.19"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIefmeL64MOAAF74Vqc31cjiMYcdI5B_AACJBEAAhsnUVLls8uH4oW3STYE",
+        "Resolution": "720p",
+        "Size": "752.13"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIef2eL64mSr4mefH205kjDudbvGgcWAAKQDgACpsFQUnHc-NZYKTNZNgQ",
+        "Resolution": "480p",
+        "Size": "428.26"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIegGeL646CbAiqXCbO0K31gFtB1e-IAAI_EQACmKRYUmcedCLoY-GANgQ",
+        "Resolution": "360p",
+        "Size": "268.46"
+      }
+    ],
     "EpisodeMangasIDs": null
   },
   {
@@ -33100,7 +33526,28 @@
     "EpisodeCurrentHint": "",
     "EpisodeParts": "",
     "EpisodeFilterAdvanced": "1SK2 1SK4 5AY1 6MT1 7GK1 8AH1 9HA1 10SS1 11EK1 23AE1 31JM1 32NS1 33MS1 34WT1 35KC1 41HK1 56RF1 58YK1",
-    "EpisodeVideosIDs": null,
+    "EpisodeVideosIDs": [
+      {
+        "VideoID": "BAACAgQAAxkBAAIegWeL65lUFe-EqAtHTkA0rNHxftK3AAKvEQACuDFQUuZiaY2p4jJZNgQ",
+        "Resolution": "1080p",
+        "Size": "1640.43"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIegmeL652IWAGew7tadG7_baxb91-3AAIyEQACmKRYUvQCFYfz0dnPNgQ",
+        "Resolution": "720p",
+        "Size": "588.23"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIeg2eL66KI45cwHUNoj5JF3bdd71GyAAK2EQACuDFQUoGVKf-8JHtpNgQ",
+        "Resolution": "480p",
+        "Size": "383.96"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIehGeL66a0YdeBxbmEZnGS63p5hOiEAAL8DgACpsFQUgttuLjL0wLcNgQ",
+        "Resolution": "360p",
+        "Size": "225.04"
+      }
+    ],
     "EpisodeMangasIDs": null
   },
   {
@@ -34406,7 +34853,28 @@
     "EpisodeCurrentHint": "",
     "EpisodeParts": "",
     "EpisodeFilterAdvanced": "1SK4 5AY1 6MT1 7GK1 8AH1 9HA1 10SS1 19MK1 21JS4 80KK1 81GN1",
-    "EpisodeVideosIDs": null,
+    "EpisodeVideosIDs": [
+      {
+        "VideoID": "BAACAgQAAxkBAAIehWeL66-qbDXDAke6vFZJLUgOMu0AA9gRAAK4MVBSeefbSJti7f82BA",
+        "Resolution": "1080p",
+        "Size": "1584.87"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIehmeL67QMm6TiWvnZZ8GP-A9Sy_0FAALUHgACmKRgUmfesIfN-wfoNgQ",
+        "Resolution": "720p",
+        "Size": "829.74"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIeh2eL67hJFQL0J36mIWN_4uJVrw6JAAMPAAK0sVlSUKe4bN3VDLo2BA",
+        "Resolution": "480p",
+        "Size": "447.22"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIeiGeL67y5xW5XpKL3hughpXM31YIkAAKeEAACQMhgUkB_SYre1egrNgQ",
+        "Resolution": "360p",
+        "Size": "294.9"
+      }
+    ],
     "EpisodeMangasIDs": null
   },
   {
@@ -36699,7 +37167,28 @@
     "EpisodeCurrentHint": "",
     "EpisodeParts": "",
     "EpisodeFilterAdvanced": "1SK2 1SK4 5AY1 6MT1 7GK1 8AH1 9HA1 10SS1 24SO1 25MS1 26SH1 31JM1 32NS1 33MS1 34WT1 35KC1 36YM1 37NM1 59SA1 60JS1 61JB1 62AC1 65MS1",
-    "EpisodeVideosIDs": null,
+    "EpisodeVideosIDs": [
+      {
+        "VideoID": "BAACAgQAAxkBAAIeiWeL68ZAcnlUCWgFM28N0N8RmG0iAAJ2EQACQMhYUnoSrh0lVMFMNgQ",
+        "Resolution": "1080p",
+        "Size": "1279.87"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIeimeL68r0vuqJOKMI99IF12Z1oWFbAAJTEQACQMhgUoGgYEGEn1yTNgQ",
+        "Resolution": "720p",
+        "Size": "793.19"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIei2eL685LSnXlhZ4hByZV7_B-7THzAAJWEQACQMhgUn6EuXBMF1nFNgQ",
+        "Resolution": "480p",
+        "Size": "500.53"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIejGeL69MNaQrCIVQjdJbjS8OUvr4WAALXHgACmKRgUn1tbIPU4VCWNgQ",
+        "Resolution": "360p",
+        "Size": "288.42"
+      }
+    ],
     "EpisodeMangasIDs": null
   },
   {
@@ -38370,7 +38859,28 @@
     "EpisodeCurrentHint": "",
     "EpisodeParts": "",
     "EpisodeFilterAdvanced": "1SK3 5AY1 6MT1 7GK1 8AH1 9HA1 10SS1 31JM1 32NS1 33MS1 34WT1 35KC1 36YM1 37NM1 38KM1 42JM3 42JM4 43KH3 43KH4 44WD3 44WD4 56RF1 57HM3 57HM4 58YK1",
-    "EpisodeVideosIDs": null,
+    "EpisodeVideosIDs": [
+      {
+        "VideoID": "BAACAgQAAxkBAAIejWeL6998ysdzJ4xLAtSB-DXqyfS8AAJHEAACgWtpUvenheSaVZPsNgQ",
+        "Resolution": "1080p",
+        "Size": "2224.5"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIejmeL6-MIZsJ6no6LawLNkxYvHiy7AAJtEQACQMhgUnKMceU8OIcFNgQ",
+        "Resolution": "720p",
+        "Size": "738.86"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIej2eL6-fg1EL24OQqRzmbHxeL0RU7AALgHgACmKRgUn7a-t4OWud8NgQ",
+        "Resolution": "480p",
+        "Size": "409.36"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIekGeL6-u89vIWF9h50oZOpl26XXydAALpHgACmKRgUisfCBEJ_woyNgQ",
+        "Resolution": "360p",
+        "Size": "266.82"
+      }
+    ],
     "EpisodeMangasIDs": null
   },
   {
@@ -40340,7 +40850,28 @@
     "EpisodeCurrentHint": "",
     "EpisodeParts": "",
     "EpisodeFilterAdvanced": "1SK2 1SK4 5AY1 6MT1 7GK1 8AH1 9HA1 10SS1 24SO1 31JM1 32NS1 33MS1 41HK1 56RF1 58YK1 59SA1 60JS1 61JB1 62AC1 63HH1 64EH3 66RK2 67RM1 68GN1 69VA1 70VH1 71CI1 72KN1 73SM4 74AM3",
-    "EpisodeVideosIDs": null,
+    "EpisodeVideosIDs": [
+      {
+        "VideoID": "BAACAgQAAxkBAAIekWeL6_PFHKvUwt6VQly3nNBWQXdxAALcEgACuoNxUwtNGRlR0MPGNgQ",
+        "Resolution": "1080p",
+        "Size": "2695.72"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIekmeL6_gNPV9weB6n4xE4PqMT-zS2AALrEgACbjiYU8saSSqyEfhvNgQ",
+        "Resolution": "720p",
+        "Size": "1439.78"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIek2eL6_5pmFJDC0UfjR-ia47Z87NyAAI3DgAC05KhU2-26MIGspU1NgQ",
+        "Resolution": "480p",
+        "Size": "527.08"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIelGeL7AOZ4P5xY8Mr-mjv9ugYx_8pAAIgDgAC05KhU9y40WXeUoB2NgQ",
+        "Resolution": "360p",
+        "Size": "260.26"
+      }
+    ],
     "EpisodeMangasIDs": null
   },
   {
@@ -42181,7 +42712,33 @@
     "EpisodeCurrentHint": "",
     "EpisodeParts": "",
     "EpisodeFilterAdvanced": "1SK2 1SK4 5AY1 6MT1 7GK1 8AH1 9HA1 10SS1 12YK1 13YK1 14HH1 15KT1 28MO1 30ML1 80KK1 81GN1 82TK4",
-    "EpisodeVideosIDs": null,
+    "EpisodeVideosIDs": [
+      {
+        "VideoID": "BAACAgQAAxkBAAIelWeL7BLTmTUsS9tB-firGtmahDTtAAJiFgAC8tZYUr5h59mA46YmNgQ",
+        "Resolution": "1440p",
+        "Size": "3747"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIelmeL7GD6uFteaQyXqJsD8H6MU_nSAAIhFQACEDlZUuTkOV-D6Mp_NgQ",
+        "Resolution": "1080p",
+        "Size": "1543.12"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIel2eL7GaphwZmk32KmlWOfXAdKFx9AAKGFgAC_1ZQUrjXRHVdL8mcNgQ",
+        "Resolution": "720p",
+        "Size": "767.63"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIemGeL7G2vTTzr33xJwkX-l-gdQTtrAAJnGwACp1JRUoLnI7cIObDvNgQ",
+        "Resolution": "480p",
+        "Size": "373.34"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIemWeL7HN29PzBPCH1GUaYeK8BmMN9AAIkFQACEDlZUrME8jrIl8xUNgQ",
+        "Resolution": "360p",
+        "Size": "257.56"
+      }
+    ],
     "EpisodeMangasIDs": null
   },
   {
