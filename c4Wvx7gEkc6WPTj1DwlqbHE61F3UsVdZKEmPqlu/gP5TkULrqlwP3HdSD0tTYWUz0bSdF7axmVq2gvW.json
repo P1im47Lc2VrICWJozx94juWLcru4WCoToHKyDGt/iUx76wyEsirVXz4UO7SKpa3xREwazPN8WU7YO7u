@@ -33284,7 +33284,7 @@
     "EpisodeEvents": "",
     "EpisodeBCDate": "2018-02-24",
     "EpisodeRRDate": "",
-    "EpisodeRMDate": "",
+    "EpisodeRMDate": "2025-02-01",
     "EpisodeRMDate2": "",
     "EpisodeNextHint": "إيروها سوشي",
     "EpisodeEventsAdvanced": "",
@@ -44052,7 +44052,7 @@
     "EpisodeStory": "بين أمواج هادئة ورمال ذهبية، تطفو على السطح ذكرى حادث أليم من الماضي، لتوقظ أشباحاً ظنّت أنّها رقدت بسلام. في جنبات مسكن ساحلي، تلفّ جريمة مروعة المكان، تاركة وراءها أسئلة معلقة في الهواء. خيوط متشابكة تجمع بين ساكني المكان، وتثير الشكوك حول دوافع دفينة وأسرار تُكشف في العتمة. هل يُمكن لظلال الماضي أن تلقي بآثارها على الحاضر؟ وهل ستتكشف الحقيقة قبل أن يبتلعها رمال النسيان؟",
     "EpisodeMangaQuoted": "1097-1099",
     "EpisodeSeason": "الثلاثون",
-    "EpisodeSeasonCount": "4",
+    "EpisodeSeasonCount": "5",
     "EpisodeNotes": "",
     "EpisodeEvents": "ط ف ج",
     "EpisodeBCDate": "2025-01-04",
@@ -44113,7 +44113,7 @@
     "EpisodeStory": "بين أمواج هادئة ورمال ذهبية، تطفو على السطح ذكرى حادث أليم من الماضي، لتوقظ أشباحاً ظنّت أنّها رقدت بسلام. في جنبات مسكن ساحلي، تلفّ جريمة مروعة المكان، تاركة وراءها أسئلة معلقة في الهواء. خيوط متشابكة تجمع بين ساكني المكان، وتثير الشكوك حول دوافع دفينة وأسرار تُكشف في العتمة. هل يُمكن لظلال الماضي أن تلقي بآثارها على الحاضر؟ وهل ستتكشف الحقيقة قبل أن يبتلعها رمال النسيان؟",
     "EpisodeMangaQuoted": "1097-1099",
     "EpisodeSeason": "الثلاثون",
-    "EpisodeSeasonCount": "4",
+    "EpisodeSeasonCount": "5",
     "EpisodeNotes": "",
     "EpisodeEvents": "ط ف م",
     "EpisodeBCDate": "2025-01-11",
@@ -44174,7 +44174,7 @@
     "EpisodeStory": "في ليلِ المدينة، يَبْرُقُ جَوْهَرٌ ثَمِينٌ، لِيَجْتَذِبَ الأَنْظَارَ وَيُوقِظَ أطْمَاعَ لِصٍّ أسطورِيٍّ. تاجٌ مُرَصَّع، ووَعْدٌ غامض، يُشْعِلَانِ فَتِيلَ التَّحدي ويُدخِلَانِ الأبطال في لُعْبةِ الكَشْفِ والغموض. بينَ خُدَعِ البَصَرِ وألْغَازِ الماضي، يتوارَى الْحَقِيقِي وَراءَ الأَقْنِعَة، فَهلْ سَينْجَحُ كايتو كيد في تَحْطِيمِ اللُّغز وَقَبْضُ علىٰ الْجَوْهَرَة ؟ أَمْ أَنَّ للأَقْدارِ كلمَةٌ أُخْرَى؟\n\n",
     "EpisodeMangaQuoted": "1100-1102",
     "EpisodeSeason": "الثلاثون",
-    "EpisodeSeasonCount": "4",
+    "EpisodeSeasonCount": "5",
     "EpisodeNotes": "",
     "EpisodeEvents": "ك س",
     "EpisodeBCDate": "2025-01-18",
@@ -44189,14 +44189,24 @@
     "EpisodeFilterAdvanced": "4KM0 5AY3  10SS1 80KK1  23AE1 60JS1 69GN1 68RM1 68RM3 56RF1 29RW3",
     "EpisodeVideosIDs": [
       {
-        "VideoID": "BAACAgQAAxkBAAIdx2eL3LeDWMh6kUZcVbNPvnuFv1bbAAJVGAACwmlhUG_btCH_1vjLNgQ",
+        "VideoID": "BAACAgQAAxkBAAIhrGeUyes724TpteF-a61idUs2T8xqAAI5GAACPgWIUJZ7yE8k8MVQNgQ",
         "Resolution": "1080p",
-        "Size": "365.98"
+        "Size": "458.87"
       },
       {
-        "VideoID": "BAACAgQAAxkBAAIeLGeL5VqP5YL0YEl6aUXDfWkHC-TXAAJnFwACGqNZULd__HQHHvsDNgQ",
+        "VideoID": "BAACAgQAAxkBAAIhrWeUyi3SfAcjPP_a_k4jNEfyemLAAAIKFAACsHJxUIfi0UDeEB59NgQ",
         "Resolution": "720p",
-        "Size": "174.52"
+        "Size": "247.33"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIhrmeUyjTeCGqfayIGhLWdQRD8kV-DAAJUFgAChxJwUFIBhfSxanT9NgQ",
+        "Resolution": "480p",
+        "Size": "99.15"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIhr2eUyjh7UPNYtxHo0FnufBG86cebAAJOGAACi2JwUGhYPnrftuY0NgQ",
+        "Resolution": "360p",
+        "Size": "75.56"
       }
     ],
     "EpisodeMangasIDs": [
@@ -44225,20 +44235,26 @@
     "EpisodeStory": "في ليلِ المدينة، يَبْرُقُ جَوْهَرٌ ثَمِينٌ، لِيَجْتَذِبَ الأَنْظَارَ وَيُوقِظَ أطْمَاعَ لِصٍّ أسطورِيٍّ. تاجٌ مُرَصَّع، ووَعْدٌ غامض، يُشْعِلَانِ فَتِيلَ التَّحدي ويُدخِلَانِ الأبطال في لُعْبةِ الكَشْفِ والغموض. بينَ خُدَعِ البَصَرِ وألْغَازِ الماضي، يتوارَى الْحَقِيقِي وَراءَ الأَقْنِعَة، فَهلْ سَينْجَحُ كايتو كيد في تَحْطِيمِ اللُّغز وَقَبْضُ علىٰ الْجَوْهَرَة ؟ أَمْ أَنَّ للأَقْدارِ كلمَةٌ أُخْرَى؟\n\n",
     "EpisodeMangaQuoted": "1100-1102",
     "EpisodeSeason": "الثلاثون",
-    "EpisodeSeasonCount": "4",
+    "EpisodeSeasonCount": "5",
     "EpisodeNotes": "",
     "EpisodeEvents": "",
     "EpisodeBCDate": "2025-01-25",
     "EpisodeRRDate": "",
     "EpisodeRMDate": "",
     "EpisodeRMDate2": "",
-    "EpisodeNextHint": "",
+    "EpisodeNextHint": "رباط الحذاء",
     "EpisodeEventsAdvanced": "",
     "EpisodeSummary": "",
     "EpisodeCurrentHint": "قابل للعكس",
     "EpisodeParts": "339",
     "EpisodeFilterAdvanced": "4KM0 5AY3  10SS1 80KK1  23AE1 60JS1 69GN1 68RM1 68RM3 56RF1 29RW3",
-    "EpisodeVideosIDs": null,
+    "EpisodeVideosIDs": [
+      {
+        "VideoID": "BAACAgQAAxkBAAIhsGeUylsNFRTJ-0HlfWdWtV1qnFebAAI5GgACdt-pUB0xoDwDBCT6NgQ",
+        "Resolution": "1080p",
+        "Size": "459.09"
+      }
+    ],
     "EpisodeMangasIDs": [
       {
         "MangaNumber": "1100",
@@ -44256,5 +44272,29 @@
         "MangaFileSize": "50.6"
       }
     ]
+  },
+  {
+    "EpisodeNumber": "1152",
+    "EpisodeTitle": "الرقصة الأخيرة",
+    "EpisodeType": "ف",
+    "EpisodeSpecial": "",
+    "EpisodeStory": "",
+    "EpisodeMangaQuoted": "",
+    "EpisodeSeason": "الثلاثون",
+    "EpisodeSeasonCount": "5",
+    "EpisodeNotes": "",
+    "EpisodeEvents": "",
+    "EpisodeBCDate": "2025-02-01",
+    "EpisodeRRDate": "",
+    "EpisodeRMDate": "",
+    "EpisodeRMDate2": "",
+    "EpisodeNextHint": "",
+    "EpisodeEventsAdvanced": "",
+    "EpisodeSummary": "",
+    "EpisodeCurrentHint": "رباط الحذاء",
+    "EpisodeParts": "",
+    "EpisodeFilterAdvanced": "10SS1",
+    "EpisodeVideosIDs": null,
+    "EpisodeMangasIDs": null
   }
 ]
