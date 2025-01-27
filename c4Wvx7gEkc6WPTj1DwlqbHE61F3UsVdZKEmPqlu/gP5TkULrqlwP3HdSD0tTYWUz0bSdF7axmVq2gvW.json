@@ -44255,9 +44255,19 @@
         "Size": "459.09"
       },
       {
-        "VideoID": "BAACAgQAAxkBAAIhzWeU7G_wd6PjTwfrTmzeUvLh8Kx2AAJuGQACTgihUNACtioT-GFSNgQ",
+        "VideoID": "BAACAgQAAxkBAAIjX2eXVPbrgQux9pQpto8cn8rhwZjqAAJZFwACNdu5UHWwK_L_2FUvNgQ",
         "Resolution": "720p",
-        "Size": "189.09"
+        "Size": "279.06"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIjYGeXVPnlkqoLiEhrcBusNOd914ZeAAIcHAACzJO5UKsp8gdJBpTqNgQ",
+        "Resolution": "480p",
+        "Size": "103.77"
+      },
+      {
+        "VideoID": "BAACAgQAAxkBAAIjYWeXVP18EV9Yh4nDD2r4cjf01lw_AAJlFQACXtO5UKXGyFXezpINNgQ",
+        "Resolution": "360p",
+        "Size": "79.06"
       }
     ],
     "EpisodeMangasIDs": [
