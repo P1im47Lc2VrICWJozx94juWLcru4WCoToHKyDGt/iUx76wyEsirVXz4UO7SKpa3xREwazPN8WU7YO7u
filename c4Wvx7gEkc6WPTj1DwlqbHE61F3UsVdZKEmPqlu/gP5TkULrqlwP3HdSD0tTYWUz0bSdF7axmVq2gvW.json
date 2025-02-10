@@ -43782,7 +43782,13 @@
     "EpisodeCurrentHint": "رباط الحذاء",
     "EpisodeParts": "",
     "EpisodeFilterAdvanced": "10SS1",
-    "EpisodeVideosIDs": null,
+    "EpisodeVideosIDs": [
+      {
+        "VideoID": "BAACAgIAAxkBAAOFZ6lqwDJ8Q7-h9B1F3MEW7ezPunwAAhNgAALjwklJR2RTjLqMLL82BA",
+        "Resolution": "720p",
+        "Size": "468.36"
+      }
+    ],
     "EpisodeMangasIDs": null
   },
   {
