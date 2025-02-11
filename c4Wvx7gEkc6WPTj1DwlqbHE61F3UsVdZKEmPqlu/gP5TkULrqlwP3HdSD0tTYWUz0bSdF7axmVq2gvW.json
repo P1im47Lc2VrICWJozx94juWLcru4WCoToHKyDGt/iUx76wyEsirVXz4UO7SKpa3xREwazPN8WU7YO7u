@@ -32,7 +32,13 @@
         "Size": "108.04"
       }
     ],
-    "EpisodeMangasIDs": null
+    "EpisodeMangasIDs": [
+      {
+        "MangaNumber": "1",
+        "MangaFileID": "BQACAgQAAxkBAAIrymepw8Bk8NC3QXRDT6lwP4AW0bzWAAKcFAAC_FmQUKD3AAEKb7CuaTYE",
+        "MangaFileSize": "35.06"
+      }
+    ]
   },
   {
     "EpisodeNumber": "2",
