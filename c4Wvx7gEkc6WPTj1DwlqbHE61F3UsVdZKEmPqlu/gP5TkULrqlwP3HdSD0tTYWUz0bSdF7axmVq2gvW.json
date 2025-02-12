@@ -10666,7 +10666,7 @@
     "EpisodeType": "م",
     "EpisodeSpecial": "",
     "EpisodeStory": "رحلةٌ على متنِ قطارِ شينكانسن فائقِ السرعة تتحولُ إلى ساحةِ جريمةٍ مُروّعة. مُجرمٌ تحتَ الحراسةِ يُفارقُ الحياةَ في ظروفٍ غامضة. قنبلةٌ مُوقوتةٌ تُهددُ سلامةَ الرُكاب. بينَ سرعةِ القطار ودهاليزِ الغموض، تتشابكُ الخيوطُ وتتعقَّد. هل سيتمكنُ كشفُ الحقيقةِ من فكِّ رموزِ هذهِ الجريمة وكشفِ هويةِ القاتل ودوافعهِ الخفية؟ أم أنَّ أسرارَ القطار ستظلُّ مَخفيةً بينَ سرعةِ القضبانِ ودهاليزِ العربات؟",
-    "EpisodeMangaQuoted": "293-295",
+    "EpisodeMangaQuoted": "296-298",
     "EpisodeSeason": "السادس",
     "EpisodeSeasonCount": "44",
     "EpisodeNotes": "",
@@ -10712,7 +10712,7 @@
     "EpisodeType": "م",
     "EpisodeSpecial": "",
     "EpisodeStory": "رحلةٌ على متنِ قطارِ شينكانسن فائقِ السرعة تتحولُ إلى ساحةِ جريمةٍ مُروّعة. مُجرمٌ تحتَ الحراسةِ يُفارقُ الحياةَ في ظروفٍ غامضة. قنبلةٌ مُوقوتةٌ تُهددُ سلامةَ الرُكاب. بينَ سرعةِ القطار ودهاليزِ الغموض، تتشابكُ الخيوطُ وتتعقَّد. هل سيتمكنُ كشفُ الحقيقةِ من فكِّ رموزِ هذهِ الجريمة وكشفِ هويةِ القاتل ودوافعهِ الخفية؟ أم أنَّ أسرارَ القطار ستظلُّ مَخفيةً بينَ سرعةِ القضبانِ ودهاليزِ العربات؟",
-    "EpisodeMangaQuoted": "293-295",
+    "EpisodeMangaQuoted": "296-298",
     "EpisodeSeason": "السادس",
     "EpisodeSeasonCount": "44",
     "EpisodeNotes": "",
@@ -10799,7 +10799,7 @@
     "EpisodeType": "م",
     "EpisodeSpecial": "",
     "EpisodeStory": "شخصٌ يُنتحلُ شخصيةَ مُحققٍ مشهورٍ في فندقٍ مُنعزلٍ بالقربِ من غابةٍ مُخيفة. انتحارٌ غامضٌ يُعيدُ فتحَ ملفِ قضيةٍ قديمة. جريمةُ قتلٍ مُروّعةٌ تُلقي بظلالِها على الأحداث. بينَ أروقةِ الفندق ودهاليزِ الغموض، تتشابكُ الخيوطُ وتتعقَّد. هل سيتمكنُ كشفُ الحقيقةِ من فكِّ رموزِ هذهِ الجرائم وكشفِ هويةِ القاتل ودوافعهِ الخفية؟ أم أنَّ أسرارَ الغابة ستظلُّ تُطاردُ المكانَ إلى الأبد؟",
-    "EpisodeMangaQuoted": "303-304",
+    "EpisodeMangaQuoted": "308-310",
     "EpisodeSeason": "السادس",
     "EpisodeSeasonCount": "44",
     "EpisodeNotes": "",
@@ -10845,7 +10845,7 @@
     "EpisodeType": "م",
     "EpisodeSpecial": "",
     "EpisodeStory": "شخصٌ يُنتحلُ شخصيةَ مُحققٍ مشهورٍ في فندقٍ مُنعزلٍ بالقربِ من غابةٍ مُخيفة. انتحارٌ غامضٌ يُعيدُ فتحَ ملفِ قضيةٍ قديمة. جريمةُ قتلٍ مُروّعةٌ تُلقي بظلالِها على الأحداث. بينَ أروقةِ الفندق ودهاليزِ الغموض، تتشابكُ الخيوطُ وتتعقَّد. هل سيتمكنُ كشفُ الحقيقةِ من فكِّ رموزِ هذهِ الجرائم وكشفِ هويةِ القاتل ودوافعهِ الخفية؟ أم أنَّ أسرارَ الغابة ستظلُّ تُطاردُ المكانَ إلى الأبد؟",
-    "EpisodeMangaQuoted": "303-304",
+    "EpisodeMangaQuoted": "308-310",
     "EpisodeSeason": "السادس",
     "EpisodeSeasonCount": "44",
     "EpisodeNotes": "",
@@ -15335,7 +15335,23 @@
         "Size": "72.67"
       }
     ],
-    "EpisodeMangasIDs": null
+    "EpisodeMangasIDs": [
+      {
+        "MangaNumber": "435",
+        "MangaFileID": "BQACAgQAAxkBAAIt-2epz0k8egnvtEK20J5Bb0UnLJvXAAK1FQACmm-QULAMBJkDGIXBNgQ",
+        "MangaFileSize": "25.06"
+      },
+      {
+        "MangaNumber": "436",
+        "MangaFileID": "BQACAgQAAxkBAAIt_Gepz0koUmOGu71v2i9XxsNVVA_XAAKlFQACmm-QUEoC0X7oud-TNgQ",
+        "MangaFileSize": "21.25"
+      },
+      {
+        "MangaNumber": "437",
+        "MangaFileID": "BQACAgQAAxkBAAIt_Wepz0nrymmfTECKMXdYVn5EMIAVAAKVFQACmm-QUKpP-3y0n7lcNgQ",
+        "MangaFileSize": "23.81"
+      }
+    ]
   },
   {
     "EpisodeNumber": "348",
@@ -21393,7 +21409,7 @@
     "EpisodeType": "م",
     "EpisodeSpecial": "",
     "EpisodeStory": "بحثٌ عن الحقيقة، جريمتانِ في قصر، وماضٍ يُلقي بِظلالِهِ. من تأكيدِ هويةٍ غامضةٍ إلى جريمةِ قتلٍ جديدةٍ في قصرٍ تُحيطُ بهِ الأسرار، تتشابكُ خيوطُ الأحداثِ وتتعقدُ العلاقات. شهادةُ ميلادٍ تكشفُ سرًا، وجريمةُ قتلٍ قديمةٌ تُعادُ فتحُ ملفاتِها. سقوطٌ من شرفة، غرقٌ في بركة، وحادثُ سيارةٍ على منحدر، جميعُها تُثيرُ تساؤلاتٍ حولَ طبيعةِ العلاقاتِ بينَ سُكانِ القصر. هل هي مُجردُ صدفةٍ مُحزنة؟ أم أنَّ هناكَ سرًا أخطرَ يُخفيهِ ستارُ الغموض؟ رحلةُ كشفٍ مُثيرةٍ تبدأ، لكشفِ الحقيقةِ المُرة. هل سيُكشفُ الستارُ عن جميعِ هذهِ الأسرار؟ أم أنَّ الماضي سيُطاردُ الحاضرَ إلى الأبد؟",
-    "EpisodeMangaQuoted": "586-590",
+    "EpisodeMangaQuoted": "585-590",
     "EpisodeSeason": "الثالث عشر",
     "EpisodeSeasonCount": "30",
     "EpisodeNotes": "",
@@ -22083,7 +22099,23 @@
         "Size": "140.04"
       }
     ],
-    "EpisodeMangasIDs": null
+    "EpisodeMangasIDs": [
+      {
+        "MangaNumber": "610",
+        "MangaFileID": "BQACAgQAAxkBAAIurGep0GIEh5nBizP_Mfk-3oen9A6VAAJqFwAC_FmQUMNAJl6TvENWNgQ",
+        "MangaFileSize": "3.28"
+      },
+      {
+        "MangaNumber": "611",
+        "MangaFileID": "BQACAgQAAxkBAAIurWep0GLJs7fafSleObfsUaD8BzpcAAIbFwAC_FmQUKlyvC0ybM0DNgQ",
+        "MangaFileSize": "2.95"
+      },
+      {
+        "MangaNumber": "612",
+        "MangaFileID": "BQACAgQAAxkBAAIurmep0GJEK3JvnaWi-oCv6mj7AAFj5wACyhYAAvxZkFA9BoxTHZrrvDYE",
+        "MangaFileSize": "3.16"
+      }
+    ]
   },
   {
     "EpisodeNumber": "506",
