@@ -52091,194 +52091,355 @@
   ],
   "Mangas": [
     {
-      "MangaNumber": "0",
-      "MangaFileID": "BQACAgQAAxkBAAIryWepw8DW74qPTrOJ-hM4PQd94kQSAALfGAAC_FmQUEOQAAHZabWcUzYE",
-      "MangaFileSize": "13.54"
+      "MangasIDs": [
+        {
+          "MangaNumber": "0",
+          "MangaFileID": "BQACAgQAAxkBAAIryWepw8DW74qPTrOJ-hM4PQd94kQSAALfGAAC_FmQUEOQAAHZabWcUzYE",
+          "MangaFileSize": "13.54"
+        }
+      ]
     },
     {
-      "MangaNumber": "1103",
-      "MangaFileID": "BQACAgQAAxkBAAIwmWep0aeo7_8ovPwdctpEz9I2DrJxAAJcGAAC_FmQUGagYT_9y8usNgQ",
-      "MangaFileSize": "66.14"
+      "MangasIDs": [
+        {
+          "MangaNumber": "1103",
+          "MangaFileID": "BQACAgQAAxkBAAIwmWep0aeo7_8ovPwdctpEz9I2DrJxAAJcGAAC_FmQUGagYT_9y8usNgQ",
+          "MangaFileSize": "66.14"
+        }
+      ]
     },
     {
-      "MangaNumber": "1104",
-      "MangaFileID": "BQACAgQAAxkBAAIwmmep0afdgNItQ-zdmBrLvJWDzyV9AAJNGAAC_FmQUKjOgjhFQzNiNgQ",
-      "MangaFileSize": "63.62"
+      "MangasIDs": [
+        {
+          "MangaNumber": "1104",
+          "MangaFileID": "BQACAgQAAxkBAAIwmmep0afdgNItQ-zdmBrLvJWDzyV9AAJNGAAC_FmQUKjOgjhFQzNiNgQ",
+          "MangaFileSize": "63.62"
+        }
+      ]
     },
     {
-      "MangaNumber": "1105",
-      "MangaFileID": "BQACAgQAAxkBAAIwm2ep0acdZdA-6IGQJh7RQ5ecOyViAAK2GAAC_FmQULBqMTjY3ouuNgQ",
-      "MangaFileSize": "57.23"
+      "MangasIDs": [
+        {
+          "MangaNumber": "1105",
+          "MangaFileID": "BQACAgQAAxkBAAIwm2ep0acdZdA-6IGQJh7RQ5ecOyViAAK2GAAC_FmQULBqMTjY3ouuNgQ",
+          "MangaFileSize": "57.23"
+        }
+      ]
     },
     {
-      "MangaNumber": "1106",
-      "MangaFileID": "BQACAgQAAxkBAAIwnGep0aepAvtnmeKQCCUiZRqhy8naAAJrGAAC_FmQUJWXN6SbdKJ0NgQ",
-      "MangaFileSize": "67.76"
+      "MangasIDs": [
+        {
+          "MangaNumber": "1106",
+          "MangaFileID": "BQACAgQAAxkBAAIwnGep0aepAvtnmeKQCCUiZRqhy8naAAJrGAAC_FmQUJWXN6SbdKJ0NgQ",
+          "MangaFileSize": "67.76"
+        }
+      ]
     },
     {
-      "MangaNumber": "1107",
-      "MangaFileID": "BQACAgQAAxkBAAIwnWep0adwIa_hT4Ib0cf6rZoTqxgnAALFGAAC_FmQUG-3_f756upkNgQ",
-      "MangaFileSize": "54.98"
+      "MangasIDs": [
+        {
+          "MangaNumber": "1107",
+          "MangaFileID": "BQACAgQAAxkBAAIwnWep0adwIa_hT4Ib0cf6rZoTqxgnAALFGAAC_FmQUG-3_f756upkNgQ",
+          "MangaFileSize": "54.98"
+        }
+      ]
     },
     {
-      "MangaNumber": "1108",
-      "MangaFileID": "BQACAgQAAxkBAAIwnmep0acC_mrj4Z_ueoqgIx9J9wHZAAJ6GAAC_FmQUM0K6ReFXG41NgQ",
-      "MangaFileSize": "55.84"
+      "MangasIDs": [
+        {
+          "MangaNumber": "1108",
+          "MangaFileID": "BQACAgQAAxkBAAIwnmep0acC_mrj4Z_ueoqgIx9J9wHZAAJ6GAAC_FmQUM0K6ReFXG41NgQ",
+          "MangaFileSize": "55.84"
+        }
+      ]
     },
     {
-      "MangaNumber": "1109",
-      "MangaFileID": "BQACAgQAAxkBAAIwn2ep0aefDcUdZv_y7LQaEUAz3ohRAALVGAAC_FmQUAT1xakwp70SNgQ",
-      "MangaFileSize": "70"
+      "MangasIDs": [
+        {
+          "MangaNumber": "1109",
+          "MangaFileID": "BQACAgQAAxkBAAIwn2ep0aefDcUdZv_y7LQaEUAz3ohRAALVGAAC_FmQUAT1xakwp70SNgQ",
+          "MangaFileSize": "70"
+        }
+      ]
     },
     {
-      "MangaNumber": "1110",
-      "MangaFileID": "BQACAgQAAxkBAAIwoGep0af6zBzTc2y1gxN5XePNoHEwAAKQGAAC_FmQUA9uPE7qd5IoNgQ",
-      "MangaFileSize": "56.15"
+      "MangasIDs": [
+        {
+          "MangaNumber": "1110",
+          "MangaFileID": "BQACAgQAAxkBAAIwoGep0af6zBzTc2y1gxN5XePNoHEwAAKQGAAC_FmQUA9uPE7qd5IoNgQ",
+          "MangaFileSize": "56.15"
+        }
+      ]
     },
     {
-      "MangaNumber": "1111",
-      "MangaFileID": "BQACAgQAAxkBAAIwoWep0aeURhr6pxSECOboIW5VNYrlAAJIGAAC_FmQUEaND10PtkqgNgQ",
-      "MangaFileSize": "40.59"
+      "MangasIDs": [
+        {
+          "MangaNumber": "1111",
+          "MangaFileID": "BQACAgQAAxkBAAIwoWep0aeURhr6pxSECOboIW5VNYrlAAJIGAAC_FmQUEaND10PtkqgNgQ",
+          "MangaFileSize": "40.59"
+        }
+      ]
     },
     {
-      "MangaNumber": "1112",
-      "MangaFileID": "BQACAgQAAxkBAAIwomep0aeCNpkD7k5v8tmvv5AUfVBrAAI4GAAC_FmQUDita8Jr8DxmNgQ",
-      "MangaFileSize": "53.04"
+      "MangasIDs": [
+        {
+          "MangaNumber": "1112",
+          "MangaFileID": "BQACAgQAAxkBAAIwomep0aeCNpkD7k5v8tmvv5AUfVBrAAI4GAAC_FmQUDita8Jr8DxmNgQ",
+          "MangaFileSize": "53.04"
+        }
+      ]
     },
     {
-      "MangaNumber": "1113",
-      "MangaFileID": "BQACAgQAAxkBAAIwo2ep0acXMkUtXTo82KZQw9uXNuvAAAKhGAAC_FmQUInovlAD6fShNgQ",
-      "MangaFileSize": "53.57"
+      "MangasIDs": [
+        {
+          "MangaNumber": "1113",
+          "MangaFileID": "BQACAgQAAxkBAAIwo2ep0acXMkUtXTo82KZQw9uXNuvAAAKhGAAC_FmQUInovlAD6fShNgQ",
+          "MangaFileSize": "53.57"
+        }
+      ]
     },
     {
-      "MangaNumber": "1114",
-      "MangaFileID": "BQACAgQAAxkBAAIwpGep0adOR05bA34SR5fJ8_zE0VJmAAKxGAAC_FmQUOilx7OEpaPWNgQ",
-      "MangaFileSize": "40.47"
+      "MangasIDs": [
+        {
+          "MangaNumber": "1114",
+          "MangaFileID": "BQACAgQAAxkBAAIwpGep0adOR05bA34SR5fJ8_zE0VJmAAKxGAAC_FmQUOilx7OEpaPWNgQ",
+          "MangaFileSize": "40.47"
+        }
+      ]
     },
     {
-      "MangaNumber": "1115",
-      "MangaFileID": "BQACAgQAAxkBAAIwpWep0afjx22KGKmfo2eFJEzHwpfIAAJmGAAC_FmQUBsap4skf8jnNgQ",
-      "MangaFileSize": "49.37"
+      "MangasIDs": [
+        {
+          "MangaNumber": "1115",
+          "MangaFileID": "BQACAgQAAxkBAAIwpWep0afjx22KGKmfo2eFJEzHwpfIAAJmGAAC_FmQUBsap4skf8jnNgQ",
+          "MangaFileSize": "49.37"
+        }
+      ]
     },
     {
-      "MangaNumber": "1116",
-      "MangaFileID": "BQACAgQAAxkBAAIwpmep0aeN72NUEX_KwbFFRLuO6A5dAAJWGAAC_FmQUEEupsZwAxQ2NgQ",
-      "MangaFileSize": "41.65"
+      "MangasIDs": [
+        {
+          "MangaNumber": "1116",
+          "MangaFileID": "BQACAgQAAxkBAAIwpmep0aeN72NUEX_KwbFFRLuO6A5dAAJWGAAC_FmQUEEupsZwAxQ2NgQ",
+          "MangaFileSize": "41.65"
+        }
+      ]
     },
     {
-      "MangaNumber": "1117",
-      "MangaFileID": "BQACAgQAAxkBAAIwp2ep0af_yrw2tQlqZc1gynZMOzMEAAK_GAAC_FmQUBKMwc0u_XT9NgQ",
-      "MangaFileSize": "42.49"
+      "MangasIDs": [
+        {
+          "MangaNumber": "1117",
+          "MangaFileID": "BQACAgQAAxkBAAIwp2ep0af_yrw2tQlqZc1gynZMOzMEAAK_GAAC_FmQUBKMwc0u_XT9NgQ",
+          "MangaFileSize": "42.49"
+        }
+      ]
     },
     {
-      "MangaNumber": "1118",
-      "MangaFileID": "BQACAgQAAxkBAAIwqGep0aezRDoVLFx_sxkWxW0r4wTZAALQGAAC_FmQUDygfiN-2qj0NgQ",
-      "MangaFileSize": "43.31"
+      "MangasIDs": [
+        {
+          "MangaNumber": "1118",
+          "MangaFileID": "BQACAgQAAxkBAAIwqGep0aezRDoVLFx_sxkWxW0r4wTZAALQGAAC_FmQUDygfiN-2qj0NgQ",
+          "MangaFileSize": "43.31"
+        }
+      ]
     },
     {
-      "MangaNumber": "1119",
-      "MangaFileID": "BQACAgQAAxkBAAIwqWep0ad6HVr3IOV0R5L1pG6aOH_rAAKEGAAC_FmQUEXr5-ltu6XHNgQ",
-      "MangaFileSize": "49.6"
+      "MangasIDs": [
+        {
+          "MangaNumber": "1119",
+          "MangaFileID": "BQACAgQAAxkBAAIwqWep0ad6HVr3IOV0R5L1pG6aOH_rAAKEGAAC_FmQUEXr5-ltu6XHNgQ",
+          "MangaFileSize": "49.6"
+        }
+      ]
     },
     {
-      "MangaNumber": "1120",
-      "MangaFileID": "BQACAgQAAxkBAAIwqmep0adBt3z_BQrtbpItcwILehMzAAJCGAAC_FmQUBR-nVeSO44bNgQ",
-      "MangaFileSize": "38.89"
+      "MangasIDs": [
+        {
+          "MangaNumber": "1120",
+          "MangaFileID": "BQACAgQAAxkBAAIwqmep0adBt3z_BQrtbpItcwILehMzAAJCGAAC_FmQUBR-nVeSO44bNgQ",
+          "MangaFileSize": "38.89"
+        }
+      ]
     },
     {
-      "MangaNumber": "1121",
-      "MangaFileID": "BQACAgQAAxkBAAIwq2ep0aeVLz1P0fCxExOJ8niyUe-KAAKrGAAC_FmQUCQlolMNR_njNgQ",
-      "MangaFileSize": "42.74"
+      "MangasIDs": [
+        {
+          "MangaNumber": "1121",
+          "MangaFileID": "BQACAgQAAxkBAAIwq2ep0aeVLz1P0fCxExOJ8niyUe-KAAKrGAAC_FmQUCQlolMNR_njNgQ",
+          "MangaFileSize": "42.74"
+        }
+      ]
     },
     {
-      "MangaNumber": "1122",
-      "MangaFileID": "BQACAgQAAxkBAAIwrGep0aeRa4rHKkih0nmm1AlqeWr_AAJgGAAC_FmQUGd2qgX7DXTcNgQ",
-      "MangaFileSize": "38.35"
+      "MangasIDs": [
+        {
+          "MangaNumber": "1122",
+          "MangaFileID": "BQACAgQAAxkBAAIwrGep0aeRa4rHKkih0nmm1AlqeWr_AAJgGAAC_FmQUGd2qgX7DXTcNgQ",
+          "MangaFileSize": "38.35"
+        }
+      ]
     },
     {
-      "MangaNumber": "1123",
-      "MangaFileID": "BQACAgQAAxkBAAIwrWep0afrGox7yOCBBqkEc8rcbeQmAAJ0GAAC_FmQUJdbm-NI9vjtNgQ",
-      "MangaFileSize": "60.14"
+      "MangasIDs": [
+        {
+          "MangaNumber": "1123",
+          "MangaFileID": "BQACAgQAAxkBAAIwrWep0afrGox7yOCBBqkEc8rcbeQmAAJ0GAAC_FmQUJdbm-NI9vjtNgQ",
+          "MangaFileSize": "60.14"
+        }
+      ]
     },
     {
-      "MangaNumber": "1124",
-      "MangaFileID": "BQACAgQAAxkBAAIwrmep0af94gXfWU8xneJ_wV3ZP9JTAAIyGAAC_FmQUMKqdiPo322mNgQ",
-      "MangaFileSize": "30.23"
+      "MangasIDs": [
+        {
+          "MangaNumber": "1124",
+          "MangaFileID": "BQACAgQAAxkBAAIwrmep0af94gXfWU8xneJ_wV3ZP9JTAAIyGAAC_FmQUMKqdiPo322mNgQ",
+          "MangaFileSize": "30.23"
+        }
+      ]
     },
     {
-      "MangaNumber": "1125",
-      "MangaFileID": "BQACAgQAAxkBAAIwr2ep0acT_8IRIu8Ir9obFv4CXbP5AAKbGAAC_FmQUN3szUf8rzmeNgQ",
-      "MangaFileSize": "30.51"
+      "MangasIDs": [
+        {
+          "MangaNumber": "1125",
+          "MangaFileID": "BQACAgQAAxkBAAIwr2ep0acT_8IRIu8Ir9obFv4CXbP5AAKbGAAC_FmQUN3szUf8rzmeNgQ",
+          "MangaFileSize": "30.51"
+        }
+      ]
     },
     {
-      "MangaNumber": "1126",
-      "MangaFileID": "BQACAgQAAxkBAAIwsGep0ad92kZljg0gt2ofDeJdpbs_AAJQGAAC_FmQUCsbpZJr5HoJNgQ",
-      "MangaFileSize": "32.04"
+      "MangasIDs": [
+        {
+          "MangaNumber": "1126",
+          "MangaFileID": "BQACAgQAAxkBAAIwsGep0ad92kZljg0gt2ofDeJdpbs_AAJQGAAC_FmQUCsbpZJr5HoJNgQ",
+          "MangaFileSize": "32.04"
+        }
+      ]
     },
     {
-      "MangaNumber": "1127",
-      "MangaFileID": "BQACAgQAAxkBAAIwsWep0afVCxL_jTpvMf1zfpct5tXFAAK5GAAC_FmQUJduf-dFVinYNgQ",
-      "MangaFileSize": "28.94"
+      "MangasIDs": [
+        {
+          "MangaNumber": "1127",
+          "MangaFileID": "BQACAgQAAxkBAAIwsWep0afVCxL_jTpvMf1zfpct5tXFAAK5GAAC_FmQUJduf-dFVinYNgQ",
+          "MangaFileSize": "28.94"
+        }
+      ]
     },
     {
-      "MangaNumber": "1128",
-      "MangaFileID": "BQACAgQAAxkBAAIwsmep0adtzz6REKQ0yraaA0kXcxS6AALJGAAC_FmQUCcigj0AAZupRTYE",
-      "MangaFileSize": "27.73"
+      "MangasIDs": [
+        {
+          "MangaNumber": "1128",
+          "MangaFileID": "BQACAgQAAxkBAAIwsmep0adtzz6REKQ0yraaA0kXcxS6AALJGAAC_FmQUCcigj0AAZupRTYE",
+          "MangaFileSize": "27.73"
+        }
+      ]
     },
     {
-      "MangaNumber": "1129",
-      "MangaFileID": "BQACAgQAAxkBAAIws2ep0ad5W346BB-mxjDKq7IewsABAAJ-GAAC_FmQUGqdjgFj4haqNgQ",
-      "MangaFileSize": "28.91"
+      "MangasIDs": [
+        {
+          "MangaNumber": "1129",
+          "MangaFileID": "BQACAgQAAxkBAAIws2ep0ad5W346BB-mxjDKq7IewsABAAJ-GAAC_FmQUGqdjgFj4haqNgQ",
+          "MangaFileSize": "28.91"
+        }
+      ]
     },
     {
-      "MangaNumber": "1130",
-      "MangaFileID": "BQACAgQAAxkBAAIwtGep0acGCHXYx4JpwFH_gGdEFTlgAAI8GAAC_FmQUAgIl95pRSK3NgQ",
-      "MangaFileSize": "33.31"
+      "MangasIDs": [
+        {
+          "MangaNumber": "1130",
+          "MangaFileID": "BQACAgQAAxkBAAIwtGep0acGCHXYx4JpwFH_gGdEFTlgAAI8GAAC_FmQUAgIl95pRSK3NgQ",
+          "MangaFileSize": "33.31"
+        }
+      ]
     },
     {
-      "MangaNumber": "1131",
-      "MangaFileID": "BQACAgQAAxkBAAIwtWep0afp2dfs54ai1rXtnpvB0NhPAAKlGAAC_FmQUHJkeV7Ne1wJNgQ",
-      "MangaFileSize": "31.38"
+      "MangasIDs": [
+        {
+          "MangaNumber": "1131",
+          "MangaFileID": "BQACAgQAAxkBAAIwtWep0afp2dfs54ai1rXtnpvB0NhPAAKlGAAC_FmQUHJkeV7Ne1wJNgQ",
+          "MangaFileSize": "31.38"
+        }
+      ]
     },
     {
-      "MangaNumber": "1132",
-      "MangaFileID": "BQACAgQAAxkBAAIwtmep0acEEhglcYXF3_pZB5tSDo6sAAJaGAAC_FmQUPfF0mpCAj5SNgQ",
-      "MangaFileSize": "32.01"
+      "MangasIDs": [
+        {
+          "MangaNumber": "1132",
+          "MangaFileID": "BQACAgQAAxkBAAIwtmep0acEEhglcYXF3_pZB5tSDo6sAAJaGAAC_FmQUPfF0mpCAj5SNgQ",
+          "MangaFileSize": "32.01"
+        }
+      ]
     },
     {
-      "MangaNumber": "1133",
-      "MangaFileID": "BQACAgQAAxkBAAIwt2ep0aeIKgJINKAWIduAMTFTtPURAAJuGAAC_FmQUMK-_c4LfkBdNgQ",
-      "MangaFileSize": "49.17"
+      "MangasIDs": [
+        {
+          "MangaNumber": "1133",
+          "MangaFileID": "BQACAgQAAxkBAAIwt2ep0aeIKgJINKAWIduAMTFTtPURAAJuGAAC_FmQUMK-_c4LfkBdNgQ",
+          "MangaFileSize": "49.17"
+        }
+      ]
     },
     {
-      "MangaNumber": "1134",
-      "MangaFileID": "BQACAgQAAxkBAAIwuGep0afEu3uf9AABZQatJ71NUHA66gACchYAAm2V8FFXUT8vAgtWOzYE",
-      "MangaFileSize": "36.77"
+      "MangasIDs": [
+        {
+          "MangaNumber": "1134",
+          "MangaFileID": "BQACAgQAAxkBAAIwuGep0afEu3uf9AABZQatJ71NUHA66gACchYAAm2V8FFXUT8vAgtWOzYE",
+          "MangaFileSize": "36.77"
+        }
+      ]
     },
     {
-      "MangaNumber": "1135",
-      "MangaFileID": "BQACAgQAAxkBAAIwuWep0acTu49DAe17bLSXdnGoH_4qAALkFAACWgABMFLmgiR4czs_bTYE",
-      "MangaFileSize": "33.74"
+      "MangasIDs": [
+        {
+          "MangaNumber": "1135",
+          "MangaFileID": "BQACAgQAAxkBAAIwuWep0acTu49DAe17bLSXdnGoH_4qAALkFAACWgABMFLmgiR4czs_bTYE",
+          "MangaFileSize": "33.74"
+        }
+      ]
     },
     {
-      "MangaNumber": "1136",
-      "MangaFileID": "BQACAgQAAxkBAAIwumep0ac9roT5Rj2CjafgMCvuK-QBAAILFgACzyF4UiAJNv3QtMwpNgQ",
-      "MangaFileSize": "45.02"
+      "MangasIDs": [
+        {
+          "MangaNumber": "1136",
+          "MangaFileID": "BQACAgQAAxkBAAIwumep0ac9roT5Rj2CjafgMCvuK-QBAAILFgACzyF4UiAJNv3QtMwpNgQ",
+          "MangaFileSize": "45.02"
+        }
+      ]
     },
     {
-      "MangaNumber": "1137",
-      "MangaFileID": "BQACAgQAAxkBAAIwu2ep0acHV6ehig9Gt74px5MqXy07AALGFwACvMqJUB2MmlbqnOeUNgQ",
-      "MangaFileSize": "28.42"
+      "MangasIDs": [
+        {
+          "MangaNumber": "1137",
+          "MangaFileID": "BQACAgQAAxkBAAIwu2ep0acHV6ehig9Gt74px5MqXy07AALGFwACvMqJUB2MmlbqnOeUNgQ",
+          "MangaFileSize": "28.42"
+        }
+      ]
     },
     {
-      "MangaNumber": "1138",
-      "MangaFileID": "BQACAgQAAxkBAAIwvGep0adU8iOgvFUU8m1PNUc-chznAALyFgACpUHRUNWLiPTq1MvSNgQ",
-      "MangaFileSize": "30.15"
+      "MangasIDs": [
+        {
+          "MangaNumber": "1138",
+          "MangaFileID": "BQACAgQAAxkBAAIwvGep0adU8iOgvFUU8m1PNUc-chznAALyFgACpUHRUNWLiPTq1MvSNgQ",
+          "MangaFileSize": "30.15"
+        }
+      ]
     },
     {
-      "MangaNumber": "1139",
-      "MangaFileID": "BQACAgQAAxkBAAIrR2eos44pDLUgz4cKErv4QguenXnCAAIzFwACWEAoURPr_yODF9SrNgQ",
-      "MangaFileSize": "29.34"
+      "MangasIDs": [
+        {
+          "MangaNumber": "1139",
+          "MangaFileID": "BQACAgQAAxkBAAIrR2eos44pDLUgz4cKErv4QguenXnCAAIzFwACWEAoURPr_yODF9SrNgQ",
+          "MangaFileSize": "29.34"
+        }
+      ]
+    },
+    {
+      "MangasIDs": [
+        {
+          "MangaNumber": "",
+          "MangaFileID": "",
+          "MangaFileSize": ""
+        }
+      ]
     }
   ]
 }
