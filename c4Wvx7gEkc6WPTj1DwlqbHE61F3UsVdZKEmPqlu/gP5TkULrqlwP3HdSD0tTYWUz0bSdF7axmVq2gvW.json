@@ -52102,6 +52102,15 @@
     {
       "MangasIDs": [
         {
+          "MangaNumber": "594",
+          "MangaFileID": "BQACAgQAAxkBAAIummepz6SL5Z5LBbxD3-NVmVV1dLDXAAIwFwAC_FmQUGO19x04Spw1NgQ",
+          "MangaFileSize": "22.18"
+        }
+      ]
+    },
+    {
+      "MangasIDs": [
+        {
           "MangaNumber": "1103",
           "MangaFileID": "BQACAgQAAxkBAAIwmWep0aeo7_8ovPwdctpEz9I2DrJxAAJcGAAC_FmQUGagYT_9y8usNgQ",
           "MangaFileSize": "66.14"
