@@ -9532,6 +9532,42 @@
       "EpisodeMangasIDs": null
     },
     {
+      "EpisodeNumber": "أوفا 1",
+      "EpisodeTitle": "كونان ضد كيد ضد يايبا - المعركة الكبرى من أجل سيف الكنز!",
+      "EpisodeType": "م",
+      "EpisodeSpecial": "أوفا",
+      "EpisodeStory": "في ليلةٍ حيث تتداخل العوالم وتتصادم الأبطال، يصبح الواقع نفسه سرًا مُحيّرًا. تفاصيل صغيرة، غريبة وغير مألوفة، تُنذر بأن شيئًا ما ليس على ما يُرام. في هذه الرؤيا العجيبة، تُرى ما الذي سيَكشفه البطل ليُدرك طبيعة هذا العالم المُتغيّر؟",
+      "EpisodeMangaQuoted": "18 (ماجيك كايتو)",
+      "EpisodeSeason": "",
+      "EpisodeSeasonCount": "",
+      "EpisodeNotes": "",
+      "EpisodeEvents": "ك ج ط",
+      "EpisodeBCDate": "2000-10-11",
+      "EpisodeRRDate": "",
+      "EpisodeRMDate": "",
+      "EpisodeRMDate2": "",
+      "EpisodeNextHint": "",
+      "EpisodeEventsAdvanced": "",
+      "EpisodeSummary": "",
+      "EpisodeCurrentHint": "",
+      "EpisodeParts": "",
+      "EpisodeFilterAdvanced": "1SK1 5AY1 6MT1 7GK1 8AH1 14HH4 80KK1 81GN1",
+      "EpisodeVideosIDs": [
+        {
+          "VideoID": "BAACAgIAAxkBAAI5bWeyzcIqVbomrtIws_-U4UdLZziMAAKaOQACxPOYSPsgdVkInDgzNgQ",
+          "Resolution": "1080",
+          "Size": "320.58"
+        }
+      ],
+      "EpisodeMangasIDs": [
+        {
+          "MangaNumber": "18",
+          "MangaFileID": "BQACAgUAAxkBAAI5b2eyzjHedcYX1h7Ju_DTsr74snwXAAJ-DwACIttJVHoxtR7wzAhvNgQ",
+          "MangaFileSize": "3.67"
+        }
+      ]
+    },
+    {
       "EpisodeNumber": "209",
       "EpisodeTitle": "قضية السقوط من جبل ربو",
       "EpisodeType": "ف",
@@ -11553,6 +11589,36 @@
       "EpisodeMangasIDs": null
     },
     {
+      "EpisodeNumber": "أوفا2 6",
+      "EpisodeTitle": "قضية اصطياد الوحش الفضائي الغامض",
+      "EpisodeType": "ف",
+      "EpisodeSpecial": "أوفا",
+      "EpisodeStory": "على ضفاف نهر هادئ، تتردد همسات غريبة عن مخلوق سماوي غامض ومطر من دماء. كلمات مبهمة تثير فضول الصغار، وصورة غامضة تسقط سهوًا في أيديهم، لتُشعل فتيل مغامرة غير متوقعة. هل هو وحش قادم من الفضاء؟ أم لغز آخر تخبئه السماء؟ في سماء مليئة بالأسرار، تبدأ رحلة البحث عن الحقيقة.",
+      "EpisodeMangaQuoted": "",
+      "EpisodeSeason": "",
+      "EpisodeSeasonCount": "",
+      "EpisodeNotes": "هذه الأوفا هي الأوفا السادسة من سلسلة موسوعة شوجاكوكان المصورة. وقد تم إصدارها كموسوعة شوجاكوكان للقرن الحادي والعشرين لمتحف الفضاء للأطفال",
+      "EpisodeEvents": "ط",
+      "EpisodeBCDate": "2001-11-09",
+      "EpisodeRRDate": "",
+      "EpisodeRMDate": "",
+      "EpisodeRMDate2": "",
+      "EpisodeNextHint": "",
+      "EpisodeEventsAdvanced": "",
+      "EpisodeSummary": "",
+      "EpisodeCurrentHint": "",
+      "EpisodeParts": "",
+      "EpisodeFilterAdvanced": "4KM0 7GK1 5AY1 6MT1 47GO1 8AH1 9HA1 80KK4",
+      "EpisodeVideosIDs": [
+        {
+          "VideoID": "BAACAgQAAxkBAAI5dmey23Jjw2Dh5xMSagYpdLZVaHzKAAIuEQADhMBTFtXATs-VXW82BA",
+          "Resolution": "420p",
+          "Size": "64.49"
+        }
+      ],
+      "EpisodeMangasIDs": null
+    },
+    {
       "EpisodeNumber": "257",
       "EpisodeTitle": "العقاب الغريب من السماء",
       "EpisodeType": "ف",
@@ -11891,6 +11957,36 @@
           "VideoID": "BAACAgIAAxkBAAINZmd2jprpixjP0UeTaQWJeSwpXHbNAAL5FQAC_ao5SHdv0Pk_jocyNgQ",
           "Resolution": "480p",
           "Size": "80.24"
+        }
+      ],
+      "EpisodeMangasIDs": null
+    },
+    {
+      "EpisodeNumber": "أوفا 2",
+      "EpisodeTitle": "16 مشتبه به؟",
+      "EpisodeType": "ف",
+      "EpisodeSpecial": "أوفا",
+      "EpisodeStory": "في رحاب فيلا فاخرة، حيث يجتمع الأصدقاء للاحتفاء بلحظات البهجة، يتحول المساء الهادئ إلى ساحة للريبة والشك. تحفة ثمينة، قنينة عتيقة من أندر الخمور، تُحطَّم فجأة، لتثير عاصفة من التساؤلات. بين جنبات المكان، يصبح كل مدعوٍ موضع اتهام، وكل ابتسامة تخفي وراءها سرًا. من بين هؤلاء النخبة، مَن الجاني الخفي الذي عبث بهذا الكنز؟ وهل ستنكشف الحقيقة في ليلة مليئة بالظنون والانفعالات المتصاعدة؟",
+      "EpisodeMangaQuoted": "",
+      "EpisodeSeason": "",
+      "EpisodeSeasonCount": "",
+      "EpisodeNotes": "",
+      "EpisodeEvents": "م ط",
+      "EpisodeBCDate": "2002-01-16",
+      "EpisodeRRDate": "",
+      "EpisodeRMDate": "",
+      "EpisodeRMDate2": "",
+      "EpisodeNextHint": "",
+      "EpisodeEventsAdvanced": "",
+      "EpisodeSummary": "",
+      "EpisodeCurrentHint": "",
+      "EpisodeParts": "",
+      "EpisodeFilterAdvanced": "14HH1 15KT1 9HA1 8AH1 7GK1 5AY1 6MT1 32NS1 33MS1 34WT1 31JM1 11EK1 10SS1 1SK3",
+      "EpisodeVideosIDs": [
+        {
+          "VideoID": "BAACAgIAAxkBAAI5cWeyzzRBRau0F5of6W-UXdK2KzdUAAIEMwACWpWYSGeM9eTsc1AFNgQ",
+          "Resolution": "1080p",
+          "Size": "381.42"
         }
       ],
       "EpisodeMangasIDs": null
@@ -14041,6 +14137,36 @@
       ]
     },
     {
+      "EpisodeNumber": "أوفا 3",
+      "EpisodeTitle": "كونان وهيجي والطفل المفقود",
+      "EpisodeType": "ف",
+      "EpisodeSpecial": "أوفا",
+      "EpisodeStory": "في زحام مدينة صاخبة، يتوارى طفل عن الأنظار، تاركًا خلفه لغزًا يلفّه الضباب. نداء استغاثة يصدح في الأجواء، ومجموعة من الصغار الأبرياء يتوجهون نحو المجهول. هل ينجح الكبار في كشف سر هذا الاختفاء المحير؟ وهل يتمكنون من حماية الطفولة من براثن خطر غير مرئي يتربص؟ مع كل خيط ينكشف، تتعاظم الشكوك، وشبح الخطر المتربص يزداد وضوحًا.",
+      "EpisodeMangaQuoted": "",
+      "EpisodeSeason": "",
+      "EpisodeSeasonCount": "",
+      "EpisodeNotes": "",
+      "EpisodeEvents": "ط",
+      "EpisodeBCDate": "2003-03-12",
+      "EpisodeRRDate": "",
+      "EpisodeRMDate": "",
+      "EpisodeRMDate2": "",
+      "EpisodeNextHint": "",
+      "EpisodeEventsAdvanced": "",
+      "EpisodeSummary": "",
+      "EpisodeCurrentHint": "",
+      "EpisodeParts": "",
+      "EpisodeFilterAdvanced": "4KM0 14HH1 15KT1 7GK1 5AY1 6MT1 47GO1",
+      "EpisodeVideosIDs": [
+        {
+          "VideoID": "BAACAgIAAxkBAAI5c2ey1RMDUIIxLopEi73LezfbAen7AAJWNwAC0D6ZSIigOQQREMEqNgQ",
+          "Resolution": "528p",
+          "Size": "129.87"
+        }
+      ],
+      "EpisodeMangasIDs": null
+    },
+    {
       "EpisodeNumber": "314",
       "EpisodeTitle": "سور منصة المشاهدة المكسور",
       "EpisodeType": "ف",
@@ -15777,6 +15903,42 @@
       "EpisodeMangasIDs": null
     },
     {
+      "EpisodeNumber": "أوفا 4",
+      "EpisodeTitle": "كونان وكيد والأم الكريستالية",
+      "EpisodeType": "م",
+      "EpisodeSpecial": "أوفا",
+      "EpisodeStory": "في رحلة ملكية عبر مسارات الليل، يصبح بريقٌ نفيس مطمعًا للأعين الخفية. أشباح تتحرك في الخفاء، وأطماع تتنافس في الظلام. من سيظفر بالكنز الثمين في هذه الليلة المصيرية؟",
+      "EpisodeMangaQuoted": "21 (ماجيك كايتو)",
+      "EpisodeSeason": "",
+      "EpisodeSeasonCount": "",
+      "EpisodeNotes": "",
+      "EpisodeEvents": "ك ر ج",
+      "EpisodeBCDate": "2004-03-03",
+      "EpisodeRRDate": "",
+      "EpisodeRMDate": "",
+      "EpisodeRMDate2": "",
+      "EpisodeNextHint": "",
+      "EpisodeEventsAdvanced": "",
+      "EpisodeSummary": "",
+      "EpisodeCurrentHint": "",
+      "EpisodeParts": "",
+      "EpisodeFilterAdvanced": "4KM0 80KK1 81GN1",
+      "EpisodeVideosIDs": [
+        {
+          "VideoID": "BAACAgIAAxkBAAI5eGey4p5vwcVtRZaG7hd1uc8BgYYvAAKpOQACxPOYSBLV_oGusqffNgQ",
+          "Resolution": "480p",
+          "Size": "175.07"
+        }
+      ],
+      "EpisodeMangasIDs": [
+        {
+          "MangaNumber": "21",
+          "MangaFileID": "BQACAgUAAxkBAAI5emey47K-iG1hBef1Xy3UAAFWPz9zJAACgQ8AAiLbSVS0swRa6v91fDYE",
+          "MangaFileSize": "14.52"
+        }
+      ]
+    },
+    {
       "EpisodeNumber": "354",
       "EpisodeTitle": "الموكل الصغير (الجزء الأول)",
       "EpisodeType": "م",
@@ -17371,6 +17533,36 @@
           "MangaFileSize": "4.02"
         }
       ]
+    },
+    {
+      "EpisodeNumber": "أوفا 5",
+      "EpisodeTitle": "الهدف هو كوجورو!! التقرير السري لفرقة المتحرين الصغار",
+      "EpisodeType": "ف",
+      "EpisodeSpecial": "أوفا",
+      "EpisodeStory": "يوم دراسي عادي، يتحول فجأة إلى مغامرة غير متوقعة. مهمة بسيطة تبدأ بمراقبة روتينية، لتنكشف خيوط مؤامرة مظلمة. في قلب المدينة الصاخبة، تتلاشى الحدود بين المراقبة والتدخل، وبين الدراسة والخطر الحقيقي. حين يختفي شخص في ظروف غامضة، يصبح على الجميع أن يكشفوا أسرارًا تتجاوز مجرد مهمة مدرسية. هل سيتمكن هؤلاء المراقبون الصغار من فك رموز هذا اللغز المعقد قبل فوات الأوان؟",
+      "EpisodeMangaQuoted": "",
+      "EpisodeSeason": "",
+      "EpisodeSeasonCount": "",
+      "EpisodeNotes": "",
+      "EpisodeEvents": "ط",
+      "EpisodeBCDate": "2005-03-09",
+      "EpisodeRRDate": "",
+      "EpisodeRMDate": "",
+      "EpisodeRMDate2": "",
+      "EpisodeNextHint": "",
+      "EpisodeEventsAdvanced": "",
+      "EpisodeSummary": "",
+      "EpisodeCurrentHint": "",
+      "EpisodeParts": "",
+      "EpisodeFilterAdvanced": "5AY1 6MT1 7GK1 8AH1 9HA1 21SK1",
+      "EpisodeVideosIDs": [
+        {
+          "VideoID": "BAACAgQAAxkBAAI5gmey6FDYTi62KkBol4TP1VvfCANCAAIMDwACTlKYUNPU65iRZdZcNgQ",
+          "Resolution": "528p",
+          "Size": "123.08"
+        }
+      ],
+      "EpisodeMangasIDs": null
     },
     {
       "EpisodeNumber": "392",
@@ -19163,6 +19355,36 @@
       "EpisodeMangasIDs": null
     },
     {
+      "EpisodeNumber": "أوفا 6",
+      "EpisodeTitle": "البحث عن الجوهرة المفقودة! كونان وهيجي ضد كيد!",
+      "EpisodeType": "ف",
+      "EpisodeSpecial": "أوفا",
+      "EpisodeStory": "في سكون الليل، يرن جرس الهاتف خطأً، ليصدح بصوتٍ يُشبه صدى صوتٍ مألوف، لكنّه يحمل في طياته نذير شؤم. لص ألماس يُعلن عن نفسه دون أن يقصد، فيفتح بابًا لعالم من الأسرار والخُدع. مطاردة محمومة تبدأ، لكنّ خيطًا آخر يظهر في الأفق... منافسٌ خفي يتربص بالهدف ذاته. بين أروقة التحقيق، تظهر باقة من القرائن الغريبة، تُشير إلى لغز أعمق بكثير ممّا يبدو. فهل سيتم كشف اللثام عن اللص الحقيقي قبل أن يضيع الألماس إلى الأبد؟ ليلة مليئة بالمفاجآت والانعطافات غير المتوقعة تنتظركم.",
+      "EpisodeMangaQuoted": "",
+      "EpisodeSeason": "",
+      "EpisodeSeasonCount": "",
+      "EpisodeNotes": "",
+      "EpisodeEvents": "ك ت",
+      "EpisodeBCDate": "2006-03-15",
+      "EpisodeRRDate": "",
+      "EpisodeRMDate": "",
+      "EpisodeRMDate2": "",
+      "EpisodeNextHint": "",
+      "EpisodeEventsAdvanced": "",
+      "EpisodeSummary": "",
+      "EpisodeCurrentHint": "",
+      "EpisodeParts": "",
+      "EpisodeFilterAdvanced": "1SK3 14HH1 15KT1 20YO1 80KK1 81GN1",
+      "EpisodeVideosIDs": [
+        {
+          "VideoID": "BAACAgQAAxkBAAI5imey8b3WKx1ITawxf81bZgMC6nPjAAIODwACTlKYUMPQ8JVsPB82NgQ",
+          "Resolution": "528p",
+          "Size": "120.08"
+        }
+      ],
+      "EpisodeMangasIDs": null
+    },
+    {
       "EpisodeNumber": "434",
       "EpisodeTitle": "انتصار الكلب العظيم كورو",
       "EpisodeType": "ف",
@@ -20574,6 +20796,36 @@
           "VideoID": "BAACAgIAAxkBAAIOMWd2tQgdcM-rUC3k9ysJ-zo-dYpTAAJ6HAACd285SHB7PUoi1iZLNgQ",
           "Resolution": "480p",
           "Size": "123.27"
+        }
+      ],
+      "EpisodeMangasIDs": null
+    },
+    {
+      "EpisodeNumber": "أوفا 7",
+      "EpisodeTitle": "تحدي من أغاسا! أغاسا ضد فريق المتحرين الصغار",
+      "EpisodeType": "ف",
+      "EpisodeSpecial": "أوفا",
+      "EpisodeStory": "في لعبة شيقة تختلط فيها الحقيقة بالوهم، يتحول سيناريو افتراضي إلى كابوس واقعي. اختفاء مُدبَّر يتحول إلى جريمة حقيقية، والضحية هذه المرة هو العقل المدبر نفسه. نظارات غائبة، ورؤية مشوشة، وخيوط قليلة تقود إلى المجهول... في سباق مع الزمن، يواجه المحققون الصغار تحديًا فريدًا من نوعه. هل يتمكنون من تجميع أجزاء اللغز المتناثرة، وإنقاذ من وقع في الشرك، قبل أن تبتلعه الظلمات؟ مغامرة محفوفة بالمخاطر تبدأ حيث تنتهي حدود الرؤية.",
+      "EpisodeMangaQuoted": "",
+      "EpisodeSeason": "",
+      "EpisodeSeasonCount": "",
+      "EpisodeNotes": "",
+      "EpisodeEvents": "ط",
+      "EpisodeBCDate": "2007-03-14",
+      "EpisodeRRDate": "",
+      "EpisodeRMDate": "",
+      "EpisodeRMDate2": "",
+      "EpisodeNextHint": "",
+      "EpisodeEventsAdvanced": "",
+      "EpisodeSummary": "",
+      "EpisodeCurrentHint": "",
+      "EpisodeParts": "",
+      "EpisodeFilterAdvanced": "5AY1 6MT1 7GK1 8AH1 9HA1 10SS1 33MS1 34WT1",
+      "EpisodeVideosIDs": [
+        {
+          "VideoID": "BAACAgIAAxkBAAI5jGey-gABGWpwDOpekcAa49Wy8ezfmgACWCsAApNSoEhaMbKCaGYXNDYE",
+          "Resolution": "480p",
+          "Size": "175.07"
         }
       ],
       "EpisodeMangasIDs": null
@@ -22238,6 +22490,36 @@
       ]
     },
     {
+      "EpisodeNumber": "أوفا 8",
+      "EpisodeTitle": "دفتر قضايا محققة المدرسة الثانوية سونوكو سوزوكي",
+      "EpisodeType": "ف",
+      "EpisodeSpecial": "أوفا",
+      "EpisodeStory": "في عالم تنصهر فيه الحقيقة بالخيال، تتشابك خيوط جريمة مسرحية مع واقع غير متوقع. ستار يسدل على مؤامرة، وكلمات تُسطّر تكشف عن ألغاز دفينة. رسالة أخيرة من عالم الأموات تصبح مفتاحًا لحل لغز معقد، بينما تتسارع الأحداث ليلة بعد ليلة. هل ستتكشف الحقيقة خلف الكلمات المكتوبة، أم ستظل الحقيقة طي الكتمان إلى الأبد؟",
+      "EpisodeMangaQuoted": "",
+      "EpisodeSeason": "",
+      "EpisodeSeasonCount": "",
+      "EpisodeNotes": "",
+      "EpisodeEvents": "ر ط",
+      "EpisodeBCDate": "2008-03-12",
+      "EpisodeRRDate": "",
+      "EpisodeRMDate": "",
+      "EpisodeRMDate2": "",
+      "EpisodeNextHint": "",
+      "EpisodeEventsAdvanced": "",
+      "EpisodeSummary": "",
+      "EpisodeCurrentHint": "",
+      "EpisodeParts": "",
+      "EpisodeFilterAdvanced": "5AY1 6MT1 7GK1 8AH1 9HA1 10SS1 31JM1 34WT1",
+      "EpisodeVideosIDs": [
+        {
+          "VideoID": "BAACAgQAAxkBAAI5kGey_RaC-uClM58oXwLdgfNDj5q_AAIQDwACTlKYUHIrNbrD1DKUNgQ",
+          "Resolution": "352p",
+          "Size": "131.31"
+        }
+      ],
+      "EpisodeMangasIDs": null
+    },
+    {
       "EpisodeNumber": "الفيلم 12",
       "EpisodeTitle": "معزوفة كاملة من الخوف (2008)",
       "EpisodeType": "ف",
@@ -23421,6 +23703,36 @@
           "MangaFileSize": "3.2"
         }
       ]
+    },
+    {
+      "EpisodeNumber": "أوفا 9",
+      "EpisodeTitle": "الغريب من بعد مرور عشر سنوات",
+      "EpisodeType": "ف",
+      "EpisodeSpecial": "أوفا",
+      "EpisodeStory": "في لحظة ضعف ومرض، ينزلق الوعي إلى عالمٍ مُغاير، حيث الزمن يتسارع، والحياة تتخذ مسارًا لم يكن في الحسبان. قفزة غريبة إلى الأمام... عشر سنوات كاملة، تُبدّل الوجوه وتُغيّر الأقدار. الحبيبة على وشك الارتباط بغيره، والأصدقاء قد كبروا وتغيرت ملامحهم، وكل شيء مألوف يبدو غريبًا ومربكًا. هل هو حلم؟ أم كابوس؟ أم لمحة خاطفة من مستقبل مُحتمل؟ في هذا الواقع المشوش، يجب البحث عن إجابات، وفهم ما إذا كان هذا المصير محتومًا، أم أن هناك سبيلًا للعودة إلى الماضي، وتغيير مسار القدر.",
+      "EpisodeMangaQuoted": "",
+      "EpisodeSeason": "",
+      "EpisodeSeasonCount": "",
+      "EpisodeNotes": "",
+      "EpisodeEvents": "ط ر",
+      "EpisodeBCDate": "2009-03-12",
+      "EpisodeRRDate": "",
+      "EpisodeRMDate": "",
+      "EpisodeRMDate2": "",
+      "EpisodeNextHint": "",
+      "EpisodeEventsAdvanced": "",
+      "EpisodeSummary": "",
+      "EpisodeCurrentHint": "",
+      "EpisodeParts": "",
+      "EpisodeFilterAdvanced": "1SK1 5AY1 6MT1 7GK1 8AH1 10SS1 31JM4 34WT4 74SM1 14HH1 15KT1 27TA1 20YO4 69GN3 70VA3 ",
+      "EpisodeVideosIDs": [
+        {
+          "VideoID": "BAACAgIAAxkBAAI5k2ezAAFHRLuzhcpoeRPSTBMprfe6igACmzYAAqdhmEiKzAABjr0d7kA2BA",
+          "Resolution": "480p",
+          "Size": "230.31"
+        }
+      ],
+      "EpisodeMangasIDs": null
     },
     {
       "EpisodeNumber": "الفيلم 13",
@@ -25138,6 +25450,36 @@
           "VideoID": "BAACAgIAAxkBAAIOxGd24Ipa5JC20KcvdQlDvhvCfEdNAAINFgACW45ISCMXSnz2k59jNgQ",
           "Resolution": "720p",
           "Size": "156.87"
+        }
+      ],
+      "EpisodeMangasIDs": null
+    },
+    {
+      "EpisodeNumber": "أوفا 10",
+      "EpisodeTitle": "كايتو كيد في الجزيرة المفخخة",
+      "EpisodeType": "ف",
+      "EpisodeSpecial": "أوفا",
+      "EpisodeStory": "في أحضان جزيرة نائية، تلفها غابات كثيفة وأسرار دفينة، تتصاعد الإثارة إلى ذروتها. مهمة جريئة للظفر بكنز ثمين، تتحول إلى مغامرة خطيرة في أحراش الجزيرة المجهولة. هوية ضائعة في خضم الأحداث، ورفقة غير متوقعة تجلب المزيد من التعقيد، ومخاطر تتربص في كل زاوية مظلمة. بين أشجار الغابة الكثيفة وظلال المؤامرة المتشابكة، ينكشف سرٌّ أكبر بكثير ممّا كان متوقعًا، سرٌّ يهدد كل من يجرؤ على الاقتراب. فهل يتمكنون من النجاة من فخ الجزيرة المميت، وكشف الحقيقة المرة قبل فوات الأوان؟ مصيرهم معلق بين الغموض والخطر المحيق.",
+      "EpisodeMangaQuoted": "",
+      "EpisodeSeason": "",
+      "EpisodeSeasonCount": "",
+      "EpisodeNotes": "",
+      "EpisodeEvents": "ط ك",
+      "EpisodeBCDate": "2010-04-14",
+      "EpisodeRRDate": "",
+      "EpisodeRMDate": "",
+      "EpisodeRMDate2": "",
+      "EpisodeNextHint": "",
+      "EpisodeEventsAdvanced": "",
+      "EpisodeSummary": "",
+      "EpisodeCurrentHint": "",
+      "EpisodeParts": "",
+      "EpisodeFilterAdvanced": "5AY1 6MT1 7GK1 10SS1 4KM0 80KK1 81GN1",
+      "EpisodeVideosIDs": [
+        {
+          "VideoID": "BAACAgIAAxkBAAI5lWezAsSMK7gWjb1ntIKNLQ0zJB8wAAIMMgACAdmYSNEBs3t1y0iENgQ",
+          "Resolution": "480p",
+          "Size": "230.04"
         }
       ],
       "EpisodeMangasIDs": null
@@ -27032,6 +27374,36 @@
           "MangaFileSize": "4.83"
         }
       ]
+    },
+    {
+      "EpisodeNumber": "أوفا 11",
+      "EpisodeTitle": "طلب سري من لندن",
+      "EpisodeType": "ف",
+      "EpisodeSpecial": "أوفا",
+      "EpisodeStory": "بين شوارع المدينة الصاخبة وأزقة الموضة المتلألئة، تتكشف خيوط لعبة خفية. هوية مستعارة ربما تنكشف، وماضي غامض يطل برأسه من جديد. تحذير مبهم يأتي من بعيد، وشخصيات بظلال داكنة تلاحق خطواتهم. في كل زاوية، يتربص سؤال، وفي كل نظرة، يكمن تهديد. هل ستنكشف الأسرار الدفينة قبل أن تبتلعها العتمة؟ وهل سيُكشف الغطاء عن هذا الوجه الآخر، أم سيبقى طي الكتمان إلى الأبد؟",
+      "EpisodeMangaQuoted": "",
+      "EpisodeSeason": "",
+      "EpisodeSeasonCount": "",
+      "EpisodeNotes": "",
+      "EpisodeEvents": "ط ت",
+      "EpisodeBCDate": "2011-04-13",
+      "EpisodeRRDate": "",
+      "EpisodeRMDate": "",
+      "EpisodeRMDate2": "",
+      "EpisodeNextHint": "",
+      "EpisodeEventsAdvanced": "",
+      "EpisodeSummary": "",
+      "EpisodeCurrentHint": "",
+      "EpisodeParts": "",
+      "EpisodeFilterAdvanced": "1SK1 5AY1 6MT1 7GK1 8AH1 9HA1 17SO1 21SK3",
+      "EpisodeVideosIDs": [
+        {
+          "VideoID": "BAACAgIAAxkBAAI5l2ezBTY462KQUTmvxqo-db2fSWswAAJyNwACzGOZSP27en-9Z9AENgQ",
+          "Resolution": "480p",
+          "Size": "230.54"
+        }
+      ],
+      "EpisodeMangasIDs": null
     },
     {
       "EpisodeNumber": "611",
@@ -29192,6 +29564,36 @@
           "MangaFileSize": "5.86"
         }
       ]
+    },
+    {
+      "EpisodeNumber": "أوفا 12",
+      "EpisodeTitle": "معجزة إكسكاليبور",
+      "EpisodeType": "م",
+      "EpisodeSpecial": "أوفا",
+      "EpisodeStory": "في غمرة منافسة حامية الوطيس، تولد أسطورة... خيط من نور يضيء دروب الظلام. خريطة مُبهمة تقود إلى سرٍّ دَفِين، وغموض يلفُّ المكان. هل يكمن الفرج في الأسطورة المتوارثة؟ أم أنَّها ستكشف عن حقيقةٍ مُرَّة، لطالما ظَلَّتْ في الخفاء؟ في قلب التحدي، يختلط الأمل بالخطر، والصدق بالخداع، لتنكشف لعبةٌ قَدَرِيَّةٌ تُعيد كتابة القواعد، وتكشف المستور.",
+      "EpisodeMangaQuoted": "5 (مجموعة قصص قصيرة لغوشو أوياما)",
+      "EpisodeSeason": "",
+      "EpisodeSeasonCount": "",
+      "EpisodeNotes": "",
+      "EpisodeEvents": "ط",
+      "EpisodeBCDate": "2012-04-11",
+      "EpisodeRRDate": "",
+      "EpisodeRMDate": "",
+      "EpisodeRMDate2": "",
+      "EpisodeNextHint": "",
+      "EpisodeEventsAdvanced": "",
+      "EpisodeSummary": "",
+      "EpisodeCurrentHint": "",
+      "EpisodeParts": "",
+      "EpisodeFilterAdvanced": "3RM0 5AY1 6MT1 7GK1 8AH1 9HA1 34WT1 35KC1",
+      "EpisodeVideosIDs": [
+        {
+          "VideoID": "BAACAgIAAxkBAAI5mWezCK1wzLCOQCqIyfkI_LfjnXY2AAIcMgACAdmYSE8AATbcp9-3ajYE",
+          "Resolution": "480p",
+          "Size": "197.15"
+        }
+      ],
+      "EpisodeMangasIDs": null
     },
     {
       "EpisodeNumber": "الفيلم 16",
