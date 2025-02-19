@@ -52646,8 +52646,23 @@
       "EpisodeVideosIDs": [
         {
           "VideoID": "BAACAgIAAxkBAAItAWepzIgZPQwrgnYQkF-bs6U3opz-AAITYAAC48JJSWciW4CA9KjNNgQ",
-          "Resolution": "720p",
+          "Resolution": "1080p",
           "Size": "468.36"
+        },
+        {
+          "VideoID": "BAACAgQAAxkBAAI7AWe1-KxvtQptpDFMsDCEzm0wfffZAAJCGAACsPmYUR5M3z485Hz1NgQ",
+          "Resolution": "720p",
+          "Size": "202.18"
+        },
+        {
+          "VideoID": "BAACAgQAAxkBAAI7A2e1-LCrJJp2fMT3mNyNsdzLupriAAJsGgACodaZUTsmzl_-vvC-NgQ",
+          "Resolution": "480p",
+          "Size": "106.69"
+        },
+        {
+          "VideoID": "BAACAgQAAxkBAAI7BWe1-L2fz4ZFvk12TWA31XVdHM7fAALSHwACjWqZUeGwDqsBDAABfjYE",
+          "Resolution": "480p",
+          "Size": "58.40"
         }
       ],
       "EpisodeMangasIDs": null
@@ -52678,6 +52693,16 @@
           "VideoID": "BAACAgQAAyEFAASRLoO1AANmZ7TnZUDrKnJUx_tL_8mIyXCjSJEAAhgZAAKv6qBRHiZNKNF-PrU2BA",
           "Resolution": "1080p",
           "Size": "322.68"
+        },
+        {
+          "VideoID": "BAACAgQAAxkBAAI6-2e196QSu9d9wWqgns6YBM9lQc0vAALKGgACyjyxUaUacQ5_4TApNgQ",
+          "Resolution": "720p",
+          "Size": "194.75"
+        },
+        {
+          "VideoID": "BAACAgQAAxkBAAI6_Ge196TH6h_ThhaWEdG_B8yzmROUAALLGgACyjyxUdjNjv5An0JYNgQ",
+          "Resolution": "480p",
+          "Size": "124.04"
         }
       ],
       "EpisodeMangasIDs": null
