@@ -85699,26 +85699,7 @@
       "EpisodeCurrentHint": "تاكوياكي",
       "EpisodeParts": "",
       "EpisodeFilterAdvanced": "",
-      "EpisodeVideosIDs": [
-        {
-          "VideoID": "BAACAgQAAxkBAAEBFjdpGLx-TUnTNn_-WZ2GMlfXapgLOwACJhoAAsyWyFAyd79kORH9MDYE",
-          "Resolution": "1080p",
-          "Size": "256.85",
-          "IntroductionTime": "",
-          "StartStoryTime": "",
-          "EpisodeSuspenseTime": "",
-          "StartSongTime": "",
-          "ChapterOneTime": "",
-          "ChapterTwoTime": "",
-          "EndSongTime": "",
-          "ChapterThreeTime": "",
-          "NextEpisodeTeaserTime": "",
-          "NextEpisodeHintTime": "",
-          "EpisodeTranslator": "",
-          "EpisodeRemastered": "",
-          "EpisodeCategory": ""
-        }
-      ],
+      "EpisodeVideosIDs": null,
       "EpisodeMangasIDs": null
     }
   ],
