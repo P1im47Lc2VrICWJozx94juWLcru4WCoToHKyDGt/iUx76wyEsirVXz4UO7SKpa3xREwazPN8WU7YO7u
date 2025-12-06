@@ -145,7 +145,7 @@
           "NextEpisodeTeaserTime": "24:02",
           "NextEpisodeHintTime": "24:32",
           "EpisodeTranslator": "Shinjitsu Fansubs",
-          "EpisodeRemastered": "F",
+          "EpisodeRemastered": "",
           "EpisodeCategory": "S"
         },
         {
@@ -163,7 +163,7 @@
           "NextEpisodeTeaserTime": "24:02",
           "NextEpisodeHintTime": "24:32",
           "EpisodeTranslator": "Shinjitsu Fansubs",
-          "EpisodeRemastered": "F",
+          "EpisodeRemastered": "",
           "EpisodeCategory": "S"
         },
         {
@@ -302,7 +302,7 @@
           "NextEpisodeTeaserTime": "24:01",
           "NextEpisodeHintTime": "24:32",
           "EpisodeTranslator": "Shinjitsu Fansubs",
-          "EpisodeRemastered": "F",
+          "EpisodeRemastered": "",
           "EpisodeCategory": "S"
         }
       ],
@@ -47779,6 +47779,24 @@
           "EpisodeTranslator": "",
           "EpisodeRemastered": "",
           "EpisodeCategory": ""
+        },
+        {
+          "VideoID": "BAACAgIAAyEFAAP5s5kGiwADIWkx3nYF--XBhiXKCcQaDDdU9zEGAAKGEAACkkeoS-VkR2TY0zbrNgQ",
+          "Resolution": "720p",
+          "Size": "585.16",
+          "IntroductionTime": "",
+          "StartStoryTime": "",
+          "EpisodeSuspenseTime": "",
+          "StartSongTime": "",
+          "ChapterOneTime": "",
+          "ChapterTwoTime": "",
+          "EndSongTime": "",
+          "ChapterThreeTime": "",
+          "NextEpisodeTeaserTime": "",
+          "NextEpisodeHintTime": "",
+          "EpisodeTranslator": "",
+          "EpisodeRemastered": "",
+          "EpisodeCategory": ""
         }
       ],
       "EpisodeMangasIDs": null
@@ -84496,6 +84514,42 @@
       "EpisodeFilterAdvanced": "",
       "EpisodeVideosIDs": [
         {
+          "VideoID": "BAACAgQAAxkBAAEBIxZpM8lvFQXANW5v378zINURkhDnlAACPCAAAtsegFEqkWPBB1z1JTYE",
+          "Resolution": "1080p",
+          "Size": "2782.4",
+          "IntroductionTime": "",
+          "StartStoryTime": "",
+          "EpisodeSuspenseTime": "",
+          "StartSongTime": "",
+          "ChapterOneTime": "",
+          "ChapterTwoTime": "",
+          "EndSongTime": "",
+          "ChapterThreeTime": "",
+          "NextEpisodeTeaserTime": "",
+          "NextEpisodeHintTime": "",
+          "EpisodeTranslator": "Aoibu-Team",
+          "EpisodeRemastered": "",
+          "EpisodeCategory": "S"
+        },
+        {
+          "VideoID": "BAACAgQAAxkBAAEBIxdpM8l3hCQP1G9cuDKvvny61sXERQACbiAAAhgNiVEvMgABhYdhWJw2BA",
+          "Resolution": "1080p",
+          "Size": "2786.64",
+          "IntroductionTime": "",
+          "StartStoryTime": "",
+          "EpisodeSuspenseTime": "",
+          "StartSongTime": "",
+          "ChapterOneTime": "",
+          "ChapterTwoTime": "",
+          "EndSongTime": "",
+          "ChapterThreeTime": "",
+          "NextEpisodeTeaserTime": "",
+          "NextEpisodeHintTime": "",
+          "EpisodeTranslator": "عبد المللك",
+          "EpisodeRemastered": "",
+          "EpisodeCategory": "S"
+        },
+        {
           "VideoID": "BAACAgQAAxkBAAEBITlpL-b0xfBYdZ9redo0F6H-S5IW7QACJhwAAk-ueVE1oXR7yEDxPzYE",
           "Resolution": "1080p",
           "Size": "2345.59",
@@ -85768,11 +85822,29 @@
       "EpisodeRMDate2": "",
       "EpisodeNextHint": "دراجة نارية",
       "EpisodeEventsAdvanced": "",
-      "EpisodeSummary": "",
+      "EpisodeSummary": "تبدأ القصة في وكالة التحريات الخاصة بكوغورو موري، حيث تصل قضية جديدة تتعلق بمقتل المخرج السينمائي الشهير كاواشيما يوسوكي (45 عامًا)، والذي كان أحد عملاء كوغورو السابقين. يُعثر على كاواشيما مقتولاً طعنًا في غرفة اجتماعات كان يراجع فيها تجارب أداء لمشروعه السينمائي الجديد. المشتبه بها الرئيسية هي ممثلة شابة صاعدة تدعى ناغيسا هاروكو (21 عامًا)، والتي شوهدت تغادر مسرح الجريمة، كما تتطابق ملابسها ودراجتها النارية مع أوصاف الجاني. في مفاجأة صادمة، تعترف هاروكو على الفور بارتكابها الجريمة، لكنها بعد ذلك مباشرة، وأثناء استجوابها الرسمي من قبل المحققين ميغوري، تاكاغي، والضابطة ميواكو ساتو، تتراجع عن اعترافها بشكل درامي وتنفي كل شيء، مما يثير غضب ساتو بشكل خاص.\nيشك كونان في براءة هاروكو، ويقرر التدخل في القضية لكشف الحقيقة. يلاحظ كونان وجود تناقضات في الأدلة المرئية؛ فلون شعر وسوار ساعة الجاني في لقطات كاميرات المراقبة يختلفان عن تلك الخاصة بهاروكو، مما يشير إلى وجود شخص آخر ينتحل شخصيتها. في هذه الأثناء، يقدم كوغورو موري نظرية مفادها أن القاتل الحقيقي قد يكون إما الممثلة النجمة جونو ميوكي (حبيبة الضحية) أو المخرج المساعد كوبوديرا أكيتو (الذي كان على علاقة سرية بميوكي)، وأن كليهما كان لديه الدافع للتخلص من كاواشيما الذي كان يقف عائقًا في طريق طموحاتهما المهنية.\nتزداد شكوك كونان تجاه هاروكو نفسها بعد أن يكتشف أنها قامت بتلفيق حجة غياب قوية لنفسها باستخدام كاميرا فيديو مثبتة سرًا تحت مقعد في حديقة، لتسجل مرور الشهود وتستخدم هذه المعلومات لاحقًا كدليل على براءتها. ولكن الخدعة الأكبر كانت عندما تم \"العثور\" على الدراجة النارية والأدوات المستخدمة في الجريمة بالقرب من شقة الممثلة جونو ميوكي، مما يوجه أصابع الاتهام نحوها بشكل مباشر. ومع ذلك، يصر كونان على أن هذه الأدلة أيضًا تم زرعها كجزء من خطة هاروكو المتقنة لتشتيت انتباه الشرطة وإبعاد الشبهات عن نفسها تمامًا.\nتصل القضية إلى ذروتها عندما يكشف كونان، بالتعاون مع تاكاغي وموري، عن فخ عبقري نصبه لهاروكو. لقد أحضروا موظفة مقهى الخادمات، التي كادت أن تصطدم بها دراجة الجاني النارية، كشاهدة جديدة. أثناء الاستجواب، ترتكب هاروكو خطأً فادحًا عندما تشير إلى مهنة الشاهدة كـ \"موظفة مقهى خادمات\"، وهي معلومة لا يمكن أن يعرفها إلا الجاني الحقيقي الذي رآها وهي ترتدي زي العمل في تلك اللحظة القصيرة.\nأمام هذا الدليل الدامغ، تنهار هاروكو وتعترف بكل شيء. يتضح أن دافعها كان الانتقام؛ فقد كان المخرج كاواشيما قد استلهم قصة فيلمه الجديد من حادث مأساوي وقع لها في الماضي وتسبب في وفاة شخص، وكان يبتزها بهذا السر لضمان مشاركتها في الفيلم. في النهاية، يتم إلقاء القبض على ناغيسا هاروكو بتهمة القتل، وتتكشف الحقيقة المأساوية التي كانت تخفيها وراء واجهتها البريئة.",
       "EpisodeCurrentHint": "نادلة",
       "EpisodeParts": "331",
       "EpisodeFilterAdvanced": "",
       "EpisodeVideosIDs": [
+        {
+          "VideoID": "BAACAgQAAxkBAAEBIxVpM8ku3ZXI9SNloZ9f1gTByqk1WQACKxsAAuG9kFEhwzrSBHlf3jYE",
+          "Resolution": "1080p",
+          "Size": "450.72",
+          "IntroductionTime": "",
+          "StartStoryTime": "",
+          "EpisodeSuspenseTime": "",
+          "StartSongTime": "",
+          "ChapterOneTime": "",
+          "ChapterTwoTime": "",
+          "EndSongTime": "",
+          "ChapterThreeTime": "",
+          "NextEpisodeTeaserTime": "",
+          "NextEpisodeHintTime": "",
+          "EpisodeTranslator": "Aboody-Subs",
+          "EpisodeRemastered": "",
+          "EpisodeCategory": "S"
+        },
         {
           "VideoID": "BAACAgQAAxkBAAEBITVpL9fAq_Vlhi7Fy0ugKG2xlgdXDwACIB0AAoXYWVGrwGnvZeOKWDYE",
           "Resolution": "1080p",
