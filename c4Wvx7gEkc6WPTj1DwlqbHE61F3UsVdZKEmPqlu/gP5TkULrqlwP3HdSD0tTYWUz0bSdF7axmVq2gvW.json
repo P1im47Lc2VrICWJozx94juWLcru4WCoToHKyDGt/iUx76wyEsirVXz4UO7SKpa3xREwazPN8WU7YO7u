@@ -19717,6 +19717,24 @@
       "EpisodeFilterAdvanced": "1SK2 1SK3 4KM0 8AH1 9HA1 59SA1 69GN2 71VH2 70VA1",
       "EpisodeVideosIDs": [
         {
+          "VideoID": "BAACAgQAAxkBAAEBKRJpPpj2PIq6ORI_6cFkLt_7pWAM5gACJB0AAuxLWVHDqYw30F6MazYE",
+          "Resolution": "1080p",
+          "Size": "251.56",
+          "IntroductionTime": "",
+          "StartStoryTime": "",
+          "EpisodeSuspenseTime": "",
+          "StartSongTime": "",
+          "ChapterOneTime": "",
+          "ChapterTwoTime": "",
+          "EndSongTime": "",
+          "ChapterThreeTime": "",
+          "NextEpisodeTeaserTime": "",
+          "NextEpisodeHintTime": "",
+          "EpisodeTranslator": "Variom",
+          "EpisodeRemastered": "T",
+          "EpisodeCategory": "S"
+        },
+        {
           "VideoID": "BAACAgIAAxkBAAINi2d2nj7JPnrjXHxrkrgxhM9-xTZbAAKdHAAC3lsxSDuBTIu8ucQkNgQ",
           "Resolution": "480p",
           "Size": "173.67",
@@ -19730,9 +19748,9 @@
           "ChapterThreeTime": "",
           "NextEpisodeTeaserTime": "",
           "NextEpisodeHintTime": "",
-          "EpisodeTranslator": "",
-          "EpisodeRemastered": "",
-          "EpisodeCategory": ""
+          "EpisodeTranslator": "MAT-Fansubs",
+          "EpisodeRemastered": "حلقة خاصة",
+          "EpisodeCategory": "S"
         }
       ],
       "EpisodeMangasIDs": [
@@ -19781,6 +19799,24 @@
       "EpisodeFilterAdvanced": "1SK2 3RM0 4KM0 8AH1 9HA1 31JM1 52MY1 70VA1",
       "EpisodeVideosIDs": [
         {
+          "VideoID": "BAACAgQAAxkBAAEBKRNpPplYk51sn_uz-rm_s4AYyDcLgQACJh0AAuxLWVGDAAEUEMJB6QU2BA",
+          "Resolution": "1080p",
+          "Size": "217.24",
+          "IntroductionTime": "",
+          "StartStoryTime": "",
+          "EpisodeSuspenseTime": "",
+          "StartSongTime": "",
+          "ChapterOneTime": "",
+          "ChapterTwoTime": "",
+          "EndSongTime": "",
+          "ChapterThreeTime": "",
+          "NextEpisodeTeaserTime": "",
+          "NextEpisodeHintTime": "",
+          "EpisodeTranslator": "Variom",
+          "EpisodeRemastered": "T",
+          "EpisodeCategory": "S"
+        },
+        {
           "VideoID": "BAACAgIAAxkBAAINi2d2nj7JPnrjXHxrkrgxhM9-xTZbAAKdHAAC3lsxSDuBTIu8ucQkNgQ",
           "Resolution": "480p",
           "Size": "173.67",
@@ -19794,9 +19830,9 @@
           "ChapterThreeTime": "",
           "NextEpisodeTeaserTime": "",
           "NextEpisodeHintTime": "",
-          "EpisodeTranslator": "",
-          "EpisodeRemastered": "",
-          "EpisodeCategory": ""
+          "EpisodeTranslator": "MAT-Fansubs",
+          "EpisodeRemastered": "حلقة خاصة",
+          "EpisodeCategory": "S"
         }
       ],
       "EpisodeMangasIDs": [
@@ -19845,6 +19881,24 @@
       "EpisodeFilterAdvanced": "3RM0 4KM0 8AH1 9HA1 35KC1 59SA1 69GN1 70VA1",
       "EpisodeVideosIDs": [
         {
+          "VideoID": "BAACAgQAAxkBAAEBKRRpPpmL-hTRIBdZD7CkvPWqbA_cbgACJx0AAuxLWVHtoS62AqqxijYE",
+          "Resolution": "1080p",
+          "Size": "218.75",
+          "IntroductionTime": "",
+          "StartStoryTime": "",
+          "EpisodeSuspenseTime": "",
+          "StartSongTime": "",
+          "ChapterOneTime": "",
+          "ChapterTwoTime": "",
+          "EndSongTime": "",
+          "ChapterThreeTime": "",
+          "NextEpisodeTeaserTime": "",
+          "NextEpisodeHintTime": "",
+          "EpisodeTranslator": "Variom",
+          "EpisodeRemastered": "T",
+          "EpisodeCategory": "S"
+        },
+        {
           "VideoID": "BAACAgIAAxkBAAINi2d2nj7JPnrjXHxrkrgxhM9-xTZbAAKdHAAC3lsxSDuBTIu8ucQkNgQ",
           "Resolution": "480p",
           "Size": "173.67",
@@ -19858,9 +19912,9 @@
           "ChapterThreeTime": "",
           "NextEpisodeTeaserTime": "",
           "NextEpisodeHintTime": "",
-          "EpisodeTranslator": "",
-          "EpisodeRemastered": "",
-          "EpisodeCategory": ""
+          "EpisodeTranslator": "MAT-Fansubs",
+          "EpisodeRemastered": "حلقة خاصة",
+          "EpisodeCategory": "S"
         }
       ],
       "EpisodeMangasIDs": [
@@ -33206,7 +33260,7 @@
     },
     {
       "EpisodeNumber": "إصدار خاص 3",
-      "EpisodeTitle": "لوبن الثالث ضد المحقق كونان (2009)",
+      "EpisodeTitle": "لوبين الثالث ضد المحقق كونان (2009)",
       "EpisodeType": "ف",
       "EpisodeSpecial": "",
       "EpisodeStory": "في بلاط ملكي مترف، تتحول لحظة فجيعة إلى ستار يخفي مؤامرة مُحكمة. حادثة صيد مؤسفة تودي بحياة صاحبة الجلالة ونجلها، لتترك وريثة شابة وحيدة في مهب الريح. بينما يتربص لصٌّ بارعٌ بكنزٍ نفيس، تتكشف خيوطُ خداعٍ مُتْقَن، لتُشيرَ إلى أنّ ما ظُنَّ قضاءً وقدرًا، قد يكون جريمةً مُدبَّرَة ببراعة. تحالفٌ غير متوقع يلوح في الأفق، في سباق لكشف الحقيقة قبل أن يبتلع الظلام كلَّ شيء.",
