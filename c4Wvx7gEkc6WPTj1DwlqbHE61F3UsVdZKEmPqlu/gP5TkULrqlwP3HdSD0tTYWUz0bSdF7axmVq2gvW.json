@@ -792,7 +792,7 @@
     },
     {
       "EpisodeNumber": "9",
-      "EpisodeTitle": "جريمة قتل في مهرجان \"تينكاتشي\" الليلي",
+      "EpisodeTitle": "جريمة قتل في مهرجان تينكاتشي الليلي",
       "EpisodeType": "م",
       "EpisodeSpecial": "",
       "EpisodeStory": "مهرجانٌ صاخب، جريمةٌ مُروعة، وشخصيةٌ مُزدوجةُ الوجه. في ليلةِ احتفالٍ بهيجة، تُرتكبُ جريمةٌ تُلقي بِظلالِها على الأجواءِ الاحتفالية. لقاءٌ عابر يتحولُ إلى مُواجهةٍ مع مُشتبهٍ به، بينما تتكشفُ خيوطُ لغزٍ مُعقد. هل ستُكشفُ الحقيقةُ وراءَ الجريمةِ في زحمةِ المهرجان؟ أم أنَّ الغموضَ سيُسيطرُ على المشهد؟",
@@ -32400,7 +32400,7 @@
     },
     {
       "EpisodeNumber": "511",
-      "EpisodeTitle": "مواجهة كشف الاستنتاجات! شينتشي ضد سوبارو أوكيا",
+      "EpisodeTitle": "مواجهة كشف الاستنتاجات (شينتشي ضد سوبارو أوكيا)",
       "EpisodeType": "م",
       "EpisodeSpecial": "",
       "EpisodeStory": "ظلٌّ جديدٌ يظهر، نداءٌ من الماضي يُسمع، ونيرانٌ تُخفي أسرارًا. من همساتٍ عن المنظمةِ السوداءِ إلى ألسنةِ اللهبِ، تتشابكُ الخيوطُ في نسيجٍ مُبهم. طلبٌ للمساعدةِ يُصبحُ مسرحًا لجريمة، والرمادُ يُخبئُ مؤامرة. ثلاثةُ أطيافٍ تُحيطُ بالمشهد، كُلٌّ بلونٍ يُثيرُ الشكوك. رموزٌ تُخفي أسرارًا، وشفرةٌ مزدوجةٌ تُحاولُ التمويه. هل هي صدفةٌ أم خُطَّة؟ وما علاقةُ \"بوربون\" باللغز؟ رحلةُ كشفٍ تبدأ، لكشفِ الحقيقةِ المُرة. من يُخفي سرَّ اللهب؟ وما هي الشفرةُ التي تُخفي المُجرم؟",
@@ -32961,7 +32961,7 @@
     },
     {
       "EpisodeNumber": "521",
-      "EpisodeTitle": "القاتل، شينتشي كودو",
+      "EpisodeTitle": "القاتل شينتشي كودو",
       "EpisodeType": "م",
       "EpisodeSpecial": "1",
       "EpisodeStory": "في رحلةٍ نحو المجهول، يتبدّلُ الواقعُ، وتعودُ الهيئةُ الغائبة. جرعةٌ خاطئة، وصُدفةٌ غريبة، تُعيدُ الشابَّ المحققَ إلى هيئته الأصلية، لكنَّ الزمنَ ليس في صالحه. دعوةٌ من الماضي، واعترافٌ مزعوم، يُوقِعانِ الشاب في فخٍّ مُحكمٍ، بينما تتربص بهِ العيونُ المُتطفلة. هل هي مُصادفةٌ أم مكيدةٌ مدبرة؟ وهل سيكون التحول بداية النهاية؟",
@@ -84960,7 +84960,7 @@
           "NextEpisodeTeaserTime": "",
           "NextEpisodeHintTime": "",
           "EpisodeTranslator": "CodeSubs",
-          "EpisodeRemastered": "",
+          "EpisodeRemastered": "نهائية",
           "EpisodeCategory": "S"
         },
         {
@@ -84978,7 +84978,7 @@
           "NextEpisodeTeaserTime": "",
           "NextEpisodeHintTime": "",
           "EpisodeTranslator": "CodeSubs",
-          "EpisodeRemastered": "",
+          "EpisodeRemastered": "نهائية",
           "EpisodeCategory": "S"
         },
         {
@@ -84996,7 +84996,7 @@
           "NextEpisodeTeaserTime": "",
           "NextEpisodeHintTime": "",
           "EpisodeTranslator": "CodeSubs",
-          "EpisodeRemastered": "",
+          "EpisodeRemastered": "نهائية",
           "EpisodeCategory": "S"
         },
         {
@@ -85014,7 +85014,7 @@
           "NextEpisodeTeaserTime": "",
           "NextEpisodeHintTime": "",
           "EpisodeTranslator": "CodeSubs",
-          "EpisodeRemastered": "",
+          "EpisodeRemastered": "نهائية",
           "EpisodeCategory": "S"
         },
         {
@@ -85032,7 +85032,7 @@
           "NextEpisodeTeaserTime": "",
           "NextEpisodeHintTime": "",
           "EpisodeTranslator": "Aoibu-Team",
-          "EpisodeRemastered": "",
+          "EpisodeRemastered": "أولية",
           "EpisodeCategory": "S"
         },
         {
@@ -85050,7 +85050,7 @@
           "NextEpisodeTeaserTime": "",
           "NextEpisodeHintTime": "",
           "EpisodeTranslator": "عبد المللك",
-          "EpisodeRemastered": "",
+          "EpisodeRemastered": "أولية",
           "EpisodeCategory": "S"
         },
         {
@@ -85068,7 +85068,7 @@
           "NextEpisodeTeaserTime": "",
           "NextEpisodeHintTime": "",
           "EpisodeTranslator": "Celestial-Dragons",
-          "EpisodeRemastered": "",
+          "EpisodeRemastered": "نهائية",
           "EpisodeCategory": "S"
         }
       ],
@@ -86411,6 +86411,24 @@
       "EpisodeFilterAdvanced": "",
       "EpisodeVideosIDs": [
         {
+          "VideoID": "BAACAgQAAxkBAAEBJANpNaxXlwfSCqUKXmJXUbK91Em9BAACxRwAAuxWqVEkOTOXMwgIVDYE",
+          "Resolution": "1080p",
+          "Size": "275.74",
+          "IntroductionTime": "",
+          "StartStoryTime": "",
+          "EpisodeSuspenseTime": "",
+          "StartSongTime": "",
+          "ChapterOneTime": "",
+          "ChapterTwoTime": "",
+          "EndSongTime": "",
+          "ChapterThreeTime": "",
+          "NextEpisodeTeaserTime": "",
+          "NextEpisodeHintTime": "",
+          "EpisodeTranslator": "Aoibu-Team",
+          "EpisodeRemastered": "",
+          "EpisodeCategory": "S"
+        },
+        {
           "VideoID": "BAACAgQAAxkBAAEBIyNpNAK4x0_Ge4usDT53Vc3dAAHVgkAAAmEdAAKFpaBREdIG6ikLKE42BA",
           "Resolution": "1080p",
           "Size": "620.13",
@@ -86429,9 +86447,9 @@
           "EpisodeCategory": "S"
         },
         {
-          "VideoID": "BAACAgQAAxkBAAEBJANpNaxXlwfSCqUKXmJXUbK91Em9BAACxRwAAuxWqVEkOTOXMwgIVDYE",
-          "Resolution": "1080p",
-          "Size": "275.74",
+          "VideoID": "BAACAgQAAxkBAAEBIyVpNAPdhUD0jiPdgjZzIWVk-tJj8AACaB0AAoWloFHyMop0h6h5GDYE",
+          "Resolution": "720p",
+          "Size": "287.06",
           "IntroductionTime": "",
           "StartStoryTime": "",
           "EpisodeSuspenseTime": "",
@@ -86442,7 +86460,25 @@
           "ChapterThreeTime": "",
           "NextEpisodeTeaserTime": "",
           "NextEpisodeHintTime": "",
-          "EpisodeTranslator": "Aoibu-Team",
+          "EpisodeTranslator": "DCAN",
+          "EpisodeRemastered": "",
+          "EpisodeCategory": "S"
+        },
+        {
+          "VideoID": "BAACAgQAAxkBAAEBIyRpNAN2JPeDTSc5nb7v6UHT4brRFwACIxwAAi5ToVHa5WOPfJUo2zYE",
+          "Resolution": "480p",
+          "Size": "285.37",
+          "IntroductionTime": "",
+          "StartStoryTime": "",
+          "EpisodeSuspenseTime": "",
+          "StartSongTime": "",
+          "ChapterOneTime": "",
+          "ChapterTwoTime": "",
+          "EndSongTime": "",
+          "ChapterThreeTime": "",
+          "NextEpisodeTeaserTime": "",
+          "NextEpisodeHintTime": "",
+          "EpisodeTranslator": "DCAN",
           "EpisodeRemastered": "",
           "EpisodeCategory": "S"
         },
@@ -86517,42 +86553,6 @@
           "EpisodeTranslator": "Spacetoon",
           "EpisodeRemastered": "",
           "EpisodeCategory": "D"
-        },
-        {
-          "VideoID": "BAACAgQAAxkBAAEBIyVpNAPdhUD0jiPdgjZzIWVk-tJj8AACaB0AAoWloFHyMop0h6h5GDYE",
-          "Resolution": "720p",
-          "Size": "287.06",
-          "IntroductionTime": "",
-          "StartStoryTime": "",
-          "EpisodeSuspenseTime": "",
-          "StartSongTime": "",
-          "ChapterOneTime": "",
-          "ChapterTwoTime": "",
-          "EndSongTime": "",
-          "ChapterThreeTime": "",
-          "NextEpisodeTeaserTime": "",
-          "NextEpisodeHintTime": "",
-          "EpisodeTranslator": "DCAN",
-          "EpisodeRemastered": "",
-          "EpisodeCategory": "S"
-        },
-        {
-          "VideoID": "BAACAgQAAxkBAAEBIyRpNAN2JPeDTSc5nb7v6UHT4brRFwACIxwAAi5ToVHa5WOPfJUo2zYE",
-          "Resolution": "480p",
-          "Size": "285.37",
-          "IntroductionTime": "",
-          "StartStoryTime": "",
-          "EpisodeSuspenseTime": "",
-          "StartSongTime": "",
-          "ChapterOneTime": "",
-          "ChapterTwoTime": "",
-          "EndSongTime": "",
-          "ChapterThreeTime": "",
-          "NextEpisodeTeaserTime": "",
-          "NextEpisodeHintTime": "",
-          "EpisodeTranslator": "DCAN",
-          "EpisodeRemastered": "",
-          "EpisodeCategory": "S"
         }
       ],
       "EpisodeMangasIDs": [
