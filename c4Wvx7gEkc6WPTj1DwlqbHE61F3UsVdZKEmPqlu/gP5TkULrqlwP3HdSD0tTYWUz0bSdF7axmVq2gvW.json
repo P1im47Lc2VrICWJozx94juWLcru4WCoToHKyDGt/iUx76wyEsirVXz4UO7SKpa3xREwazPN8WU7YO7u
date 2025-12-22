@@ -86439,7 +86439,7 @@
         {
           "TrailerNumber": "2",
           "Provider": "GDrive",
-          "TrailerID": "1429rS2VuBCmdBlsdFSuLyO56S4MMKkd-",
+          "TrailerID": "1F9ISMWiyE6ZMsMDvBoHatrPHlYbscXF6",
           "Resolution": "",
           "Size": ""
         },
@@ -86460,7 +86460,7 @@
         {
           "TrailerNumber": "3",
           "Provider": "GDrive",
-          "TrailerID": "1F9ISMWiyE6ZMsMDvBoHatrPHlYbscXF6",
+          "TrailerID": "1429rS2VuBCmdBlsdFSuLyO56S4MMKkd-",
           "Resolution": "",
           "Size": ""
         },
@@ -86819,7 +86819,7 @@
         {
           "TrailerNumber": "1",
           "Provider": "GDrive",
-          "TrailerID": "14PsF7o6my5_qv4VcCjv56_E_wMfB63bA ",
+          "TrailerID": "1FkboThpgxoOlq0pINdujvt0Gi6Nen_Pg",
           "Resolution": "",
           "Size": ""
         },
@@ -86840,7 +86840,7 @@
         {
           "TrailerNumber": "2",
           "Provider": "GDrive",
-          "TrailerID": "1FkboThpgxoOlq0pINdujvt0Gi6Nen_Pg",
+          "TrailerID": "1HxdPByrBncEBahEeCDV_gDD-8n-KRdQi",
           "Resolution": "",
           "Size": ""
         },
@@ -86861,7 +86861,7 @@
         {
           "TrailerNumber": "3",
           "Provider": "GDrive",
-          "TrailerID": "1HxdPByrBncEBahEeCDV_gDD-8n-KRdQi",
+          "TrailerID": "1psDZSXqd0leZuFAD_cffYDXscESCkfJY",
           "Resolution": "",
           "Size": ""
         },
@@ -86938,7 +86938,7 @@
         {
           "TrailerNumber": "1",
           "Provider": "GDrive",
-          "TrailerID": "14PsF7o6my5_qv4VcCjv56_E_wMfB63bA ",
+          "TrailerID": "1FkboThpgxoOlq0pINdujvt0Gi6Nen_Pg",
           "Resolution": "",
           "Size": ""
         },
@@ -86959,7 +86959,7 @@
         {
           "TrailerNumber": "2",
           "Provider": "GDrive",
-          "TrailerID": "1FkboThpgxoOlq0pINdujvt0Gi6Nen_Pg",
+          "TrailerID": "1HxdPByrBncEBahEeCDV_gDD-8n-KRdQi",
           "Resolution": "",
           "Size": ""
         },
@@ -86980,7 +86980,7 @@
         {
           "TrailerNumber": "3",
           "Provider": "GDrive",
-          "TrailerID": "1HxdPByrBncEBahEeCDV_gDD-8n-KRdQi",
+          "TrailerID": "1psDZSXqd0leZuFAD_cffYDXscESCkfJY",
           "Resolution": "",
           "Size": ""
         },
@@ -87062,7 +87062,7 @@
         {
           "TrailerNumber": "1",
           "Provider": "GDrive",
-          "TrailerID": "14PsF7o6my5_qv4VcCjv56_E_wMfB63bA ",
+          "TrailerID": "1FkboThpgxoOlq0pINdujvt0Gi6Nen_Pg",
           "Resolution": "",
           "Size": ""
         },
@@ -87083,7 +87083,7 @@
         {
           "TrailerNumber": "2",
           "Provider": "GDrive",
-          "TrailerID": "1FkboThpgxoOlq0pINdujvt0Gi6Nen_Pg",
+          "TrailerID": "1HxdPByrBncEBahEeCDV_gDD-8n-KRdQi",
           "Resolution": "",
           "Size": ""
         },
@@ -87104,7 +87104,7 @@
         {
           "TrailerNumber": "3",
           "Provider": "GDrive",
-          "TrailerID": "1HxdPByrBncEBahEeCDV_gDD-8n-KRdQi",
+          "TrailerID": "1psDZSXqd0leZuFAD_cffYDXscESCkfJY",
           "Resolution": "",
           "Size": ""
         },
@@ -87170,7 +87170,71 @@
           "MangaFileSize": "70"
         }
       ],
-      "EpisodeTrailersIDs": []
+      "EpisodeTrailersIDs": [
+        {
+          "TrailerNumber": "1",
+          "Provider": "Mega",
+          "TrailerID": "ihhkUSwK#f4MsZENhB6vUBbvmVw4XJ6qRiuemo18qOCtfpNNt9Go",
+          "Resolution": "",
+          "Size": ""
+        },
+        {
+          "TrailerNumber": "1",
+          "Provider": "GDrive",
+          "TrailerID": "1FkboThpgxoOlq0pINdujvt0Gi6Nen_Pg",
+          "Resolution": "",
+          "Size": ""
+        },
+        {
+          "TrailerNumber": "1",
+          "Provider": "TG",
+          "TrailerID": "BAACAgQAAxkBAAEBNOVpSWh_44rb4vrCE0by8u0kvcfrRgAC0xgAAhKRAVKHCrsdsTzv0TYE",
+          "Resolution": "1080p",
+          "Size": "21.26"
+        },
+        {
+          "TrailerNumber": "2",
+          "Provider": "Mega",
+          "TrailerID": "PhAC1J4C#tcTCDbLTuhMxOQakyqbzStUf6CbtyS5iY9Oih9i17Wo",
+          "Resolution": "",
+          "Size": ""
+        },
+        {
+          "TrailerNumber": "2",
+          "Provider": "GDrive",
+          "TrailerID": "1HxdPByrBncEBahEeCDV_gDD-8n-KRdQi",
+          "Resolution": "",
+          "Size": ""
+        },
+        {
+          "TrailerNumber": "2",
+          "Provider": "TG",
+          "TrailerID": "BAACAgQAAxkBAAEBNOhpSWi7FlaSR3ZViaROj6yG7plCAQACTh4AAhKRCVKGeoAhqkxqJzYE",
+          "Resolution": "1080p",
+          "Size": "22.17"
+        },
+        {
+          "TrailerNumber": "3",
+          "Provider": "Mega",
+          "TrailerID": "W1oDyRAT#Xs1fKLhCurBWVc8Fkpn5iMLjnFepBTauZluMuLMV4Sc",
+          "Resolution": "",
+          "Size": ""
+        },
+        {
+          "TrailerNumber": "3",
+          "Provider": "GDrive",
+          "TrailerID": "1psDZSXqd0leZuFAD_cffYDXscESCkfJY",
+          "Resolution": "",
+          "Size": ""
+        },
+        {
+          "TrailerNumber": "3",
+          "Provider": "TG",
+          "TrailerID": "BAACAgQAAxkBAAEBNOppSWjP2ahQGbgq2NSS_qZ54uyeaQAC4hkAAmaaGVJHAuaVkrF1JzYE",
+          "Resolution": "1080p",
+          "Size": "24.26"
+        }
+      ]
     },
     {
       "EpisodeNumber": "1168",
