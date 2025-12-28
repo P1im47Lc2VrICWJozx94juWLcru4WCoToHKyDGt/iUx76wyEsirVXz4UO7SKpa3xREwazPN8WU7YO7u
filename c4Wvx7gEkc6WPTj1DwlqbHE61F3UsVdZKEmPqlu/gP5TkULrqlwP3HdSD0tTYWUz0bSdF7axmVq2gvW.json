@@ -88598,7 +88598,7 @@
       "EpisodeStory": "تحت وهجٍ أزرق صامت، حيث ترقص الكائنات البحرية خلف الزجاج، يُقطع وعدٌ بالبهجة بصرخة تُبدد السكون. جثة هامدة تُلطخ المشهد، وثلاثة وجوه تحتمي خلف شاشات صغيرة تعرض حقيقة لا يمكن دحضها. وقبل أن تبدأ الحكاية المعروفة، كانت هناك جريمة تروي كيف بدأت القصة حقًا؛ حين كان على متحر شاب أن يختار بين وعدٍ بالحب، وحقيقة مغلفة بالخداع.",
       "EpisodeMangaQuoted": "(882-884) + (0)",
       "EpisodeSeason": "الحادي والثلاثون",
-      "EpisodeSeasonCount": "1",
+      "EpisodeSeasonCount": "2",
       "EpisodeNotes": "",
       "EpisodeEvents": "م ر ط",
       "EpisodeBCDate": "2026-01-03",
@@ -88657,6 +88657,31 @@
           "Size": "21.34"
         }
       ]
+    },
+    {
+      "EpisodeNumber": "1188",
+      "EpisodeTitle": "الحقهم! أيها المحقق تاكسي 3",
+      "EpisodeType": "ف",
+      "EpisodeSpecial": "",
+      "EpisodeStory": "",
+      "EpisodeMangaQuoted": "",
+      "EpisodeSeason": "الحادي والثلاثون",
+      "EpisodeSeasonCount": "2",
+      "EpisodeNotes": "",
+      "EpisodeEvents": "",
+      "EpisodeBCDate": "2026-01-10",
+      "EpisodeRRDate": "",
+      "EpisodeRMDate": "",
+      "EpisodeRMDate2": "",
+      "EpisodeNextHint": "",
+      "EpisodeEventsAdvanced": "",
+      "EpisodeSummary": "",
+      "EpisodeCurrentHint": "",
+      "EpisodeParts": "",
+      "EpisodeFilterAdvanced": "",
+      "EpisodeVideosIDs": [],
+      "EpisodeMangasIDs": [],
+      "EpisodeTrailersIDs": []
     }
   ],
   "Mangas": [
