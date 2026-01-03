@@ -33595,7 +33595,7 @@
           "NextEpisodeHintTime": "",
           "EpisodeTranslator": "",
           "EpisodeRemastered": "",
-          "EpisodeCategory": ""
+          "EpisodeCategory": "S"
         },
         {
           "VideoID": "BAACAgQAAxkBAAIOd2d20DdnTj6yRd78mvDrQA4T0uQuAAKvCwACxRVJUmoFIS7zkoAlNgQ",
@@ -33613,7 +33613,61 @@
           "NextEpisodeHintTime": "",
           "EpisodeTranslator": "",
           "EpisodeRemastered": "",
-          "EpisodeCategory": ""
+          "EpisodeCategory": "S"
+        },
+        {
+          "VideoID": "BAACAgQAAxkBAAEBQfNpWP6pdLBEynIAAV3lmHC1Ej07HxUAAsEbAAKyXIFS0l7iJ7s9HyQ4BA",
+          "Resolution": "1080p",
+          "Size": "1109.78",
+          "IntroductionTime": "",
+          "StartStoryTime": "",
+          "EpisodeSuspenseTime": "",
+          "StartSongTime": "",
+          "ChapterOneTime": "",
+          "ChapterTwoTime": "",
+          "EndSongTime": "",
+          "ChapterThreeTime": "",
+          "NextEpisodeTeaserTime": "",
+          "NextEpisodeHintTime": "",
+          "EpisodeTranslator": "Spacetoon",
+          "EpisodeRemastered": "",
+          "EpisodeCategory": "D"
+        },
+        {
+          "VideoID": "BAACAgQAAxkBAAEBQfVpWP6vIXFAwCrO0qJ6tPnLCxTUNQACUBsAAp6NgVLFXhLBunJ3dzgE",
+          "Resolution": "720p",
+          "Size": "291.74",
+          "IntroductionTime": "",
+          "StartStoryTime": "",
+          "EpisodeSuspenseTime": "",
+          "StartSongTime": "",
+          "ChapterOneTime": "",
+          "ChapterTwoTime": "",
+          "EndSongTime": "",
+          "ChapterThreeTime": "",
+          "NextEpisodeTeaserTime": "",
+          "NextEpisodeHintTime": "",
+          "EpisodeTranslator": "Spacetoon",
+          "EpisodeRemastered": "",
+          "EpisodeCategory": "D"
+        },
+        {
+          "VideoID": "BAACAgQAAxkBAAEBQfdpWP60xyRLmwsDcYPTKH7oDXZVbwACJRgAAhmRgVIdg2RcN-RFpDgE",
+          "Resolution": "480p",
+          "Size": "148.28",
+          "IntroductionTime": "",
+          "StartStoryTime": "",
+          "EpisodeSuspenseTime": "",
+          "StartSongTime": "",
+          "ChapterOneTime": "",
+          "ChapterTwoTime": "",
+          "EndSongTime": "",
+          "ChapterThreeTime": "",
+          "NextEpisodeTeaserTime": "",
+          "NextEpisodeHintTime": "",
+          "EpisodeTranslator": "Spacetoon",
+          "EpisodeRemastered": "",
+          "EpisodeCategory": "D"
         }
       ],
       "EpisodeMangasIDs": [
@@ -33678,7 +33732,7 @@
           "NextEpisodeHintTime": "",
           "EpisodeTranslator": "",
           "EpisodeRemastered": "",
-          "EpisodeCategory": ""
+          "EpisodeCategory": "S"
         },
         {
           "VideoID": "BAACAgQAAxkBAAIOeWd20E6ciPaw7ygLirUhPpN6GHpOAAKwCwACxRVJUst5KJoLwPlqNgQ",
@@ -33696,7 +33750,43 @@
           "NextEpisodeHintTime": "",
           "EpisodeTranslator": "",
           "EpisodeRemastered": "",
-          "EpisodeCategory": ""
+          "EpisodeCategory": "S"
+        },
+        {
+          "VideoID": "BAACAgQAAxkBAAEBQflpWP7AMw6BtmEy5AyZbZdPwa4RowACXhkAAiYzyVKElhSBDTLvSTgE",
+          "Resolution": "1080p",
+          "Size": "1106.52",
+          "IntroductionTime": "",
+          "StartStoryTime": "",
+          "EpisodeSuspenseTime": "",
+          "StartSongTime": "",
+          "ChapterOneTime": "",
+          "ChapterTwoTime": "",
+          "EndSongTime": "",
+          "ChapterThreeTime": "",
+          "NextEpisodeTeaserTime": "",
+          "NextEpisodeHintTime": "",
+          "EpisodeTranslator": "Spacetoon",
+          "EpisodeRemastered": "",
+          "EpisodeCategory": "D"
+        },
+        {
+          "VideoID": "BAACAgQAAxkBAAEBQftpWP7GyHug3LPFfMJ1fe1U7l-p6AACkR0AAkneyFJP5pRol1qa0jgE",
+          "Resolution": "720p",
+          "Size": "407.34",
+          "IntroductionTime": "",
+          "StartStoryTime": "",
+          "EpisodeSuspenseTime": "",
+          "StartSongTime": "",
+          "ChapterOneTime": "",
+          "ChapterTwoTime": "",
+          "EndSongTime": "",
+          "ChapterThreeTime": "",
+          "NextEpisodeTeaserTime": "",
+          "NextEpisodeHintTime": "",
+          "EpisodeTranslator": "Spacetoon",
+          "EpisodeRemastered": "",
+          "EpisodeCategory": "D"
         }
       ],
       "EpisodeMangasIDs": [
@@ -39560,7 +39650,7 @@
     },
     {
       "EpisodeNumber": "610",
-      "EpisodeTitle": "الضحية هي شينتشي كودو",
+      "EpisodeTitle": "الضحية هو كودو شينتشي",
       "EpisodeType": "م",
       "EpisodeSpecial": "",
       "EpisodeStory": "في أزقةِ الماضي، تتجسدُ الخُرافةُ، لتُطاردَ الأبطالَ في الحاضر. كلابٌ جهنمية، وورثةٌ متناحرون، يُوقِظونَ شبحًا مُفزعًا، في قلبِ مدينةٍ صاخبة. موتٌ غامض، وجثةٌ مُختَنِقة، تُلقي بالشكوك على كل من في المشهد. وها هو المحقق الماهر، يواجه نفس المصير في حجرة موصدة الأبواب. فهل سيكون القدرُ أقوى من الحقيقة؟ أم أن هناك مُؤامرةً خفيةً ستنكشفُ في الظلام؟",
@@ -39941,7 +40031,7 @@
     },
     {
       "EpisodeNumber": "أوفا 13",
-      "EpisodeTitle": "المحقق الأحمق؟! كوغورو موري (المحقق كونان ضد وووو)",
+      "EpisodeTitle": "المحقق الأحمق؟! موري كوغورو (المحقق كونان ضد وووو)",
       "EpisodeType": "ف",
       "EpisodeSpecial": "أوفا",
       "EpisodeStory": "تحت ستار من الغموض المُحْكَم، يشهد الجميع تحولاً غير مُتوقع في القدرات. فجأة، تتجلى براعةٌ فائقة، وذكاءٌ مُتقدٌ يكشف عن رؤيةٍ ثاقبةٍ لم تكن معهودةً من قبل. أيُعبِّر هذا عن إشراق عبقريةٍ حقيقية؟ أم تُرى خُفيةٌ مُحاكةٌ بدقةٍ تُدار خلف الكواليس، تسعى لإبهار الأعين وتعمية البصيرة؟",
@@ -88605,13 +88695,50 @@
       "EpisodeRRDate": "",
       "EpisodeRMDate": "",
       "EpisodeRMDate2": "",
-      "EpisodeNextHint": "",
+      "EpisodeNextHint": "مينتشي وكوروكي (أطباق يابانية)",
       "EpisodeEventsAdvanced": "",
       "EpisodeSummary": "",
       "EpisodeCurrentHint": "الذكرى السنوية الثلاثون",
       "EpisodeParts": "",
       "EpisodeFilterAdvanced": "",
-      "EpisodeVideosIDs": [],
+      "EpisodeVideosIDs": [
+        {
+          "VideoID": "BAACAgQAAxkBAAEBQe1pWP1RpvwDmuSvS-A6kGcPJZsl7gACjBwAAu0YyFLVfI3-6EJe3DgE",
+          "Resolution": "1080p",
+          "Size": "1035.59",
+          "IntroductionTime": "",
+          "StartStoryTime": "",
+          "EpisodeSuspenseTime": "",
+          "StartSongTime": "",
+          "ChapterOneTime": "",
+          "ChapterTwoTime": "",
+          "EndSongTime": "",
+          "ChapterThreeTime": "",
+          "NextEpisodeTeaserTime": "",
+          "NextEpisodeHintTime": "",
+          "EpisodeTranslator": "Spacetoon",
+          "EpisodeRemastered": "",
+          "EpisodeCategory": "S"
+        },
+        {
+          "VideoID": "BAACAgQAAxkBAAEBQe9pWP1bFfPJcb-RAAF2yokkUxrhs1wAAswcAAKjGshSskPX1b_UUKA4BA",
+          "Resolution": "720p",
+          "Size": "382.28",
+          "IntroductionTime": "",
+          "StartStoryTime": "",
+          "EpisodeSuspenseTime": "",
+          "StartSongTime": "",
+          "ChapterOneTime": "",
+          "ChapterTwoTime": "",
+          "EndSongTime": "",
+          "ChapterThreeTime": "",
+          "NextEpisodeTeaserTime": "",
+          "NextEpisodeHintTime": "",
+          "EpisodeTranslator": "Spacetoon",
+          "EpisodeRemastered": "",
+          "EpisodeCategory": "S"
+        }
+      ],
       "EpisodeMangasIDs": [
         {
           "MangaNumber": "0",
@@ -88676,12 +88803,34 @@
       "EpisodeNextHint": "",
       "EpisodeEventsAdvanced": "",
       "EpisodeSummary": "",
-      "EpisodeCurrentHint": "",
+      "EpisodeCurrentHint": "مينتشي وكوروكي (أطباق يابانية)",
       "EpisodeParts": "",
       "EpisodeFilterAdvanced": "",
       "EpisodeVideosIDs": [],
       "EpisodeMangasIDs": [],
-      "EpisodeTrailersIDs": []
+      "EpisodeTrailersIDs": [
+        {
+          "TrailerNumber": "1",
+          "Provider": "Mega",
+          "TrailerID": "Xs50TSoT#h6-Ik84NqCS7l25mXOEuKtoDRns5K7vH8too5N3k2dg",
+          "Resolution": "",
+          "Size": ""
+        },
+        {
+          "TrailerNumber": "1",
+          "Provider": "GDrive",
+          "TrailerID": "1wR4L8FQtF0hJYoJP1mFsJcp42CHxf0wW",
+          "Resolution": "",
+          "Size": ""
+        },
+        {
+          "TrailerNumber": "1",
+          "Provider": "TG",
+          "TrailerID": "BAACAgQAAxkBAAEBQdNpWOnTY_PrWjw_yIAtWToULIbzqwACGBoAAqJVyFJk-yNrnQ6uOzgE",
+          "Resolution": "720p",
+          "Size": "2.06"
+        }
+      ]
     }
   ],
   "Mangas": [
