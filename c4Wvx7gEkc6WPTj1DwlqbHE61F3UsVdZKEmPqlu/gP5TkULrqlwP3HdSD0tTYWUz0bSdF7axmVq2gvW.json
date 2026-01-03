@@ -88737,7 +88737,25 @@
           "EpisodeTranslator": "Spacetoon",
           "EpisodeRemastered": "",
           "EpisodeCategory": "S"
-        }
+        },
+        {
+          "VideoID": "BAACAgQAAxkBAAEBQg9pWQfVxQZcF_ot2NaPjarxZ7qEqgAC7hgAAqKxyVKqh5clYet8nzgE",
+          "Resolution": "480p",
+          "Size": "251.08",
+          "IntroductionTime": "",
+          "StartStoryTime": "",
+          "EpisodeSuspenseTime": "",
+          "StartSongTime": "",
+          "ChapterOneTime": "",
+          "ChapterTwoTime": "",
+          "EndSongTime": "",
+          "ChapterThreeTime": "",
+          "NextEpisodeTeaserTime": "",
+          "NextEpisodeHintTime": "",
+          "EpisodeTranslator": "Spacetoon",
+          "EpisodeRemastered": "",
+          "EpisodeCategory": "S"
+        }        
       ],
       "EpisodeMangasIDs": [
         {
