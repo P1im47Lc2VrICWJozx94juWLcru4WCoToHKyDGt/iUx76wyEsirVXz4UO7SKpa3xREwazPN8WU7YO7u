@@ -13953,6 +13953,24 @@
           "EpisodeCategory": ""
         },
         {
+          "VideoID": "BAACAgQAAyEFAAP5s5kGiwADM2lhNpjUxzjWGy409SHzaW1u0TAXAAJQEwACUOMRUlvqw8lvvVmbOAQ",
+          "Resolution": "1080p",
+          "Size": "406.3",
+          "IntroductionTime": "",
+          "StartStoryTime": "",
+          "EpisodeSuspenseTime": "",
+          "StartSongTime": "",
+          "ChapterOneTime": "",
+          "ChapterTwoTime": "",
+          "EndSongTime": "",
+          "ChapterThreeTime": "",
+          "NextEpisodeTeaserTime": "",
+          "NextEpisodeHintTime": "",
+          "EpisodeTranslator": "",
+          "EpisodeRemastered": "",
+          "EpisodeCategory": ""
+        },
+        {
           "VideoID": "BAACAgQAAxkBAAINKGd2edKN1GVxRt8ngdqo9saXPnMjAAJNBwACz9F5Ur3CKeOpRdUWNgQ",
           "Resolution": "480p",
           "Size": "70.05",
@@ -14016,6 +14034,24 @@
           "VideoID": "BAACAgQAAxkBAAINKWd2edxrPPGZefI_VpZixAlUHCm7AAJfEgACnIEYUBSz2ElGC2PaNgQ",
           "Resolution": "1080p",
           "Size": "659.18",
+          "IntroductionTime": "",
+          "StartStoryTime": "",
+          "EpisodeSuspenseTime": "",
+          "StartSongTime": "",
+          "ChapterOneTime": "",
+          "ChapterTwoTime": "",
+          "EndSongTime": "",
+          "ChapterThreeTime": "",
+          "NextEpisodeTeaserTime": "",
+          "NextEpisodeHintTime": "",
+          "EpisodeTranslator": "",
+          "EpisodeRemastered": "",
+          "EpisodeCategory": ""
+        },
+        {
+          "VideoID": "BAACAgQAAyEFAAP5s5kGiwADNGlhNpg7qoEWYihkN0amcGswgBz7AAJREwACUOMRUmqAeXstuYZBOAQ",
+          "Resolution": "1080p",
+          "Size": "384.28",
           "IntroductionTime": "",
           "StartStoryTime": "",
           "EpisodeSuspenseTime": "",
@@ -52500,7 +52536,7 @@
     },
     {
       "EpisodeNumber": "762",
-      "EpisodeTitle": "رحلة كاغا هياكومانغوكو الغامضة (جزء كاگا)",
+      "EpisodeTitle": "رحلة كاغا هياكومانغوكو الغامضة (جزء كاكا)",
       "EpisodeType": "ف",
       "EpisodeSpecial": "",
       "EpisodeStory": "في قَلْبِ الْمَدِينَة الصَّاخبة، تتكشف الستائر، وَتَتَبَدَّلُ الوُجُوه، ليختفيَ المَرحُ، ويَتَحوَّل المَكان لِسَاحَة جَريِمَة، وتَتَشَابك الخَطايَا في رَحلة البَحْثِ عنْ الحَق . هَمْسَات مُرعِبَة ، وَأَنفَاس مَقْبُوْضَة تَزيدُ المَوقِفَ تعقيدًا وَتَدْفَعُ الأَبْطَالَ إلى السَّعي لِحَلِّ اللُغْز . فَهل سَتَكْشِفُ الأَسْرَار عَن وُجُوْه الجُناة الحَقيقيِّين ؟ أمْ أنَّ الظِّل سيُخْفي النور ويَسْتَمر في الْعَبتِ بِمَصَائِر الْبُؤساء ؟",
@@ -67421,7 +67457,7 @@
     },
     {
       "EpisodeNumber": "976",
-      "EpisodeTitle": "الحقهم! أيها المحقق تاكسي 1",
+      "EpisodeTitle": "الحقهم! يا تاكسي المحقق 1",
       "EpisodeType": "ف",
       "EpisodeSpecial": "",
       "EpisodeStory": "في شوارعِ طوكيو المُزدحمةِ، تتشابكُ خيوطُ البحثِ عن حيوانٍ أليفٍ مفقودٍ مع خيوطِ جريمةِ سطوٍ مُحتملةٍ، لتنقلبَ مُهمةٌ بسيطةٌ إلى تحقيقٍ مُثيرٍ يُقودُ إلى مُطاردةٍ مُشوّقةٍ. اختفاءٌ غامضٌ لحيوانٍ مدرعٍ وظهورُ شخصينِ غامضينِ يُثيرانِ الشكوكَ حولَ تورطهما في عمليةٍ إجراميةٍ تُشعلُ فتيلَ الغموضِ في أرجاءِ المدينةِ. بينَ أسواقِ السمكِ وشوارعِ المدينةِ، يتصاعدُ التوترُ ويتشابكُ الخفيُّ بالظاهرِ. هل سيكشفُ التحقيقُ عن الرابطِ الخفيِّ بينَ اختفاءِ الحيوانِ وعمليةِ السطو؟ وهل ستنكشفُ حقيقةُ هذينِ الشخصينِ الغامضينِ؟ أم أنَّ الأسرارَ ستبقى طيَّ الكتمانِ؟ وما علاقةُ سيارةِ الأجرةِ بهذهِ الأحداثِ المُريبةِ؟",
@@ -85859,7 +85895,7 @@
     },
     {
       "EpisodeNumber": "1155",
-      "EpisodeTitle": "الحقهم! أيها المحقق تاكسي 2",
+      "EpisodeTitle": "الحقهم! يا تاكسي المحقق 2",
       "EpisodeType": "ف",
       "EpisodeSpecial": "",
       "EpisodeStory": "في بريق مهرجان المجوهرات الساطع، تتكشف خيوط مؤامرة غامضة. ثنائي مريب يظهر في الأفق، يلتقط صوراً سرية، ويثير الشكوك. يتحرك متطفل شجاع بمفرده للكشف عن الحقيقة، لكنه سرعان ما يجد نفسه في مرمى الخطر. بينما تتعقد الأحداث، يختفي المحقق فجأة، وتتصاعد الأسئلة دون إجابة. هل ينجح في فك رموز هذا اللغز المحير قبل فوات الأوان؟\n",
@@ -88688,7 +88724,7 @@
       "EpisodeStory": "تحت وهجٍ أزرق صامت، حيث ترقص الكائنات البحرية خلف الزجاج، يُقطع وعدٌ بالبهجة بصرخة تُبدد السكون. جثة هامدة تُلطخ المشهد، وثلاثة وجوه تحتمي خلف شاشات صغيرة تعرض حقيقة لا يمكن دحضها. وقبل أن تبدأ الحكاية المعروفة، كانت هناك جريمة تروي كيف بدأت القصة حقًا؛ حين كان على متحر شاب أن يختار بين وعدٍ بالحب، وحقيقة مغلفة بالخداع.",
       "EpisodeMangaQuoted": "(882-884) + (0)",
       "EpisodeSeason": "الحادي والثلاثون",
-      "EpisodeSeasonCount": "2",
+      "EpisodeSeasonCount": "5",
       "EpisodeNotes": "",
       "EpisodeEvents": "م ر ط",
       "EpisodeBCDate": "2026-01-03",
@@ -88719,7 +88755,7 @@
           "EpisodeTranslator": "Aoibu",
           "EpisodeRemastered": "",
           "EpisodeCategory": "S"
-        },        
+        },
         {
           "VideoID": "BAACAgQAAxkBAAEBQt9pWWLH_QxPMaRQVqDjj5BaL0aKbQAC6RwAAu0Y0FICU-kNnNhjSjgE",
           "Resolution": "1080p",
@@ -88863,7 +88899,7 @@
           "EpisodeTranslator": "Spacetoon",
           "EpisodeRemastered": "",
           "EpisodeCategory": "D"
-        }        
+        }
       ],
       "EpisodeMangasIDs": [
         {
@@ -88913,20 +88949,20 @@
     },
     {
       "EpisodeNumber": "1188",
-      "EpisodeTitle": "الحقهم! أيها المحقق تاكسي 3",
+      "EpisodeTitle": "الحقهم! يا تاكسي المحقق 3",
       "EpisodeType": "ف",
       "EpisodeSpecial": "",
       "EpisodeStory": "رحلةٌ تبدأ بدعوة تكريمٍ خادعة، تقودُ محققًا إلى مدينةٍ بعيدة لا يعلمُ سرَّ استدعائه إليها. وفي العاصمة البعيدة، يتردد صدى سرقاتٍ غامضة لجواهر ثمينة، وكأنها تحدٍّ سافر للقانون. ولكن، ما لم يكن في الحسبان هو أن الخيط الذي يربط بين الدعوة المزيفة ووميض الأحجار المسروقة واحد؛ خيطٌ نسجه عقلٌ مدبّر يسخر من الجميع. عندما تتضح الخديعة، تنطلق مطاردةٌ محمومة بصحبةِ رفيقٍ غير متوقع. فهل سيتمكنان من إيقاف هذا اللاعب الخفي قبل أن تكتمل فصول لعبته المتقنة؟",
       "EpisodeMangaQuoted": "",
       "EpisodeSeason": "الحادي والثلاثون",
-      "EpisodeSeasonCount": "2",
+      "EpisodeSeasonCount": "5",
       "EpisodeNotes": "",
       "EpisodeEvents": "",
       "EpisodeBCDate": "2026-01-10",
       "EpisodeRRDate": "",
       "EpisodeRMDate": "",
       "EpisodeRMDate2": "",
-      "EpisodeNextHint": "",
+      "EpisodeNextHint": "صنارة الصيد",
       "EpisodeEventsAdvanced": "",
       "EpisodeSummary": "",
       "EpisodeCurrentHint": "مينتشي وكوروكي (أطباق يابانية)",
@@ -88957,6 +88993,103 @@
           "Size": "2.06"
         }
       ]
+    },
+    {
+      "EpisodeNumber": "1189",
+      "EpisodeTitle": "حجة الغياب المزدوجة",
+      "EpisodeType": "ف",
+      "EpisodeSpecial": "",
+      "EpisodeStory": "بين دقات الساعات التي تحصي الأنفاس، ورسالة تهديد تطلب النجاة من موت محقق، تظهر جثة هامدة تكسر سكون بحيرة بعيدة، معلنة عن نهاية مأساوية لمعلم قديم. وحينما تتجه أصابع الاتهام نحو وريث مهنته، تقف المسافة الشاسعة والزمن المستحيل حصنا منيعا يبرئه، فتبدو الجريمة وكأنها ضرب من الخيال تحدى قوانين المكان. فهل يمكن للتلاعب بالوقت أن يهزم حقائق الجغرافيا، أم أن هناك خدعة خفية تكمن بين عقارب الساعة؟\n",
+      "EpisodeMangaQuoted": "",
+      "EpisodeSeason": "الحادي والثلاثون",
+      "EpisodeSeasonCount": "5",
+      "EpisodeNotes": "",
+      "EpisodeEvents": "",
+      "EpisodeBCDate": "2026-01-17",
+      "EpisodeRRDate": "",
+      "EpisodeRMDate": "",
+      "EpisodeRMDate2": "",
+      "EpisodeNextHint": "",
+      "EpisodeEventsAdvanced": "",
+      "EpisodeSummary": "",
+      "EpisodeCurrentHint": "صنارة الصيد",
+      "EpisodeParts": "",
+      "EpisodeFilterAdvanced": "",
+      "EpisodeVideosIDs": [],
+      "EpisodeMangasIDs": [],
+      "EpisodeTrailersIDs": [
+        {
+          "TrailerNumber": "1",
+          "Provider": "Mega",
+          "TrailerID": "WlRW3BaB#F4BrDivxUalThVrcJQbhIkGJbiTUeZ1nMU0hcYf_KT8",
+          "Resolution": "",
+          "Size": ""
+        },
+        {
+          "TrailerNumber": "1",
+          "Provider": "GDrive",
+          "TrailerID": "1Ki21EsSmQOtoiEJyMHGXLCVxMGKGikqz",
+          "Resolution": "",
+          "Size": ""
+        },
+        {
+          "TrailerNumber": "1",
+          "Provider": "TG",
+          "TrailerID": "BAACAgQAAxkBAAEBShZpYh41KQM-4x9mNie6XJuheeY-VQACQx0AAm4ZGFOb-VSqsPhHSzgE",
+          "Resolution": "720p",
+          "Size": "1.65"
+        }
+      ]
+    },
+    {
+      "EpisodeNumber": "1190",
+      "EpisodeTitle": "جولة توتوري الغامضة (الجزء الأول)",
+      "EpisodeType": "ف",
+      "EpisodeSpecial": "",
+      "EpisodeStory": "",
+      "EpisodeMangaQuoted": "",
+      "EpisodeSeason": "الحادي والثلاثون",
+      "EpisodeSeasonCount": "5",
+      "EpisodeNotes": "",
+      "EpisodeEvents": "",
+      "EpisodeBCDate": "2026-01-24",
+      "EpisodeRRDate": "",
+      "EpisodeRMDate": "",
+      "EpisodeRMDate2": "",
+      "EpisodeNextHint": "",
+      "EpisodeEventsAdvanced": "",
+      "EpisodeSummary": "",
+      "EpisodeCurrentHint": "",
+      "EpisodeParts": "",
+      "EpisodeFilterAdvanced": "",
+      "EpisodeVideosIDs": [],
+      "EpisodeMangasIDs": [],
+      "EpisodeTrailersIDs": []
+    },
+    {
+      "EpisodeNumber": "1191",
+      "EpisodeTitle": "جولة توتوري الغامضة (الجزء الثاني)",
+      "EpisodeType": "ف",
+      "EpisodeSpecial": "",
+      "EpisodeStory": "",
+      "EpisodeMangaQuoted": "",
+      "EpisodeSeason": "الحادي والثلاثون",
+      "EpisodeSeasonCount": "5",
+      "EpisodeNotes": "",
+      "EpisodeEvents": "",
+      "EpisodeBCDate": "2026-01-31",
+      "EpisodeRRDate": "",
+      "EpisodeRMDate": "",
+      "EpisodeRMDate2": "",
+      "EpisodeNextHint": "",
+      "EpisodeEventsAdvanced": "",
+      "EpisodeSummary": "",
+      "EpisodeCurrentHint": "",
+      "EpisodeParts": "",
+      "EpisodeFilterAdvanced": "",
+      "EpisodeVideosIDs": [],
+      "EpisodeMangasIDs": [],
+      "EpisodeTrailersIDs": []
     }
   ],
   "Mangas": [
