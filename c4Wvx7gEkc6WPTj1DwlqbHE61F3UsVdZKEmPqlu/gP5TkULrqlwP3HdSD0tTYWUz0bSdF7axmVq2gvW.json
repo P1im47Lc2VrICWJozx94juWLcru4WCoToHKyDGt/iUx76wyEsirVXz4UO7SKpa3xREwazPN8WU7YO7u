@@ -88970,6 +88970,24 @@
       "EpisodeFilterAdvanced": "",
       "EpisodeVideosIDs": [
         {
+          "VideoID": "BAACAgQAAxkBAAEBSnlpYtYEujMphzjwGNodEzuq0CtAGgAC9BoAAmSQGFOlAv9dxarZ0zgE",
+          "Resolution": "1080p",
+          "Size": "455.06",
+          "IntroductionTime": "",
+          "StartStoryTime": "",
+          "EpisodeSuspenseTime": "",
+          "StartSongTime": "",
+          "ChapterOneTime": "",
+          "ChapterTwoTime": "",
+          "EndSongTime": "",
+          "ChapterThreeTime": "",
+          "NextEpisodeTeaserTime": "",
+          "NextEpisodeHintTime": "",
+          "EpisodeTranslator": "Aoibu",
+          "EpisodeRemastered": "",
+          "EpisodeCategory": "S"
+        },        
+        {
           "VideoID": "BAACAgQAAxkBAAEBSklpYpdLyjSm5KZQyX9fU4_aMzLOCwACRRwAAuYwEFNK14NMsz9lZDgE",
           "Resolution": "1080p",
           "Size": "548.5",
