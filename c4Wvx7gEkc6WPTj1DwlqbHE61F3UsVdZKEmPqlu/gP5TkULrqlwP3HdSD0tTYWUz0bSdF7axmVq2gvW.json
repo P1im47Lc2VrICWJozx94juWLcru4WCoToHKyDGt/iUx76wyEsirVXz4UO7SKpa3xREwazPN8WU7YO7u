@@ -86574,24 +86574,6 @@
           "EpisodeTranslator": "DCAN",
           "EpisodeRemastered": "نهائية",
           "EpisodeCategory": "S"
-        },                
-        {
-          "VideoID": "BAACAgQAAxkBAAEBIxdpM8l3hCQP1G9cuDKvvny61sXERQACbiAAAhgNiVEvMgABhYdhWJw2BA",
-          "Resolution": "1080p",
-          "Size": "2786.64",
-          "IntroductionTime": "",
-          "StartStoryTime": "",
-          "EpisodeSuspenseTime": "",
-          "StartSongTime": "",
-          "ChapterOneTime": "",
-          "ChapterTwoTime": "",
-          "EndSongTime": "",
-          "ChapterThreeTime": "",
-          "NextEpisodeTeaserTime": "",
-          "NextEpisodeHintTime": "",
-          "EpisodeTranslator": "عبد المللك",
-          "EpisodeRemastered": "أولية",
-          "EpisodeCategory": "S"
         },
         {
           "VideoID": "BAACAgQAAxkBAAEBITlpL-b0xfBYdZ9redo0F6H-S5IW7QACJhwAAk-ueVE1oXR7yEDxPzYE",
@@ -86609,6 +86591,24 @@
           "NextEpisodeHintTime": "",
           "EpisodeTranslator": "Celestial-Dragons",
           "EpisodeRemastered": "نهائية",
+          "EpisodeCategory": "S"
+        },
+        {
+          "VideoID": "BAACAgQAAxkBAAEBIxdpM8l3hCQP1G9cuDKvvny61sXERQACbiAAAhgNiVEvMgABhYdhWJw2BA",
+          "Resolution": "1080p",
+          "Size": "2786.64",
+          "IntroductionTime": "",
+          "StartStoryTime": "",
+          "EpisodeSuspenseTime": "",
+          "StartSongTime": "",
+          "ChapterOneTime": "",
+          "ChapterTwoTime": "",
+          "EndSongTime": "",
+          "ChapterThreeTime": "",
+          "NextEpisodeTeaserTime": "",
+          "NextEpisodeHintTime": "",
+          "EpisodeTranslator": "عبد المللك",
+          "EpisodeRemastered": "أولية",
           "EpisodeCategory": "S"
         }
       ],
@@ -89136,13 +89136,50 @@
       "EpisodeRRDate": "",
       "EpisodeRMDate": "",
       "EpisodeRMDate2": "",
-      "EpisodeNextHint": "",
+      "EpisodeNextHint": "ضفدع",
       "EpisodeEventsAdvanced": "",
-      "EpisodeSummary": "",
+      "EpisodeSummary": "تبدأ القصة في يوم من أيام العطلة، حيث يأخذ المحقق كوغورو موري ابنته ران وكونان إلى متنزه يتميز بساعة دمى ميكانيكية متقنة الصنع. خلال الزيارة، يصادفون صانع الساعات الشهير إيوابوتشي ماساتو وتلميذه تانو ريوتا، الذي صنع ساعة الدمى في الحديقة، وهما يتشاجران، حيث يهدد تانو أستاذه بالقتل علناً. وفي مكان آخر، يلتقي كوغورو بصديق قديم يُدعى ساساكاوا ناتسومي، وهو مالك مقهى، بصحبة ابنته الصغيرة التي تحلم بأن تصبح محققة وتمتلك أصفاداً للعب. في نفس اليوم، يلتقي كوغورو بالسيد تانو في فندق محلي لمناقشة رسالة تهديد تلقاها تانو تحذره بأن \"ساعته ستتوقف قريباً\". يتكهن تانو بأن التهديد ربما يأتي من زملاء غيورين، حيث حاز عمله مؤخراً على اهتمام واسع وإشادة، وخاصةً بسبب آليته الميكانيكية المعقدة.\n\nفي صباح اليوم التالي، في منطقة بحيرة أوكوهو الخلابة، يعثر البروفيسور أغاسا ومرافقوه من المخيم الصيفي على جثة رجل في قارب يطفو بالقرب من الضفة. يُعرف الرجل باسم إيوابوتشي ماساتو، معلم تانو، وقد قُتل بضربة قوية على مؤخرة رأسه، مع وجود مسدس صاعق وتذكرة وقوف سيارات في جيوبه تشير إلى وقت وصوله حوالي الساعة السابعة والنصف صباحاً. تحدد الشرطة، بقيادة المفتش ميغوري والمحقق تاكاغي، وقت الوفاة بين السابعة والنصف والثامنة والنصف صباحاً، وتتجه الشكوك فوراً نحو تانو ريوتا بسبب خلافه العلني مع الضحية، وتهديده له، وعيشه بالقرب من مكان الحادث.\n\nيستجوب المحققون تانو في الفندق، فيقدم لهم حجة غياب قوية، مدعياً أنه كان يعمل في غرفته واستلم خدمة الغرف (سندويشات وقهوة) في حوالي الساعة السابعة والنصف صباحاً، مما يجعله بعيداً عن مسرح الجريمة وقت وقوعها، حيث تستغرق الرحلة ساعة كاملة بالسيارة. كما أن ظهوره العلني في ردهة الفندق لمشاهدة عرض ساعة الدمى في الساعة التاسعة صباحاً يدعم حجته، مما يجعل ذهابه وعودته إلى البحيرة أمراً مستحيلاً.\n\nمع ذلك، يشك كونان في صحة حجة تانو، ويكتشف مع هايبرا وجود زهور نادرة، تُدعى \"إيرانثيس بيناتيفيدا\"، في القارب الذي وُجدت فيه الجثة، وهي زهور تنمو فقط في مكان محدد بالقرب من نهر يصب في البحيرة، وليس في البحيرة نفسها. يقود هذا الاكتشاف كونان لاستنتاج أن الجثة وضعت في القارب عند منبع النهر لتنجرف مع التيار إلى البحيرة، مما يعطي القاتل وقتاً إضافياً ويضلل الشرطة حول مكان وتوقيت الجريمة الفعليين. بالإضافة إلى ذلك، يلاحظ كونان أن القارب المستخدم، رغم أنه قارب تجديف، كان مجهزاً في الأصل بمحرك تمت إزالته، مما يفسر قدرته على التحرك عكس التيار في أجزاء من النهر.\n\nبمواجهة تانو، يكشف كونان الحقيقة كاملة. كان الدافع الحقيقي للجريمة هو أن تانو قد سرق تصميمات معلمه إيوابوتشي ونسبها لنفسه، وكان إيوابوتشي يخطط لفضحه، مما دفعهما لترتيب لقاء في الجبال لحل النزاع، حيث كان كل منهما يخطط للتخلص من الآخر وجعل الأمر يبدو كحادث. نجح تانو في قتل إيوابوتشي، ثم وضع جثته في القارب وأطلقها في النهر لتصل إلى البحيرة، مما خلق وهم ارتكاب الجريمة في وقت ومكان مختلفين لتأكيد حجة غيابه في الفندق. ولتعزيز خدعته، استخدم تانو معرفته بممرات الفندق والقفز إلى شاحنة غسيل ليتسلل عائداً لغرفته دون أن يلاحظه أحد بعد ارتكاب الجريمة.\n\nعندما ينكشف أمره، يحاول تانو الهرب يائسًا، لكن ابنة صديق كوغورو، ناتسومي، التي كانت تلعب دور المحققة، تتمكن من عرقلته باستخدام أصفادها اللعبة، مما يتيح للشرطة القبض عليه. يعترف تانو بجريمته، وتنتهي القصة بتأمل حزين من الشخصيات حول كيف يمكن للطموح والحسد أن يدمرا العلاقات الإنسانية ويؤديا إلى مآسي لا يمكن إصلاحها.",
       "EpisodeCurrentHint": "صنارة الصيد",
       "EpisodeParts": "",
       "EpisodeFilterAdvanced": "",
-      "EpisodeVideosIDs": [],
+      "EpisodeVideosIDs": [
+        {
+          "VideoID": "BAACAgQAAxkBAAEBUXVpbLwCeFfco8GKRYlMBVjsPN9b8gACqx0AAmF0YFMnn4EbZ4yMHDgE",
+          "Resolution": "1080p",
+          "Size": "394.91",
+          "IntroductionTime": "",
+          "StartStoryTime": "",
+          "EpisodeSuspenseTime": "",
+          "StartSongTime": "",
+          "ChapterOneTime": "",
+          "ChapterTwoTime": "",
+          "EndSongTime": "",
+          "ChapterThreeTime": "",
+          "NextEpisodeTeaserTime": "",
+          "NextEpisodeHintTime": "",
+          "EpisodeTranslator": "Aoibu",
+          "EpisodeRemastered": "",
+          "EpisodeCategory": "S"
+        },
+        {
+          "VideoID": "BAACAgQAAxkBAAEBUXdpbLwaTDJJgmLkbS7Qjg9rqLKzCwACKx0AArncaFPKtqgmqMfAjjgE",
+          "Resolution": "720p",
+          "Size": "203.97",
+          "IntroductionTime": "",
+          "StartStoryTime": "",
+          "EpisodeSuspenseTime": "",
+          "StartSongTime": "",
+          "ChapterOneTime": "",
+          "ChapterTwoTime": "",
+          "EndSongTime": "",
+          "ChapterThreeTime": "",
+          "NextEpisodeTeaserTime": "",
+          "NextEpisodeHintTime": "",
+          "EpisodeTranslator": "Spacetoon",
+          "EpisodeRemastered": "",
+          "EpisodeCategory": "D"
+        }
+      ],
       "EpisodeMangasIDs": [],
       "EpisodeTrailersIDs": [
         {
@@ -89170,10 +89207,10 @@
     },
     {
       "EpisodeNumber": "1190",
-      "EpisodeTitle": "جولة توتوري الغامضة (الجزء الأول)",
+      "EpisodeTitle": "الحبيب الذي اختفى عند جسر كويتاني (فصل جولة توتوري)",
       "EpisodeType": "ف",
       "EpisodeSpecial": "",
-      "EpisodeStory": "",
+      "EpisodeStory": "بين أحضان الينابيع التي يفترض أن تشفي القلوب وتمنح السكينة، تتصاعد أبخرة الخديعة لتخفي مأساة صامتة. قلب مثقل بقيود عائلية وعشق يواجه طريقا مسدودا، يجد نفسه محاصرا في ليلة لا تشبه سابقاتها. ومع بزوغ خيوط الفجر الأولى، يتبدد أثر أحدهم فجأة كما يتبدد البخار في الهواء، تاركا خلفه فراغا موحشا وأسئلة لا إجابة لها. فهل كان الاختفاء هروبا نحو الحرية، أم أن يدا خفية قد امتدت في الظلام لتنهي الحكاية قبل أن تبدأ؟",
       "EpisodeMangaQuoted": "",
       "EpisodeSeason": "الحادي والثلاثون",
       "EpisodeSeasonCount": "5",
@@ -89186,19 +89223,41 @@
       "EpisodeNextHint": "",
       "EpisodeEventsAdvanced": "",
       "EpisodeSummary": "",
-      "EpisodeCurrentHint": "",
+      "EpisodeCurrentHint": "ضفدع",
       "EpisodeParts": "49",
       "EpisodeFilterAdvanced": "",
       "EpisodeVideosIDs": [],
       "EpisodeMangasIDs": [],
-      "EpisodeTrailersIDs": []
+      "EpisodeTrailersIDs": [
+        {
+          "TrailerNumber": "1",
+          "Provider": "Mega",
+          "TrailerID": "6oo3ATRS#6o0y07ju4nMk26z2FkfootBMxCB3DVdqYuw88xIhQcs",
+          "Resolution": "",
+          "Size": ""
+        },
+        {
+          "TrailerNumber": "1",
+          "Provider": "GDrive",
+          "TrailerID": "1s2pLLQ0GKpEAGT4GsbttdFzfz3xHIcOs",
+          "Resolution": "",
+          "Size": ""
+        },
+        {
+          "TrailerNumber": "1",
+          "Provider": "TG",
+          "TrailerID": "BAACAgQAAxkBAAEBUXlpbL0j4YikZFVXTIQzDzaWaepBKQAC7hkAApJ1aVOGk1jtdOrGyTgE",
+          "Resolution": "720p",
+          "Size": "1.83"
+        }
+      ]
     },
     {
       "EpisodeNumber": "1191",
-      "EpisodeTitle": "جولة توتوري الغامضة (الجزء الثاني)",
+      "EpisodeTitle": "الحبيب الذي اختفى عند جسر كويتاني (؟؟؟)",
       "EpisodeType": "ف",
       "EpisodeSpecial": "",
-      "EpisodeStory": "",
+      "EpisodeStory": "بين أحضان الينابيع التي يفترض أن تشفي القلوب وتمنح السكينة، تتصاعد أبخرة الخديعة لتخفي مأساة صامتة. قلب مثقل بقيود عائلية وعشق يواجه طريقا مسدودا، يجد نفسه محاصرا في ليلة لا تشبه سابقاتها. ومع بزوغ خيوط الفجر الأولى، يتبدد أثر أحدهم فجأة كما يتبدد البخار في الهواء، تاركا خلفه فراغا موحشا وأسئلة لا إجابة لها. فهل كان الاختفاء هروبا نحو الحرية، أم أن يدا خفية قد امتدت في الظلام لتنهي الحكاية قبل أن تبدأ؟",
       "EpisodeMangaQuoted": "",
       "EpisodeSeason": "الحادي والثلاثون",
       "EpisodeSeasonCount": "5",
