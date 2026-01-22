@@ -22632,6 +22632,42 @@
       "EpisodeFilterAdvanced": "1SK3 1SK4 8AH1 9HA1 10SS1 13YK1 15KT1 18TA1 31JM1 32NS1 33MS1 34WT1 35KC1 59SA1 60JS1 69GN1 71VH1 70VA1 74SM1 75AM2 14HH1",
       "EpisodeVideosIDs": [
         {
+          "VideoID": "BAACAgIAAxkBAAEBVNFpckWPu7_xTsE5KnI9HPtaVUktnQACojwAAj10eEi9NT-WvFqbOzgE",
+          "Resolution": "720p",
+          "Size": "2180.60",
+          "IntroductionTime": "",
+          "StartStoryTime": "",
+          "EpisodeSuspenseTime": "",
+          "StartSongTime": "",
+          "ChapterOneTime": "",
+          "ChapterTwoTime": "",
+          "EndSongTime": "",
+          "ChapterThreeTime": "",
+          "NextEpisodeTeaserTime": "",
+          "NextEpisodeHintTime": "",
+          "EpisodeTranslator": "DCAN",
+          "EpisodeRemastered": "",
+          "EpisodeCategory": "S"
+        },
+        {
+          "VideoID": "BAACAgQAAxkBAAEBVM9pckVDg1Qv9HtvMw_Dt_72HE5_RgACJxcAAtC6cVJkdH9W8uG7BDgE",
+          "Resolution": "720p",
+          "Size": "1235.96",
+          "IntroductionTime": "",
+          "StartStoryTime": "",
+          "EpisodeSuspenseTime": "",
+          "StartSongTime": "",
+          "ChapterOneTime": "",
+          "ChapterTwoTime": "",
+          "EndSongTime": "",
+          "ChapterThreeTime": "",
+          "NextEpisodeTeaserTime": "",
+          "NextEpisodeHintTime": "",
+          "EpisodeTranslator": "Mystery-Fansubs",
+          "EpisodeRemastered": "",
+          "EpisodeCategory": "S"
+        },        
+        {
           "VideoID": "BAACAgQAAxkBAAINs2d2q0IoFBqXoSeY017-e_O2cNt8AAILEAAC1ehIU8UVOvs-kxTyNgQ",
           "Resolution": "720p",
           "Size": "711.52",
@@ -22645,9 +22681,9 @@
           "ChapterThreeTime": "",
           "NextEpisodeTeaserTime": "",
           "NextEpisodeHintTime": "",
-          "EpisodeTranslator": "",
+          "EpisodeTranslator": "Mystery-Fansubs",
           "EpisodeRemastered": "",
-          "EpisodeCategory": ""
+          "EpisodeCategory": "S"
         },
         {
           "VideoID": "BAACAgQAAxkBAAINtGd2q0pUpvBmH6gX17ZPJm8QgEsYAAKnCQAC46QoUjKiRkIHWomXNgQ",
@@ -22663,9 +22699,9 @@
           "ChapterThreeTime": "",
           "NextEpisodeTeaserTime": "",
           "NextEpisodeHintTime": "",
-          "EpisodeTranslator": "",
+          "EpisodeTranslator": "Anime-Down",
           "EpisodeRemastered": "",
-          "EpisodeCategory": ""
+          "EpisodeCategory": "S"
         }
       ],
       "EpisodeMangasIDs": [
