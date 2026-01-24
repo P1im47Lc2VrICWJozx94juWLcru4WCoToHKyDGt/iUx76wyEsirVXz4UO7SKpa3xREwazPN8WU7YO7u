@@ -22634,7 +22634,7 @@
         {
           "VideoID": "BAACAgIAAxkBAAEBVNFpckWPu7_xTsE5KnI9HPtaVUktnQACojwAAj10eEi9NT-WvFqbOzgE",
           "Resolution": "720p",
-          "Size": "2180.60",
+          "Size": "2180.6",
           "IntroductionTime": "",
           "StartStoryTime": "",
           "EpisodeSuspenseTime": "",
@@ -22666,7 +22666,7 @@
           "EpisodeTranslator": "Mystery-Fansubs",
           "EpisodeRemastered": "",
           "EpisodeCategory": "S"
-        },        
+        },
         {
           "VideoID": "BAACAgQAAxkBAAINs2d2q0IoFBqXoSeY017-e_O2cNt8AAILEAAC1ehIU8UVOvs-kxTyNgQ",
           "Resolution": "720p",
@@ -89243,7 +89243,7 @@
     },
     {
       "EpisodeNumber": "1190",
-      "EpisodeTitle": "الحبيب الذي اختفى عند جسر كويتاني (فصل جولة توتوري)",
+      "EpisodeTitle": "الحبيب الذي اختفى عند جسر كويتاني (جزء توتوري)",
       "EpisodeType": "ف",
       "EpisodeSpecial": "",
       "EpisodeStory": "بين أحضان الينابيع التي يفترض أن تشفي القلوب وتمنح السكينة، تتصاعد أبخرة الخديعة لتخفي مأساة صامتة. قلب مثقل بقيود عائلية وعشق يواجه طريقا مسدودا، يجد نفسه محاصرا في ليلة لا تشبه سابقاتها. ومع بزوغ خيوط الفجر الأولى، يتبدد أثر أحدهم فجأة كما يتبدد البخار في الهواء، تاركا خلفه فراغا موحشا وأسئلة لا إجابة لها. فهل كان الاختفاء هروبا نحو الحرية، أم أن يدا خفية قد امتدت في الظلام لتنهي الحكاية قبل أن تبدأ؟",
@@ -89256,7 +89256,7 @@
       "EpisodeRRDate": "",
       "EpisodeRMDate": "",
       "EpisodeRMDate2": "",
-      "EpisodeNextHint": "",
+      "EpisodeNextHint": "أرنب",
       "EpisodeEventsAdvanced": "",
       "EpisodeSummary": "",
       "EpisodeCurrentHint": "ضفدع",
@@ -89290,10 +89290,10 @@
     },
     {
       "EpisodeNumber": "1191",
-      "EpisodeTitle": "الحبيب الذي اختفى عند جسر كويتاني (؟؟؟)",
+      "EpisodeTitle": "الحبيب الذي اختفى عند جسر كويتاني (جزء ميساسا)",
       "EpisodeType": "ف",
       "EpisodeSpecial": "",
-      "EpisodeStory": "بين أحضان الينابيع التي يفترض أن تشفي القلوب وتمنح السكينة، تتصاعد أبخرة الخديعة لتخفي مأساة صامتة. قلب مثقل بقيود عائلية وعشق يواجه طريقا مسدودا، يجد نفسه محاصرا في ليلة لا تشبه سابقاتها. ومع بزوغ خيوط الفجر الأولى، يتبدد أثر أحدهم فجأة كما يتبدد البخار في الهواء، تاركا خلفه فراغا موحشا وأسئلة لا إجابة لها. فهل كان الاختفاء هروبا نحو الحرية، أم أن يدا خفية قد امتدت في الظلام لتنهي الحكاية قبل أن تبدأ؟",
+      "EpisodeStory": "عندما تختلط الألاعيب بالواقع، وتتحول الخدع البسيطة إلى مأزق حالك السواد، تصبح الحقيقة هي الضحية الأولى. رسائل غامضة تصل من المجهول لتزيد المشهد تعقيداً، وشهادات متضاربة تنسج شباكاً من الحيرة، فيغدو البحث عن اليقين درباً محفوفاً بالمخاطر. فهل نحن أمام تمثيلية خرجت عن السيطرة، أم فخ نصب بإحكام لإنهاء كل شيء؟",
       "EpisodeMangaQuoted": "",
       "EpisodeSeason": "الحادي والثلاثون",
       "EpisodeSeasonCount": "5",
@@ -89306,12 +89306,34 @@
       "EpisodeNextHint": "",
       "EpisodeEventsAdvanced": "",
       "EpisodeSummary": "",
-      "EpisodeCurrentHint": "",
+      "EpisodeCurrentHint": "أرنب",
       "EpisodeParts": "49",
       "EpisodeFilterAdvanced": "",
       "EpisodeVideosIDs": [],
       "EpisodeMangasIDs": [],
-      "EpisodeTrailersIDs": []
+      "EpisodeTrailersIDs": [
+        {
+          "TrailerNumber": "1",
+          "Provider": "Mega",
+          "TrailerID": "f9QS2RJB#nmIoVYmMH0SHO6f_u_4WnRBwTqUT3P_E86sNdWNrtDo",
+          "Resolution": "",
+          "Size": ""
+        },
+        {
+          "TrailerNumber": "1",
+          "Provider": "GDrive",
+          "TrailerID": "1q8__oXIXcAwdNRipWri5C8XPuldtGYbb",
+          "Resolution": "",
+          "Size": ""
+        },
+        {
+          "TrailerNumber": "1",
+          "Provider": "TG",
+          "TrailerID": "BAACAgQAAxkBAAEBVdlpdLbXqC-P6k1qTbtGw4-UF9BJsgACuxwAAnYVoFOKYZcaNfUhxTgE",
+          "Resolution": "720p",
+          "Size": "1.69"
+        }
+      ]
     }
   ],
   "Mangas": [
