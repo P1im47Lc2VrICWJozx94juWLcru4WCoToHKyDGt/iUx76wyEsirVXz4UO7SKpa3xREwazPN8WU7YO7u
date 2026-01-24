@@ -89262,7 +89262,26 @@
       "EpisodeCurrentHint": "ضفدع",
       "EpisodeParts": "49",
       "EpisodeFilterAdvanced": "",
-      "EpisodeVideosIDs": [],
+      "EpisodeVideosIDs": [
+        {
+          "VideoID": "BAACAgQAAxkBAAEBVetpdNZZo7jmASN5KMvOjdkbAWApkAACIBkAAmf8qFNK2r3ZCYfpAjgE",
+          "Resolution": "1080p",
+          "Size": "488.69",
+          "IntroductionTime": "",
+          "StartStoryTime": "",
+          "EpisodeSuspenseTime": "",
+          "StartSongTime": "",
+          "ChapterOneTime": "",
+          "ChapterTwoTime": "",
+          "EndSongTime": "",
+          "ChapterThreeTime": "",
+          "NextEpisodeTeaserTime": "",
+          "NextEpisodeHintTime": "",
+          "EpisodeTranslator": "Spacetoon",
+          "EpisodeRemastered": "",
+          "EpisodeCategory": "S"
+        }
+      ],
       "EpisodeMangasIDs": [],
       "EpisodeTrailersIDs": [
         {
