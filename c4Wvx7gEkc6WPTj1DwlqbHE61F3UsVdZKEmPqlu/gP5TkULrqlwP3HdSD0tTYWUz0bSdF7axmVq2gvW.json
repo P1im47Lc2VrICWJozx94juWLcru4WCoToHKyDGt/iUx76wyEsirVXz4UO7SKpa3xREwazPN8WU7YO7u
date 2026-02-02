@@ -89313,7 +89313,7 @@
           "ChapterThreeTime": "",
           "NextEpisodeTeaserTime": "",
           "NextEpisodeHintTime": "",
-          "EpisodeTranslator": "",
+          "EpisodeTranslator": "MothariSub",
           "EpisodeRemastered": "",
           "EpisodeCategory": "S"
         },
@@ -89400,7 +89400,25 @@
           "EpisodeTranslator": "Aoibu",
           "EpisodeRemastered": "",
           "EpisodeCategory": "S"
-        }
+        },
+        {
+          "VideoID": "BAACAgIAAxkBAAEBW7ppgFU0toIYt0t2fuFHjRxIWjiutQACcZUAAmRGAAFIKdhM0nBu90c4BA",
+          "Resolution": "1080p",
+          "Size": "232.18",
+          "IntroductionTime": "",
+          "StartStoryTime": "",
+          "EpisodeSuspenseTime": "",
+          "StartSongTime": "",
+          "ChapterOneTime": "",
+          "ChapterTwoTime": "",
+          "EndSongTime": "",
+          "ChapterThreeTime": "",
+          "NextEpisodeTeaserTime": "",
+          "NextEpisodeHintTime": "",
+          "EpisodeTranslator": "MothariSub",
+          "EpisodeRemastered": "",
+          "EpisodeCategory": "S"
+        }        
       ],
       "EpisodeMangasIDs": [],
       "EpisodeTrailersIDs": [
