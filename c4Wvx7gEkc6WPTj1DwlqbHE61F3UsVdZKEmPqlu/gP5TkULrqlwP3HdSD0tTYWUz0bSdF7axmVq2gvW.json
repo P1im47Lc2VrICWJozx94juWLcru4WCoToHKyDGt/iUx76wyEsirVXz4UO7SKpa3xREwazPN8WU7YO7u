@@ -89833,6 +89833,15 @@
           "MangaFileSize": "55.97"
         }
       ]
-    }
+    },
+    {
+      "MangasIDs": [
+        {
+          "MangaNumber": "1157",
+          "MangaFileID": "BQACAgQAAxkBAAEBYB1pihz8kFmtXYPxH1FCFUmLWkzCMAAC2SAAAjvBUVArxqc-X9tK0joE",
+          "MangaFileSize": "19.61"
+        }
+      ]
+    }    
   ]
 }
