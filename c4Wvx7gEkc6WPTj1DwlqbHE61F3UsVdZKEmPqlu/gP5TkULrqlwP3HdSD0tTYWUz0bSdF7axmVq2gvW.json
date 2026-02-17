@@ -86686,7 +86686,7 @@
         {
           "VideoID": "BAACAgUAAxkBAAEBXOVpgzJMrgAB7YMUYVTs1qHmabVpyU4AAks_AAK-OBhUMPcYYsd-bDU4BA",
           "Resolution": "480p",
-          "Size": "1035.10",
+          "Size": "1035.1",
           "IntroductionTime": "",
           "StartStoryTime": "",
           "EpisodeSuspenseTime": "",
@@ -86718,7 +86718,7 @@
           "EpisodeTranslator": "Spacetoon",
           "EpisodeRemastered": "",
           "EpisodeCategory": "D"
-        }                        
+        }
       ],
       "EpisodeMangasIDs": [],
       "EpisodeTrailersIDs": [
@@ -89490,7 +89490,7 @@
           "EpisodeTranslator": "MothariSub",
           "EpisodeRemastered": "",
           "EpisodeCategory": "S"
-        }        
+        }
       ],
       "EpisodeMangasIDs": [],
       "EpisodeTrailersIDs": [
@@ -89842,6 +89842,15 @@
           "MangaFileSize": "19.61"
         }
       ]
-    }    
+    },
+    {
+      "MangasIDs": [
+        {
+          "MangaNumber": "1158",
+          "MangaFileID": "BQACAgQAAxkBAAEBZftplKNFltnAFJ9RVx46g0q9sT4JxwACSTIAAmWNqFBc3my-bRj7MjoE",
+          "MangaFileSize": "33.78"
+        }
+      ]
+    }
   ]
 }
