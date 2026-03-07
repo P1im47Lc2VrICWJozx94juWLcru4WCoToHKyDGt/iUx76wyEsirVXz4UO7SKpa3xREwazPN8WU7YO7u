@@ -89538,7 +89538,62 @@
       "EpisodeCurrentHint": "زجاج",
       "EpisodeParts": "",
       "EpisodeFilterAdvanced": "",
-      "EpisodeVideosIDs": [],
+      "EpisodeVideosIDs": [
+        {
+          "VideoID": "BAACAgQAAxkBAAEBcUtprIfb7Y5HXluZjf02ODwr4iMcIwACQh0AAg7DaFFzFxcR84y9lToE",
+          "Resolution": "1080p",
+          "Size": "395.23",
+          "IntroductionTime": "",
+          "StartStoryTime": "",
+          "EpisodeSuspenseTime": "",
+          "StartSongTime": "",
+          "ChapterOneTime": "",
+          "ChapterTwoTime": "",
+          "EndSongTime": "",
+          "ChapterThreeTime": "",
+          "NextEpisodeTeaserTime": "",
+          "NextEpisodeHintTime": "",
+          "EpisodeTranslator": "Aoibu",
+          "EpisodeRemastered": "",
+          "EpisodeCategory": "S"
+        },
+        {
+          "VideoID": "BAACAgQAAxkBAAEBcU5prIuWiRxHVn33mppXetSWrWXEiQACsCIAAqf_YVH7EbWur7Nn5DoE",
+          "Resolution": "1080p",
+          "Size": "532.26",
+          "IntroductionTime": "",
+          "StartStoryTime": "",
+          "EpisodeSuspenseTime": "",
+          "StartSongTime": "",
+          "ChapterOneTime": "",
+          "ChapterTwoTime": "",
+          "EndSongTime": "",
+          "ChapterThreeTime": "",
+          "NextEpisodeTeaserTime": "",
+          "NextEpisodeHintTime": "",
+          "EpisodeTranslator": "Spacetoon",
+          "EpisodeRemastered": "",
+          "EpisodeCategory": "D"
+        },
+        {
+          "VideoID": "BAACAgQAAxkBAAEBcVBprIuog4D3JLwYfu2GqDckbRvI8QAC7B4AAotvYVF5nNRAaYf4YDoE",
+          "Resolution": "720p",
+          "Size": "204.62",
+          "IntroductionTime": "",
+          "StartStoryTime": "",
+          "EpisodeSuspenseTime": "",
+          "StartSongTime": "",
+          "ChapterOneTime": "",
+          "ChapterTwoTime": "",
+          "EndSongTime": "",
+          "ChapterThreeTime": "",
+          "NextEpisodeTeaserTime": "",
+          "NextEpisodeHintTime": "",
+          "EpisodeTranslator": "Spacetoon",
+          "EpisodeRemastered": "",
+          "EpisodeCategory": "D"
+        }
+      ],
       "EpisodeMangasIDs": [],
       "EpisodeTrailersIDs": [
         {
@@ -89570,7 +89625,7 @@
       "EpisodeType": "م",
       "EpisodeSpecial": "",
       "EpisodeStory": "حينما تتجه النوايا لاقتناص هدف نفيس في جنح الظلام، تتحطم الخطط المسبقة فجأة على صخرة مشهد مروع لم يكن في الحسبان. لغز معتم يحول المكان إلى ساحة من الشك، ليجبر ألد الخصوم على إبرام اتفاق هش والعمل معا في تحالف استثنائي لكشف المستور. لكن وبينما تلتئم أجزاء الأحجية وسط حذر شديد، ينبثق حضور جديد وغير متوقع ليقتحم ساحة اللعب، مربكا كل الحسابات وجاعلا طريق النجاة أضيق من أي وقت مضى. فهل ينجح هذا التوافق المتناقض في الوصول إلى اليقين، أم أن الوافد الغامض سيقلب الموازين ويخلط كل الأوراق؟",
-      "EpisodeMangaQuoted": "",
+      "EpisodeMangaQuoted": "1119-1122",
       "EpisodeSeason": "الحادي والثلاثون",
       "EpisodeSeasonCount": "8",
       "EpisodeNotes": "",
@@ -89586,7 +89641,28 @@
       "EpisodeParts": "66",
       "EpisodeFilterAdvanced": "",
       "EpisodeVideosIDs": [],
-      "EpisodeMangasIDs": [],
+      "EpisodeMangasIDs": [
+        {
+          "MangaNumber": "1119",
+          "MangaFileID": "BQACAgQAAxkBAAIwqWep0ad6HVr3IOV0R5L1pG6aOH_rAAKEGAAC_FmQUEXr5-ltu6XHNgQ",
+          "MangaFileSize": "49.6"
+        },
+        {
+          "MangaNumber": "1120",
+          "MangaFileID": "BQACAgQAAxkBAAIwqmep0adBt3z_BQrtbpItcwILehMzAAJCGAAC_FmQUBR-nVeSO44bNgQ",
+          "MangaFileSize": "38.89"
+        },
+        {
+          "MangaNumber": "1121",
+          "MangaFileID": "BQACAgQAAxkBAAIwq2ep0aeVLz1P0fCxExOJ8niyUe-KAAKrGAAC_FmQUCQlolMNR_njNgQ",
+          "MangaFileSize": "42.74"
+        },
+        {
+          "MangaNumber": "1122",
+          "MangaFileID": "BQACAgQAAxkBAAIwrGep0aeRa4rHKkih0nmm1AlqeWr_AAJgGAAC_FmQUGd2qgX7DXTcNgQ",
+          "MangaFileSize": "38.35"
+        }
+      ],
       "EpisodeTrailersIDs": [
         {
           "TrailerNumber": "1",
@@ -89617,7 +89693,7 @@
       "EpisodeType": "م",
       "EpisodeSpecial": "",
       "EpisodeStory": "",
-      "EpisodeMangaQuoted": "",
+      "EpisodeMangaQuoted": "1119-1122",
       "EpisodeSeason": "الحادي والثلاثون",
       "EpisodeSeasonCount": "8",
       "EpisodeNotes": "",
@@ -89633,47 +89709,32 @@
       "EpisodeParts": "66",
       "EpisodeFilterAdvanced": "",
       "EpisodeVideosIDs": [],
-      "EpisodeMangasIDs": [],
-      "EpisodeTrailersIDs": []
-    }
-  ],
-  "Mangas": [
-    {
-      "MangasIDs": [
+      "EpisodeMangasIDs": [
         {
           "MangaNumber": "1119",
           "MangaFileID": "BQACAgQAAxkBAAIwqWep0ad6HVr3IOV0R5L1pG6aOH_rAAKEGAAC_FmQUEXr5-ltu6XHNgQ",
           "MangaFileSize": "49.6"
-        }
-      ]
-    },
-    {
-      "MangasIDs": [
+        },
         {
           "MangaNumber": "1120",
           "MangaFileID": "BQACAgQAAxkBAAIwqmep0adBt3z_BQrtbpItcwILehMzAAJCGAAC_FmQUBR-nVeSO44bNgQ",
           "MangaFileSize": "38.89"
-        }
-      ]
-    },
-    {
-      "MangasIDs": [
+        },
         {
           "MangaNumber": "1121",
           "MangaFileID": "BQACAgQAAxkBAAIwq2ep0aeVLz1P0fCxExOJ8niyUe-KAAKrGAAC_FmQUCQlolMNR_njNgQ",
           "MangaFileSize": "42.74"
-        }
-      ]
-    },
-    {
-      "MangasIDs": [
+        },
         {
           "MangaNumber": "1122",
           "MangaFileID": "BQACAgQAAxkBAAIwrGep0aeRa4rHKkih0nmm1AlqeWr_AAJgGAAC_FmQUGd2qgX7DXTcNgQ",
           "MangaFileSize": "38.35"
         }
-      ]
-    },
+      ],
+      "EpisodeTrailersIDs": []
+    }
+  ],
+  "Mangas": [
     {
       "MangasIDs": [
         {
