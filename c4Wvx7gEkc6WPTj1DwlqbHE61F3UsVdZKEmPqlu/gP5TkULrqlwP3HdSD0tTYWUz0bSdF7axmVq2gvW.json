@@ -90024,13 +90024,68 @@
       "EpisodeRRDate": "",
       "EpisodeRMDate": "",
       "EpisodeRMDate2": "",
-      "EpisodeNextHint": "",
+      "EpisodeNextHint": "حبل",
       "EpisodeEventsAdvanced": "",
       "EpisodeSummary": "",
       "EpisodeCurrentHint": "مِثقاب",
       "EpisodeParts": "344",
       "EpisodeFilterAdvanced": "",
-      "EpisodeVideosIDs": [],
+      "EpisodeVideosIDs": [
+        {
+          "VideoID": "BAACAgQAAyEFAATJ8WVCAAIDW2nHn6MC9TEI2a9aFyVZ0faSomRMAAJ9HAACZI1AUmO8pSBfDHeROgQ",
+          "Resolution": "1080p",
+          "Size": "540.59",
+          "IntroductionTime": "",
+          "StartStoryTime": "",
+          "EpisodeSuspenseTime": "",
+          "StartSongTime": "",
+          "ChapterOneTime": "",
+          "ChapterTwoTime": "",
+          "EndSongTime": "",
+          "ChapterThreeTime": "",
+          "NextEpisodeTeaserTime": "",
+          "NextEpisodeHintTime": "",
+          "EpisodeTranslator": "Spacetoon",
+          "EpisodeRemastered": "",
+          "EpisodeCategory": "D"
+        },
+        {
+          "VideoID": "BAACAgQAAxkBAAEBfW9px79y1_7zl1nbf3m0LYCnLRE9MwACfBwAAmSNQFJwyvp7FfrcnzoE",
+          "Resolution": "720p",
+          "Size": "204.06",
+          "IntroductionTime": "",
+          "StartStoryTime": "",
+          "EpisodeSuspenseTime": "",
+          "StartSongTime": "",
+          "ChapterOneTime": "",
+          "ChapterTwoTime": "",
+          "EndSongTime": "",
+          "ChapterThreeTime": "",
+          "NextEpisodeTeaserTime": "",
+          "NextEpisodeHintTime": "",
+          "EpisodeTranslator": "Spacetoon",
+          "EpisodeRemastered": "",
+          "EpisodeCategory": "D"
+        },
+        {
+          "VideoID": "BAACAgQAAxkBAAEBfXBpx79y1pR0wgIAAb4-L4-Ma_Ii6DEAAmIfAAI6FDlSynbohHzgtWU6BA",
+          "Resolution": "480p",
+          "Size": "67.74",
+          "IntroductionTime": "",
+          "StartStoryTime": "",
+          "EpisodeSuspenseTime": "",
+          "StartSongTime": "",
+          "ChapterOneTime": "",
+          "ChapterTwoTime": "",
+          "EndSongTime": "",
+          "ChapterThreeTime": "",
+          "NextEpisodeTeaserTime": "",
+          "NextEpisodeHintTime": "",
+          "EpisodeTranslator": "Spacetoon",
+          "EpisodeRemastered": "",
+          "EpisodeCategory": "D"
+        }
+      ],
       "EpisodeMangasIDs": [],
       "EpisodeTrailersIDs": [
         {
@@ -90061,7 +90116,7 @@
       "EpisodeTitle": "لغز القصر: قصر الدوامة (الجزء الثاني)",
       "EpisodeType": "ف",
       "EpisodeSpecial": "",
-      "EpisodeStory": "",
+      "EpisodeStory": "عندما يمزق دوي مفاجئ سكون المكان، تبدأ لعبة مميتة تتحدى العقل. جريمة تقع وقاتل يتلاشى كالسراب رغم تقارب المسافات، ليترك خلفه أسئلة بلا إجابات ومتاهة من الأسرار المدفونة التي تفضي إلى زوايا منسية كانت طي الكتمان. وحينما تتجه الأنظار لفك شيفرة هذا اللغز المستحيل، تضرب العاصفة من جديد لتسقط ضحية أخرى وتزيد المشهد تعقيدا ورعبا. فمن يختبئ في قلب هذه الدوامة المظلمة، وهل يمكن انتزاع الحقيقة الغائبة من بين تلك الجدران الملعونة قبل فوات الأوان؟\n",
       "EpisodeMangaQuoted": "",
       "EpisodeSeason": "الحادي والثلاثون",
       "EpisodeSeasonCount": "10",
@@ -90074,12 +90129,34 @@
       "EpisodeNextHint": "",
       "EpisodeEventsAdvanced": "",
       "EpisodeSummary": "",
-      "EpisodeCurrentHint": "",
+      "EpisodeCurrentHint": "حبل",
       "EpisodeParts": "344",
       "EpisodeFilterAdvanced": "",
       "EpisodeVideosIDs": [],
       "EpisodeMangasIDs": [],
-      "EpisodeTrailersIDs": []
+      "EpisodeTrailersIDs": [
+        {
+          "TrailerNumber": "1",
+          "Provider": "Mega",
+          "TrailerID": "v042HKQR#XBk36CHX5WHPZ3WtFyxzirCSy1NtRiwwzs5dUVMjmc0",
+          "Resolution": "",
+          "Size": ""
+        },
+        {
+          "TrailerNumber": "1",
+          "Provider": "GDrive",
+          "TrailerID": "17QHUb0SucSJVZgCSYZv1RD1Hk5OD2PYi",
+          "Resolution": "",
+          "Size": ""
+        },
+        {
+          "TrailerNumber": "1",
+          "Provider": "TG",
+          "TrailerID": "BAACAgQAAxkBAAEBfWppx7zwCjaR_ZxYT867dFoE3LOEoAAC7h0AAh47QVK2fxtD4VgHJToE",
+          "Resolution": "720p",
+          "Size": "1.94"
+        }
+      ]
     }
   ],
   "Mangas": [
